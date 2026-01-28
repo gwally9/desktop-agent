@@ -1,0 +1,1521 @@
+2026-01-28 13:53:07,507 - INFO - Desktop path: /Users/gw-air/Desktop
+2026-01-28 13:53:07,507 - INFO - Dry run mode: True
+2026-01-28 13:53:07,507 - INFO - ============================================================
+2026-01-28 13:53:07,507 - INFO - Starting desktop organization...
+2026-01-28 13:53:07,507 - INFO - ============================================================
+2026-01-28 13:53:07,508 - INFO - Found 133 files on desktop
+2026-01-28 13:53:07,509 - INFO - 
+Processing 28 screenshots...
+2026-01-28 13:53:07,509 - INFO - Analyzing: Screenshot 2026-01-27 at 5.09.46 PM.png
+2026-01-28 13:53:09,855 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:09,878 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-27 at 5.09.46 PM.png -> IRA-Portfolio-Holdings.png
+2026-01-28 13:53:09,879 - INFO - Analyzing: Screenshot 2026-01-27 at 5.09.54 PM.png
+2026-01-28 13:53:11,797 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:11,800 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-27 at 5.09.54 PM.png -> 401K-Portfolio-Summary.png
+2026-01-28 13:53:11,801 - INFO - Analyzing: Screenshot 2026-01-19 at 12.45.44 PM.png
+2026-01-28 13:53:14,155 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:14,158 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-19 at 12.45.44 PM.png -> Fidelity-401k-Rollover-Instructions.png
+2026-01-28 13:53:14,158 - INFO - Analyzing: Screenshot 2026-01-27 at 5.10.03 PM.png
+2026-01-28 13:53:16,271 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:16,274 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-27 at 5.10.03 PM.png -> UC-Retirement-Plan-Statement.png
+2026-01-28 13:53:16,274 - INFO - Analyzing: Screenshot 2026-01-16 at 4.04.13 PM.png
+2026-01-28 13:53:17,840 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:17,843 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-16 at 4.04.13 PM.png -> Stock-Market-Portfolio-View.png
+2026-01-28 13:53:17,843 - INFO - Analyzing: Screenshot 2026-01-20 at 12.44.32 PM.png
+2026-01-28 13:53:21,688 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:21,691 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-20 at 12.44.32 PM.png -> Hugging-Face-Nemotron-Model.png
+2026-01-28 13:53:21,691 - INFO - Analyzing: Screenshot 2026-01-28 at 12.43.14 PM.png
+2026-01-28 13:53:23,574 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:23,577 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-28 at 12.43.14 PM.png -> Redfin-Home-Value-Estimate.png
+2026-01-28 13:53:23,577 - INFO - Analyzing: Screenshot 2026-01-27 at 5.09.39 PM.png
+2026-01-28 13:53:25,826 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:25,829 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-27 at 5.09.39 PM.png -> Investment-Account-Summary.png
+2026-01-28 13:53:25,830 - INFO - Analyzing: Screenshot 2026-01-19 at 1.58.33 PM.png
+2026-01-28 13:53:30,127 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:30,131 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-19 at 1.58.33 PM.png -> Starlink-Vehicle-Setup-Post.png
+2026-01-28 13:53:30,132 - INFO - Analyzing: Screenshot 2026-01-28 at 12.45.28 PM.png
+2026-01-28 13:53:31,768 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:31,771 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-28 at 12.45.28 PM.png -> Calculator-Math-Expression.png
+2026-01-28 13:53:31,772 - INFO - Analyzing: Screenshot 2026-01-20 at 11.23.09 AM.png
+2026-01-28 13:53:33,608 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:33,611 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-20 at 11.23.09 AM.png -> School-Lunch-Menu-Calendar.png
+2026-01-28 13:53:33,611 - INFO - Analyzing: Screenshot 2026-01-26 at 11.03.07 AM.png
+2026-01-28 13:53:35,759 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:35,762 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-26 at 11.03.07 AM.png -> OMISS-QSO-Party-Contest.png
+2026-01-28 13:53:35,763 - INFO - Analyzing: Screenshot 2026-01-26 at 11.03.15 AM.png
+2026-01-28 13:53:37,814 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:37,817 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-26 at 11.03.15 AM.png -> QSO-Contest-Rules.png
+2026-01-28 13:53:37,817 - INFO - Analyzing: Screenshot 2026-01-19 at 12.57.21 PM.png
+2026-01-28 13:53:39,652 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:39,655 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-19 at 12.57.21 PM.png -> Investment-Fund-Performance-Table.png
+2026-01-28 13:53:39,656 - INFO - Analyzing: Screenshot 2026-01-28 at 1.46.03 PM.png
+2026-01-28 13:53:41,689 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:41,692 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-28 at 1.46.03 PM.png -> Ollama-Claude-Installation-Guide.png
+2026-01-28 13:53:41,692 - INFO - Analyzing: Screenshot 2026-01-20 at 12.40.08 PM.png
+2026-01-28 13:53:46,306 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:46,309 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-20 at 12.40.08 PM.png -> OpenRouter-AI-Models-Selection.png
+2026-01-28 13:53:46,309 - INFO - Analyzing: Screenshot 2026-01-16 at 11.48.11 AM.png
+2026-01-28 13:53:48,660 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:48,663 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-16 at 11.48.11 AM.png -> Stock-Portfolio-Dashboard.png
+2026-01-28 13:53:48,664 - INFO - Analyzing: Screenshot 2026-01-19 at 12.57.55 PM.png
+2026-01-28 13:53:50,040 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:50,043 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-19 at 12.57.55 PM.png -> Health-Fund-Performance-Data.png
+2026-01-28 13:53:50,043 - INFO - Analyzing: Screenshot 2026-01-28 at 12.21.44 PM.png
+2026-01-28 13:53:52,058 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:52,061 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-28 at 12.21.44 PM.png -> Ollama-Launch-Command-Overview.png
+2026-01-28 13:53:52,061 - INFO - Analyzing: Screenshot 2026-01-19 at 12.47.39 PM.png
+2026-01-28 13:53:55,009 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:55,012 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-19 at 12.47.39 PM.png -> Fidelity-Portfolio-Performance-Dashboard.png
+2026-01-28 13:53:55,012 - INFO - Analyzing: Screenshot 2026-01-28 at 1.03.28 PM.png
+2026-01-28 13:53:56,726 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:53:56,729 - INFO - [DRY RUN] Would rename: Screenshot 2026-01-28 at 1.03.28 PM.png -> Contact-Menu-Options.png
+2026-01-28 13:53:56,729 - INFO - Analyzing: Screenshot 2026-01-16 at 3.34.17 PM.png
+2026-01-28 13:53:56,813 - INFO - 
+Operation cancelled by user
+2026-01-28 13:58:11,181 - INFO - Desktop path: /Users/gw-air/Desktop
+2026-01-28 13:58:11,181 - INFO - Dry run mode: False
+2026-01-28 13:58:11,181 - INFO - ============================================================
+2026-01-28 13:58:11,181 - INFO - Starting desktop organization...
+2026-01-28 13:58:11,181 - INFO - ============================================================
+2026-01-28 13:58:11,182 - INFO - Found 133 files on desktop
+2026-01-28 13:58:11,182 - INFO - 
+Processing 28 screenshots...
+2026-01-28 13:58:11,183 - INFO - Analyzing: Screenshot 2026-01-27 at 5.09.46 PM.png
+2026-01-28 13:58:13,439 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:13,457 - INFO - Renamed: Screenshot 2026-01-27 at 5.09.46 PM.png -> IRA-Portfolio-Summary.png
+2026-01-28 13:58:13,457 - INFO - Analyzing: Screenshot 2026-01-27 at 5.09.54 PM.png
+2026-01-28 13:58:15,728 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:15,732 - INFO - Renamed: Screenshot 2026-01-27 at 5.09.54 PM.png -> IBM-401k-Portfolio-Summary.png
+2026-01-28 13:58:15,732 - INFO - Analyzing: Screenshot 2026-01-19 at 12.45.44 PM.png
+2026-01-28 13:58:17,789 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:17,793 - INFO - Renamed: Screenshot 2026-01-19 at 12.45.44 PM.png -> Fidelity-401k-Rollover-Instructions.png
+2026-01-28 13:58:17,793 - INFO - Analyzing: Screenshot 2026-01-27 at 5.10.03 PM.png
+2026-01-28 13:58:20,743 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:20,748 - INFO - Renamed: Screenshot 2026-01-27 at 5.10.03 PM.png -> UC-Retirement-Plan-Statement.png
+2026-01-28 13:58:20,748 - INFO - Analyzing: Screenshot 2026-01-16 at 4.04.13 PM.png
+2026-01-28 13:58:22,383 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:22,387 - INFO - Renamed: Screenshot 2026-01-16 at 4.04.13 PM.png -> Stock-Price-Dashboard.png
+2026-01-28 13:58:22,387 - INFO - Analyzing: Screenshot 2026-01-20 at 12.44.32 PM.png
+2026-01-28 13:58:26,268 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:26,271 - INFO - Renamed: Screenshot 2026-01-20 at 12.44.32 PM.png -> Nemotron-AI-Model-Page.png
+2026-01-28 13:58:26,271 - INFO - Analyzing: Screenshot 2026-01-28 at 12.43.14 PM.png
+2026-01-28 13:58:28,263 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:28,267 - INFO - Renamed: Screenshot 2026-01-28 at 12.43.14 PM.png -> Redfin-Home-Value-Estimate.png
+2026-01-28 13:58:28,267 - INFO - Analyzing: Screenshot 2026-01-27 at 5.09.39 PM.png
+2026-01-28 13:58:30,059 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:30,062 - INFO - Renamed: Screenshot 2026-01-27 at 5.09.39 PM.png -> Investment-Account-Summary.png
+2026-01-28 13:58:30,063 - INFO - Analyzing: Screenshot 2026-01-19 at 1.58.33 PM.png
+2026-01-28 13:58:33,225 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:33,228 - INFO - Renamed: Screenshot 2026-01-19 at 1.58.33 PM.png -> Starlink-Vehicle-Setup-Post.png
+2026-01-28 13:58:33,229 - INFO - Analyzing: Screenshot 2026-01-28 at 12.45.28 PM.png
+2026-01-28 13:58:34,872 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:34,876 - INFO - Renamed: Screenshot 2026-01-28 at 12.45.28 PM.png -> Calculator-Mathematical-Expression.png
+2026-01-28 13:58:34,877 - INFO - Analyzing: Screenshot 2026-01-20 at 11.23.09 AM.png
+2026-01-28 13:58:36,786 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:36,789 - INFO - Renamed: Screenshot 2026-01-20 at 11.23.09 AM.png -> School-Lunch-Menu-Calendar.png
+2026-01-28 13:58:36,789 - INFO - Analyzing: Screenshot 2026-01-26 at 11.03.07 AM.png
+2026-01-28 13:58:38,662 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:38,666 - INFO - Renamed: Screenshot 2026-01-26 at 11.03.07 AM.png -> OMISS-QSO-Contest-Timer.png
+2026-01-28 13:58:38,666 - INFO - Analyzing: Screenshot 2026-01-26 at 11.03.15 AM.png
+2026-01-28 13:58:40,502 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:40,505 - INFO - Renamed: Screenshot 2026-01-26 at 11.03.15 AM.png -> QSO-Contest-Rules.png
+2026-01-28 13:58:40,506 - INFO - Analyzing: Screenshot 2026-01-19 at 12.57.21 PM.png
+2026-01-28 13:58:42,305 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:42,309 - INFO - Renamed: Screenshot 2026-01-19 at 12.57.21 PM.png -> Investment-Fund-Performance-Table.png
+2026-01-28 13:58:42,309 - INFO - Analyzing: Screenshot 2026-01-28 at 1.46.03 PM.png
+2026-01-28 13:58:44,638 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:44,654 - INFO - Renamed: Screenshot 2026-01-28 at 1.46.03 PM.png -> Ollama-Claude-Installation-Guide.png
+2026-01-28 13:58:44,654 - INFO - Analyzing: Screenshot 2026-01-20 at 12.40.08 PM.png
+2026-01-28 13:58:48,607 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:48,611 - INFO - Renamed: Screenshot 2026-01-20 at 12.40.08 PM.png -> YouTube-AI-Model-Selection.png
+2026-01-28 13:58:48,611 - INFO - Analyzing: Screenshot 2026-01-16 at 11.48.11 AM.png
+2026-01-28 13:58:51,257 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:51,260 - INFO - Renamed: Screenshot 2026-01-16 at 11.48.11 AM.png -> Stock-Portfolio-Dashboard.png
+2026-01-28 13:58:51,260 - INFO - Analyzing: Screenshot 2026-01-19 at 12.57.55 PM.png
+2026-01-28 13:58:52,688 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:52,693 - INFO - Renamed: Screenshot 2026-01-19 at 12.57.55 PM.png -> Health-Fund-Performance-Data.png
+2026-01-28 13:58:52,693 - INFO - Analyzing: Screenshot 2026-01-28 at 12.21.44 PM.png
+2026-01-28 13:58:54,840 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:54,843 - INFO - Renamed: Screenshot 2026-01-28 at 12.21.44 PM.png -> Ollama-Launch-Command-Info.png
+2026-01-28 13:58:54,844 - INFO - Analyzing: Screenshot 2026-01-19 at 12.47.39 PM.png
+2026-01-28 13:58:58,043 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:58,046 - INFO - Renamed: Screenshot 2026-01-19 at 12.47.39 PM.png -> Fidelity-Portfolio-Performance-Dashboard.png
+2026-01-28 13:58:58,047 - INFO - Analyzing: Screenshot 2026-01-28 at 1.03.28 PM.png
+2026-01-28 13:58:59,654 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:58:59,657 - INFO - Renamed: Screenshot 2026-01-28 at 1.03.28 PM.png -> Contact-Options-Menu.png
+2026-01-28 13:58:59,658 - INFO - Analyzing: Screenshot 2026-01-16 at 3.34.17 PM.png
+2026-01-28 13:59:01,188 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:59:01,192 - INFO - Renamed: Screenshot 2026-01-16 at 3.34.17 PM.png -> Branch-Location-Details.png
+2026-01-28 13:59:01,192 - INFO - Analyzing: Screenshot 2026-01-19 at 12.47.29 PM.png
+2026-01-28 13:59:03,868 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:59:03,872 - INFO - Renamed: Screenshot 2026-01-19 at 12.47.29 PM.png -> Retirement-Portfolio-Dashboard.png
+2026-01-28 13:59:03,872 - INFO - Analyzing: Screenshot 2026-01-19 at 12.37.21 PM.png
+2026-01-28 13:59:06,607 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:59:06,612 - INFO - Renamed: Screenshot 2026-01-19 at 12.37.21 PM.png -> Retirement-Dashboard-Portfolio.png
+2026-01-28 13:59:06,612 - INFO - Analyzing: Screenshot 2026-01-09 at 3.21.39 PM.png
+2026-01-28 13:59:08,552 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:59:08,556 - INFO - Renamed: Screenshot 2026-01-09 at 3.21.39 PM.png -> Ham-Radio-Log-Data.png
+2026-01-28 13:59:08,556 - INFO - Analyzing: Screenshot 2026-01-19 at 1.21.37 PM.png
+2026-01-28 13:59:10,307 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:59:10,310 - INFO - Renamed: Screenshot 2026-01-19 at 1.21.37 PM.png -> Weather-App-Los-Angeles.png
+2026-01-28 13:59:10,311 - INFO - Analyzing: Screenshot 2026-01-20 at 12.40.12 PM.png
+2026-01-28 13:59:15,114 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:59:15,117 - INFO - Renamed: Screenshot 2026-01-20 at 12.40.12 PM.png -> YouTube-Gemini-Flash-Preview.png
+2026-01-28 13:59:15,117 - INFO - Analyzing: Screenshot 2026-01-27 at 5.24.49 PM.png
+2026-01-28 13:59:17,574 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 13:59:17,578 - INFO - Renamed: Screenshot 2026-01-27 at 5.24.49 PM.png -> Funny-Biology-Fact-Meme.png
+2026-01-28 13:59:17,578 - INFO - 
+Organizing files into folders...
+2026-01-28 13:59:17,579 - INFO - Created folder: Images
+2026-01-28 13:59:17,579 - INFO - Moved: IRA-Portfolio-Summary.png -> /Users/gw-air/Desktop/Images/IRA-Portfolio-Summary.png
+2026-01-28 13:59:17,580 - INFO - Moved: IBM-401k-Portfolio-Summary.png -> /Users/gw-air/Desktop/Images/IBM-401k-Portfolio-Summary.png
+2026-01-28 13:59:17,580 - INFO - Moved: Fidelity-401k-Rollover-Instructions.png -> /Users/gw-air/Desktop/Images/Fidelity-401k-Rollover-Instructions.png
+2026-01-28 13:59:17,580 - INFO - Moved: UC-Retirement-Plan-Statement.png -> /Users/gw-air/Desktop/Images/UC-Retirement-Plan-Statement.png
+2026-01-28 13:59:17,581 - INFO - Moved: Stock-Price-Dashboard.png -> /Users/gw-air/Desktop/Images/Stock-Price-Dashboard.png
+2026-01-28 13:59:17,583 - INFO - Moved: Nemotron-AI-Model-Page.png -> /Users/gw-air/Desktop/Images/Nemotron-AI-Model-Page.png
+2026-01-28 13:59:17,584 - INFO - Moved: Redfin-Home-Value-Estimate.png -> /Users/gw-air/Desktop/Images/Redfin-Home-Value-Estimate.png
+2026-01-28 13:59:17,585 - INFO - Moved: Investment-Account-Summary.png -> /Users/gw-air/Desktop/Images/Investment-Account-Summary.png
+2026-01-28 13:59:17,586 - INFO - Moved: Starlink-Vehicle-Setup-Post.png -> /Users/gw-air/Desktop/Images/Starlink-Vehicle-Setup-Post.png
+2026-01-28 13:59:17,586 - INFO - Moved: Calculator-Mathematical-Expression.png -> /Users/gw-air/Desktop/Images/Calculator-Mathematical-Expression.png
+2026-01-28 13:59:17,587 - INFO - Moved: School-Lunch-Menu-Calendar.png -> /Users/gw-air/Desktop/Images/School-Lunch-Menu-Calendar.png
+2026-01-28 13:59:17,587 - INFO - Moved: OMISS-QSO-Contest-Timer.png -> /Users/gw-air/Desktop/Images/OMISS-QSO-Contest-Timer.png
+2026-01-28 13:59:17,588 - INFO - Moved: QSO-Contest-Rules.png -> /Users/gw-air/Desktop/Images/QSO-Contest-Rules.png
+2026-01-28 13:59:17,589 - INFO - Moved: Investment-Fund-Performance-Table.png -> /Users/gw-air/Desktop/Images/Investment-Fund-Performance-Table.png
+2026-01-28 13:59:17,589 - INFO - Moved: Ollama-Claude-Installation-Guide.png -> /Users/gw-air/Desktop/Images/Ollama-Claude-Installation-Guide.png
+2026-01-28 13:59:17,590 - INFO - Moved: YouTube-AI-Model-Selection.png -> /Users/gw-air/Desktop/Images/YouTube-AI-Model-Selection.png
+2026-01-28 13:59:17,590 - INFO - Moved: Stock-Portfolio-Dashboard.png -> /Users/gw-air/Desktop/Images/Stock-Portfolio-Dashboard.png
+2026-01-28 13:59:17,590 - INFO - Moved: Health-Fund-Performance-Data.png -> /Users/gw-air/Desktop/Images/Health-Fund-Performance-Data.png
+2026-01-28 13:59:17,592 - INFO - Moved: Ollama-Launch-Command-Info.png -> /Users/gw-air/Desktop/Images/Ollama-Launch-Command-Info.png
+2026-01-28 13:59:17,593 - INFO - Moved: Fidelity-Portfolio-Performance-Dashboard.png -> /Users/gw-air/Desktop/Images/Fidelity-Portfolio-Performance-Dashboard.png
+2026-01-28 13:59:17,593 - INFO - Moved: Contact-Options-Menu.png -> /Users/gw-air/Desktop/Images/Contact-Options-Menu.png
+2026-01-28 13:59:17,594 - INFO - Moved: Branch-Location-Details.png -> /Users/gw-air/Desktop/Images/Branch-Location-Details.png
+2026-01-28 13:59:17,594 - INFO - Moved: Retirement-Portfolio-Dashboard.png -> /Users/gw-air/Desktop/Images/Retirement-Portfolio-Dashboard.png
+2026-01-28 13:59:17,595 - INFO - Moved: Retirement-Dashboard-Portfolio.png -> /Users/gw-air/Desktop/Images/Retirement-Dashboard-Portfolio.png
+2026-01-28 13:59:17,595 - INFO - Moved: Ham-Radio-Log-Data.png -> /Users/gw-air/Desktop/Images/Ham-Radio-Log-Data.png
+2026-01-28 13:59:17,595 - INFO - Moved: Weather-App-Los-Angeles.png -> /Users/gw-air/Desktop/Images/Weather-App-Los-Angeles.png
+2026-01-28 13:59:17,596 - INFO - Moved: YouTube-Gemini-Flash-Preview.png -> /Users/gw-air/Desktop/Images/YouTube-Gemini-Flash-Preview.png
+2026-01-28 13:59:17,596 - INFO - Moved: Funny-Biology-Fact-Meme.png -> /Users/gw-air/Desktop/Images/Funny-Biology-Fact-Meme.png
+2026-01-28 13:59:17,596 - INFO - Moved: aws-citi.png -> /Users/gw-air/Desktop/Images/aws-citi.png
+2026-01-28 13:59:17,597 - INFO - Created folder: Shortcuts
+2026-01-28 13:59:17,597 - INFO - Moved: (82) Pluribus is a 600-Year-Old LIE (and Twilight Zone proves it) | Pluribus - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(82) Pluribus is a 600-Year-Old LIE (and Twilight Zone proves it) | Pluribus - YouTube.webloc
+2026-01-28 13:59:17,598 - INFO - Moved: (358) Google just destroyed all vibe-coding apps (Antigravity) - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(358) Google just destroyed all vibe-coding apps (Antigravity) - YouTube.webloc
+2026-01-28 13:59:17,598 - INFO - Created folder: Archives
+2026-01-28 13:59:17,598 - INFO - Moved: tesla-traker 2.zip -> /Users/gw-air/Desktop/Archives/tesla-traker 2.zip
+2026-01-28 13:59:17,599 - INFO - Moved: elecraft-amp.png -> /Users/gw-air/Desktop/Images/elecraft-amp.png
+2026-01-28 13:59:17,599 - INFO - Created folder: Other
+2026-01-28 13:59:17,599 - INFO - Moved: WSJTX_NEW_audio_clips -> /Users/gw-air/Desktop/Other/WSJTX_NEW_audio_clips
+2026-01-28 13:59:17,600 - INFO - Moved: (296) Ollama + Claude Code is INSANE! (FREE Local AI Coding) 🤯 - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(296) Ollama + Claude Code is INSANE! (FREE Local AI Coding) 🤯 - YouTube.webloc
+2026-01-28 13:59:17,600 - INFO - Moved: Home - WFDA.webloc -> /Users/gw-air/Desktop/Shortcuts/Home - WFDA.webloc
+2026-01-28 13:59:17,601 - INFO - Moved: (358) Ollama + Claude Code is INSANE! (FREE Local AI Coding) 🤯 - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(358) Ollama + Claude Code is INSANE! (FREE Local AI Coding) 🤯 - YouTube.webloc
+2026-01-28 13:59:17,601 - INFO - Moved: DX10-rig.png -> /Users/gw-air/Desktop/Images/DX10-rig.png
+2026-01-28 13:59:17,601 - INFO - Moved: Agent Zero.webloc -> /Users/gw-air/Desktop/Shortcuts/Agent Zero.webloc
+2026-01-28 13:59:17,602 - INFO - Moved: K5EM - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/Shortcuts/K5EM - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 13:59:17,602 - INFO - Moved: Earthquakes in Rancho Cucamonga, California, United States - Most Recent.webloc -> /Users/gw-air/Desktop/Shortcuts/Earthquakes in Rancho Cucamonga, California, United States - Most Recent.webloc
+2026-01-28 13:59:17,602 - INFO - Moved: kx3-debugging.png -> /Users/gw-air/Desktop/Images/kx3-debugging.png
+2026-01-28 13:59:17,603 - INFO - Moved: (82) PLURIBUS Episode 9 - BREAKDOWN And Ending Explained - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(82) PLURIBUS Episode 9 - BREAKDOWN And Ending Explained - YouTube.webloc
+2026-01-28 13:59:17,603 - INFO - Moved: cluade-key -> /Users/gw-air/Desktop/Other/cluade-key
+2026-01-28 13:59:17,603 - INFO - Moved: Mini Microphone for QMX, (tr)uSDX, uSDX, KX2, and KX3 by Adam Kimmerly | Download free STL model | Printables.com.webloc -> /Users/gw-air/Desktop/Shortcuts/Mini Microphone for QMX, (tr)uSDX, uSDX, KX2, and KX3 by Adam Kimmerly | Download free STL model | Printables.com.webloc
+2026-01-28 13:59:17,604 - INFO - Moved: JAN_BILLS_PAID.png -> /Users/gw-air/Desktop/Images/JAN_BILLS_PAID.png
+2026-01-28 13:59:17,604 - INFO - Moved: NV6T_20260126_182343.adi -> /Users/gw-air/Desktop/Other/NV6T_20260126_182343.adi
+2026-01-28 13:59:17,604 - INFO - Moved: Rules - WFDA.webloc -> /Users/gw-air/Desktop/Shortcuts/Rules - WFDA.webloc
+2026-01-28 13:59:17,605 - INFO - Created folder: Documents
+2026-01-28 13:59:17,605 - INFO - Moved: query-2.md -> /Users/gw-air/Desktop/Documents/query-2.md
+2026-01-28 13:59:17,605 - INFO - Moved: Grok Code Fast 1 - API, Providers, Stats | OpenRouter.webloc -> /Users/gw-air/Desktop/Shortcuts/Grok Code Fast 1 - API, Providers, Stats | OpenRouter.webloc
+2026-01-28 13:59:17,605 - INFO - Moved: winter field day cw exchange - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/winter field day cw exchange - Brave Search.webloc
+2026-01-28 13:59:17,606 - INFO - Moved: Kubeflow - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/Kubeflow - Brave Search.webloc
+2026-01-28 13:59:17,606 - INFO - Moved: Finding your API key - Claude.webloc -> /Users/gw-air/Desktop/Shortcuts/Finding your API key - Claude.webloc
+2026-01-28 13:59:17,606 - INFO - Moved: NV6T_WFD_2.adif -> /Users/gw-air/Desktop/Other/NV6T_WFD_2.adif
+2026-01-28 13:59:17,607 - INFO - Moved: MCP Toolkit | Docker Docs.webloc -> /Users/gw-air/Desktop/Shortcuts/MCP Toolkit | Docker Docs.webloc
+2026-01-28 13:59:17,607 - INFO - Moved: SUPERCHARGER .png -> /Users/gw-air/Desktop/Images/SUPERCHARGER .png
+2026-01-28 13:59:17,607 - INFO - Moved: agent0ai:agent.zero - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/agent0ai:agent.zero - Brave Search.webloc
+2026-01-28 13:59:17,608 - INFO - Moved: (13) Worldwide Jobs | LinkedIn.webloc -> /Users/gw-air/Desktop/Shortcuts/(13) Worldwide Jobs | LinkedIn.webloc
+2026-01-28 13:59:17,608 - INFO - Moved: (15) Google just destroyed all vibe-coding apps (Antigravity) - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(15) Google just destroyed all vibe-coding apps (Antigravity) - YouTube.webloc
+2026-01-28 13:59:17,608 - INFO - Moved: 2026 Chasing Cornwallis Challenge - K4C The Battle of Cowpens Special Event | QRZ Forums.webloc -> /Users/gw-air/Desktop/Shortcuts/2026 Chasing Cornwallis Challenge - K4C The Battle of Cowpens Special Event | QRZ Forums.webloc
+2026-01-28 13:59:17,608 - INFO - Moved: Sign up for Part B only | SSA.webloc -> /Users/gw-air/Desktop/Shortcuts/Sign up for Part B only | SSA.webloc
+2026-01-28 13:59:17,609 - INFO - Moved: kx3-ft8.png -> /Users/gw-air/Desktop/Images/kx3-ft8.png
+2026-01-28 13:59:17,609 - INFO - Moved: Fidelity NetBenefits - Health & Insurance 2.webloc -> /Users/gw-air/Desktop/Shortcuts/Fidelity NetBenefits - Health & Insurance 2.webloc
+2026-01-28 13:59:17,609 - INFO - Moved: qrz-award-TO-Get.png -> /Users/gw-air/Desktop/Images/qrz-award-TO-Get.png
+2026-01-28 13:59:17,609 - INFO - Moved: Client SDKs - Claude API Docs.webloc -> /Users/gw-air/Desktop/Shortcuts/Client SDKs - Claude API Docs.webloc
+2026-01-28 13:59:17,610 - INFO - Moved: agent0ai:agent.zero - Brave Search 2.webloc -> /Users/gw-air/Desktop/Shortcuts/agent0ai:agent.zero - Brave Search 2.webloc
+2026-01-28 13:59:17,610 - INFO - Moved: Congregate Meals | City of Rancho Cucamonga.webloc -> /Users/gw-air/Desktop/Shortcuts/Congregate Meals | City of Rancho Cucamonga.webloc
+2026-01-28 13:59:17,610 - INFO - Moved: what are the top stocks in the Russell 2000 - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/what are the top stocks in the Russell 2000 - Brave Search.webloc
+2026-01-28 13:59:17,610 - INFO - Moved: wsjtx not decoding from elecraft kx3 over digfirig - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/wsjtx not decoding from elecraft kx3 over digfirig - Brave Search.webloc
+2026-01-28 13:59:17,611 - INFO - Moved: (358) Build a Web Research AI Agent in 5 minutes (Smolagents + Ollama) - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(358) Build a Web Research AI Agent in 5 minutes (Smolagents + Ollama) - YouTube.webloc
+2026-01-28 13:59:17,611 - INFO - Moved: citi.png -> /Users/gw-air/Desktop/Images/citi.png
+2026-01-28 13:59:17,611 - INFO - Moved: Models – Hugging Face 2.webloc -> /Users/gw-air/Desktop/Shortcuts/Models – Hugging Face 2.webloc
+2026-01-28 13:59:17,611 - INFO - Moved: Award - World Wide Award 2.webloc -> /Users/gw-air/Desktop/Shortcuts/Award - World Wide Award 2.webloc
+2026-01-28 13:59:17,612 - INFO - Moved: Listen to the Ashes on ABC Sport - ABC listen.webloc -> /Users/gw-air/Desktop/Shortcuts/Listen to the Ashes on ABC Sport - ABC listen.webloc
+2026-01-28 13:59:17,612 - INFO - Moved: JS8Call - A weak signal keyboard-to-keyboard messaging mode for amateur radio.webloc -> /Users/gw-air/Desktop/Shortcuts/JS8Call - A weak signal keyboard-to-keyboard messaging mode for amateur radio.webloc
+2026-01-28 13:59:17,612 - INFO - Moved: 3830 Scores Home.webloc -> /Users/gw-air/Desktop/Shortcuts/3830 Scores Home.webloc
+2026-01-28 13:59:17,612 - INFO - Moved: Sign up for Part B only | SSA 2.webloc -> /Users/gw-air/Desktop/Shortcuts/Sign up for Part B only | SSA 2.webloc
+2026-01-28 13:59:17,613 - INFO - Moved: anthem medicare supplement plan g - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/anthem medicare supplement plan g - Brave Search.webloc
+2026-01-28 13:59:17,613 - INFO - Moved: (358) Google Antigravity- Hands-On Tutorial! - Ep. 017 - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(358) Google Antigravity- Hands-On Tutorial! - Ep. 017 - YouTube.webloc
+2026-01-28 13:59:17,614 - INFO - Moved: (17) DevOps Lead Engineer | Southern California Edison (SCE) | LinkedIn.webloc -> /Users/gw-air/Desktop/Shortcuts/(17) DevOps Lead Engineer | Southern California Edison (SCE) | LinkedIn.webloc
+2026-01-28 13:59:17,614 - INFO - Moved: GitHub - js8call:js8call- Official repository for JS8Call Software.webloc -> /Users/gw-air/Desktop/Shortcuts/GitHub - js8call:js8call- Official repository for JS8Call Software.webloc
+2026-01-28 13:59:17,615 - INFO - Moved: (82) PLURIBUS- Every NEW Detail We Know So Far #pluribus #breakingbad #shorts - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(82) PLURIBUS- Every NEW Detail We Know So Far #pluribus #breakingbad #shorts - YouTube.webloc
+2026-01-28 13:59:17,615 - INFO - Moved: Award - World Wide Award.webloc -> /Users/gw-air/Desktop/Shortcuts/Award - World Wide Award.webloc
+2026-01-28 13:59:17,615 - INFO - Moved: (82) Continued Apologies to Matt Damon - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(82) Continued Apologies to Matt Damon - YouTube.webloc
+2026-01-28 13:59:17,616 - INFO - Moved: MYWayRoofing_Contractor_Remediation_Letter.pdf -> /Users/gw-air/Desktop/Documents/MYWayRoofing_Contractor_Remediation_Letter.pdf
+2026-01-28 13:59:17,616 - INFO - Moved: Fidelity NetBenefits Investment Performance & Research.webloc -> /Users/gw-air/Desktop/Shortcuts/Fidelity NetBenefits Investment Performance & Research.webloc
+2026-01-28 13:59:17,616 - INFO - Moved: kx3-profile.png -> /Users/gw-air/Desktop/Images/kx3-profile.png
+2026-01-28 13:59:17,617 - INFO - Moved: SOTACAT – SOTAmāt.webloc -> /Users/gw-air/Desktop/Shortcuts/SOTACAT – SOTAmāt.webloc
+2026-01-28 13:59:17,617 - INFO - Moved: Fidelity NetBenefits - Rebalance- Choose Your Allocation.webloc -> /Users/gw-air/Desktop/Shortcuts/Fidelity NetBenefits - Rebalance- Choose Your Allocation.webloc
+2026-01-28 13:59:17,617 - INFO - Moved: tesla-dec.png -> /Users/gw-air/Desktop/Images/tesla-dec.png
+2026-01-28 13:59:17,617 - INFO - Moved: wsjtx_log.adi -> /Users/gw-air/Desktop/Other/wsjtx_log.adi
+2026-01-28 13:59:17,618 - INFO - Moved: Free Car Wrap Configurator - Preview 3M, Avery & TeckWrap Online | AutoStyle.AI.webloc -> /Users/gw-air/Desktop/Shortcuts/Free Car Wrap Configurator - Preview 3M, Avery & TeckWrap Online | AutoStyle.AI.webloc
+2026-01-28 13:59:17,618 - INFO - Moved: GitHub Actions · GitHub.webloc -> /Users/gw-air/Desktop/Shortcuts/GitHub Actions · GitHub.webloc
+2026-01-28 13:59:17,618 - INFO - Moved: Firmware & Software – Elecraft.webloc -> /Users/gw-air/Desktop/Shortcuts/Firmware & Software – Elecraft.webloc
+2026-01-28 13:59:17,618 - INFO - Moved: FSQ - Fast Simple QSO for Amateur Radio.webloc -> /Users/gw-air/Desktop/Shortcuts/FSQ - Fast Simple QSO for Amateur Radio.webloc
+2026-01-28 13:59:17,618 - INFO - Moved: Google Antigravity Documentation.webloc -> /Users/gw-air/Desktop/Shortcuts/Google Antigravity Documentation.webloc
+2026-01-28 13:59:17,619 - INFO - Moved: wsjtx.adi -> /Users/gw-air/Desktop/Other/wsjtx.adi
+2026-01-28 13:59:17,619 - INFO - Moved: Models – Hugging Face.webloc -> /Users/gw-air/Desktop/Shortcuts/Models – Hugging Face.webloc
+2026-01-28 13:59:17,619 - INFO - Moved: tesla-traker.zip -> /Users/gw-air/Desktop/Archives/tesla-traker.zip
+2026-01-28 13:59:17,619 - INFO - Moved: KX3-FT8-Contact.png -> /Users/gw-air/Desktop/Images/KX3-FT8-Contact.png
+2026-01-28 13:59:17,619 - INFO - Moved: Collect Your Pension- Fidelity NetBenefits 2.webloc -> /Users/gw-air/Desktop/Shortcuts/Collect Your Pension- Fidelity NetBenefits 2.webloc
+2026-01-28 13:59:17,620 - INFO - Moved: stmt_MEGA_months.numbers -> /Users/gw-air/Desktop/Documents/stmt_MEGA_months.numbers
+2026-01-28 13:59:17,620 - INFO - Moved: (20+) Elecraft KX3 | Facebook.webloc -> /Users/gw-air/Desktop/Shortcuts/(20+) Elecraft KX3 | Facebook.webloc
+2026-01-28 13:59:17,620 - INFO - Moved: query-1.md -> /Users/gw-air/Desktop/Documents/query-1.md
+2026-01-28 13:59:17,620 - INFO - Moved: reform_ASAP.numbers -> /Users/gw-air/Desktop/Documents/reform_ASAP.numbers
+2026-01-28 13:59:17,621 - INFO - Moved: (82) Tesla's MASSIVE Update Has NEW Surprise Features! - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(82) Tesla's MASSIVE Update Has NEW Surprise Features! - YouTube.webloc
+2026-01-28 13:59:17,621 - INFO - Moved: World Radio League.webloc -> /Users/gw-air/Desktop/Shortcuts/World Radio League.webloc
+2026-01-28 13:59:17,621 - INFO - Moved: (82) 😧🐱Scaredy Cats at the Dentist Office🙀🪥 - Funny Cats Doing Human Things - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(82) 😧🐱Scaredy Cats at the Dentist Office🙀🪥 - Funny Cats Doing Human Things - YouTube.webloc
+2026-01-28 13:59:17,621 - INFO - Moved: health quote.png -> /Users/gw-air/Desktop/Images/health quote.png
+2026-01-28 13:59:17,622 - INFO - Moved: (72) If you are a TESLA shareholder….GET READY - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(72) If you are a TESLA shareholder….GET READY - YouTube.webloc
+2026-01-28 13:59:17,622 - INFO - Moved: (296) Agent Zero 🤖 Local with Ollama - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(296) Agent Zero 🤖 Local with Ollama - YouTube.webloc
+2026-01-28 13:59:17,622 - INFO - Moved: PD tmob.png -> /Users/gw-air/Desktop/Images/PD tmob.png
+2026-01-28 13:59:17,623 - INFO - Moved: Collect Your Pension- Fidelity NetBenefits.webloc -> /Users/gw-air/Desktop/Shortcuts/Collect Your Pension- Fidelity NetBenefits.webloc
+2026-01-28 13:59:17,623 - INFO - Moved: Top job picks for you | LinkedIn.webloc -> /Users/gw-air/Desktop/Shortcuts/Top job picks for you | LinkedIn.webloc
+2026-01-28 13:59:17,623 - INFO - Moved: How to Run a Local LLM- Complete Guide to Setup & Best Models (2025) – n8n Blog 2.webloc -> /Users/gw-air/Desktop/Shortcuts/How to Run a Local LLM- Complete Guide to Setup & Best Models (2025) – n8n Blog 2.webloc
+2026-01-28 13:59:17,624 - INFO - Moved: OpenCL - The Open Standard for Parallel Programming of Heterogeneous Systems.webloc -> /Users/gw-air/Desktop/Shortcuts/OpenCL - The Open Standard for Parallel Programming of Heterogeneous Systems.webloc
+2026-01-28 13:59:17,624 - INFO - Moved: Google Antigravity.webloc -> /Users/gw-air/Desktop/Shortcuts/Google Antigravity.webloc
+2026-01-28 13:59:17,624 - INFO - Moved: how do i install google (gemma) model into ollama - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/how do i install google (gemma) model into ollama - Brave Search.webloc
+2026-01-28 13:59:17,624 - INFO - Moved: How to Run a Local LLM- Complete Guide to Setup & Best Models (2025) – n8n Blog.webloc -> /Users/gw-air/Desktop/Shortcuts/How to Run a Local LLM- Complete Guide to Setup & Best Models (2025) – n8n Blog.webloc
+2026-01-28 13:59:17,624 - INFO - Moved: Claude Developer Platform.webloc -> /Users/gw-air/Desktop/Shortcuts/Claude Developer Platform.webloc
+2026-01-28 13:59:17,625 - INFO - Moved: WFD_NV6T.adif -> /Users/gw-air/Desktop/Other/WFD_NV6T.adif
+2026-01-28 13:59:17,625 - INFO - Moved: (17) Cloud Architect Jobs | LinkedIn.webloc -> /Users/gw-air/Desktop/Shortcuts/(17) Cloud Architect Jobs | LinkedIn.webloc
+2026-01-28 13:59:17,625 - INFO - Moved: (17) Senior Software Engineer, DevOps | Anduril Industries | LinkedIn.webloc -> /Users/gw-air/Desktop/Shortcuts/(17) Senior Software Engineer, DevOps | Anduril Industries | LinkedIn.webloc
+2026-01-28 13:59:17,625 - INFO - Moved: MLflow - Brave Search.webloc -> /Users/gw-air/Desktop/Shortcuts/MLflow - Brave Search.webloc
+2026-01-28 13:59:17,626 - INFO - Moved: reform_ASAP.zip -> /Users/gw-air/Desktop/Archives/reform_ASAP.zip
+2026-01-28 13:59:17,627 - INFO - Moved: Award - World Wide Award 3.webloc -> /Users/gw-air/Desktop/Shortcuts/Award - World Wide Award 3.webloc
+2026-01-28 13:59:17,627 - INFO - Moved: tesla-charge-2.png -> /Users/gw-air/Desktop/Images/tesla-charge-2.png
+2026-01-28 13:59:17,627 - INFO - Moved: field-day-winter.rped -> /Users/gw-air/Desktop/Other/field-day-winter.rped
+2026-01-28 13:59:17,627 - INFO - Moved: tesla-charge-0.png -> /Users/gw-air/Desktop/Images/tesla-charge-0.png
+2026-01-28 13:59:17,628 - INFO - Moved: (77) I Read 10,000 Cover Letters. This One Wins (And it is only 3 sentences) - YouTube.webloc -> /Users/gw-air/Desktop/Shortcuts/(77) I Read 10,000 Cover Letters. This One Wins (And it is only 3 sentences) - YouTube.webloc
+2026-01-28 13:59:17,628 - INFO - Moved: gridTracker-logging.png -> /Users/gw-air/Desktop/Images/gridTracker-logging.png
+2026-01-28 13:59:17,629 - INFO - Moved: Fidelity NetBenefits - Health & Insurance.webloc -> /Users/gw-air/Desktop/Shortcuts/Fidelity NetBenefits - Health & Insurance.webloc
+2026-01-28 13:59:17,629 - INFO - Moved: tesla-charge-1.png -> /Users/gw-air/Desktop/Images/tesla-charge-1.png
+2026-01-28 13:59:17,629 - INFO - 
+============================================================
+2026-01-28 13:59:17,629 - INFO - Organization complete!
+2026-01-28 13:59:17,629 - INFO - ============================================================
+2026-01-28 13:59:17,629 - INFO - Files processed: 133
+2026-01-28 13:59:17,629 - INFO - Files moved: 133
+2026-01-28 13:59:17,629 - INFO - Screenshots renamed: 28
+2026-01-28 13:59:17,629 - INFO - Folders created: 5
+2026-01-28 13:59:17,629 - INFO - Errors: 0
+2026-01-28 14:03:27,158 - INFO - Desktop path: /Users/gw-air/Desktop
+2026-01-28 14:03:27,158 - INFO - Dry run mode: False
+2026-01-28 14:03:27,158 - INFO - ============================================================
+2026-01-28 14:03:27,158 - INFO - Starting desktop organization...
+2026-01-28 14:03:27,159 - INFO - ============================================================
+2026-01-28 14:03:27,159 - INFO - Found 36 files on desktop
+2026-01-28 14:03:27,159 - INFO - 
+Processing 33 screenshots...
+2026-01-28 14:03:27,159 - INFO - Analyzing: Screenshot 2025-09-23 at 12.24.36 PM.png
+2026-01-28 14:03:29,425 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:29,441 - INFO - Renamed: Screenshot 2025-09-23 at 12.24.36 PM.png -> Amateur-Radio-Constitution-Event.png
+2026-01-28 14:03:29,441 - INFO - Analyzing: Screenshot 2025-09-18 at 10.50.07 AM.png
+2026-01-28 14:03:34,702 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:34,705 - INFO - Renamed: Screenshot 2025-09-18 at 10.50.07 AM.png -> McDonalds-Cheeseburger-Deal.png
+2026-01-28 14:03:34,705 - INFO - Analyzing: Screenshot 2025-09-10 at 11.15.09 AM.png
+2026-01-28 14:03:38,440 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:38,443 - INFO - Renamed: Screenshot 2025-09-10 at 11.15.09 AM.png -> Apache-Case-Product-Page.png
+2026-01-28 14:03:38,443 - INFO - Analyzing: Screenshot 2025-09-25 at 12.19.11 PM.png
+2026-01-28 14:03:40,398 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:40,400 - INFO - Renamed: Screenshot 2025-09-25 at 12.19.11 PM.png -> Investment-Account-Summary.png
+2026-01-28 14:03:40,400 - INFO - Analyzing: Screenshot 2025-06-14 at 11.27.10 PM.png
+2026-01-28 14:03:42,688 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:42,692 - INFO - Renamed: Screenshot 2025-06-14 at 11.27.10 PM.png -> Korean-Bakery-Review-Post.png
+2026-01-28 14:03:42,692 - INFO - Analyzing: Screenshot 2025-10-13 at 8.17.32 PM.png
+2026-01-28 14:03:46,476 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:46,479 - INFO - Renamed: Screenshot 2025-10-13 at 8.17.32 PM.png -> Google-Maps-Park-Details.png
+2026-01-28 14:03:46,479 - INFO - Analyzing: Screenshot 2025-09-25 at 12.19.07 PM.png
+2026-01-28 14:03:49,345 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:49,348 - INFO - Renamed: Screenshot 2025-09-25 at 12.19.07 PM.png -> Rollover-IRA-Portfolio-Dashboard.png
+2026-01-28 14:03:49,348 - INFO - Analyzing: Screenshot 2025-09-25 at 12.15.46 PM.png
+2026-01-28 14:03:52,210 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:52,213 - INFO - Renamed: Screenshot 2025-09-25 at 12.15.46 PM.png -> AM-Contest-Rules-2025.png
+2026-01-28 14:03:52,213 - INFO - Analyzing: Screenshot 2025-06-09 at 4.05.47 PM.png
+2026-01-28 14:03:54,362 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:54,365 - INFO - Renamed: Screenshot 2025-06-09 at 4.05.47 PM.png -> Awning-Accessories-Selection-Page.png
+2026-01-28 14:03:54,365 - INFO - Analyzing: Screenshot 2025-06-14 at 11.36.40 PM.png
+2026-01-28 14:03:56,306 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:56,309 - INFO - Renamed: Screenshot 2025-06-14 at 11.36.40 PM.png -> Restaurant-Social-Media-Post.png
+2026-01-28 14:03:56,309 - INFO - Analyzing: Screenshot 2025-10-13 at 8.09.57 PM.png
+2026-01-28 14:03:58,460 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:03:58,463 - INFO - Renamed: Screenshot 2025-10-13 at 8.09.57 PM.png -> Map-Grapeland-Base-Line.png
+2026-01-28 14:03:58,464 - INFO - Analyzing: Screenshot 2025-09-25 at 12.18.27 PM.png
+2026-01-28 14:04:00,709 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:00,717 - INFO - Renamed: Screenshot 2025-09-25 at 12.18.27 PM.png -> Stock-Sale-Transaction-Details.png
+2026-01-28 14:04:00,717 - INFO - Analyzing: Screenshot 2025-10-13 at 8.11.04 PM.png
+2026-01-28 14:04:02,657 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:02,661 - INFO - Renamed: Screenshot 2025-10-13 at 8.11.04 PM.png -> Park-Map-Victoria-Lane.png
+2026-01-28 14:04:02,661 - INFO - Analyzing: Screenshot 2025-09-25 at 12.18.35 PM.png
+2026-01-28 14:04:04,379 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:04,382 - INFO - Renamed: Screenshot 2025-09-25 at 12.18.35 PM.png -> Stock-Sale-Transaction-Details-1.png
+2026-01-28 14:04:04,382 - INFO - Analyzing: Screenshot 2025-10-13 at 8.15.07 PM.png
+2026-01-28 14:04:07,933 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:07,936 - INFO - Renamed: Screenshot 2025-10-13 at 8.15.07 PM.png -> Rancho-Summit-Park-Map.png
+2026-01-28 14:04:07,936 - INFO - Analyzing: Screenshot 2025-09-16 at 9.53.03 AM.png
+2026-01-28 14:04:11,675 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:11,678 - INFO - Renamed: Screenshot 2025-09-16 at 9.53.03 AM.png -> USPS-Package-Tracking.png
+2026-01-28 14:04:11,679 - INFO - Analyzing: Screenshot 2025-10-13 at 8.21.54 PM.png
+2026-01-28 14:04:14,029 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:14,033 - INFO - Renamed: Screenshot 2025-10-13 at 8.21.54 PM.png -> Map-Street-View-Downtown.png
+2026-01-28 14:04:14,033 - INFO - Analyzing: Screenshot 2025-10-07 at 2.04.37 PM.png
+2026-01-28 14:04:15,874 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:15,877 - INFO - Renamed: Screenshot 2025-10-07 at 2.04.37 PM.png -> Transfer-Confirmation-Acknowledgement.png
+2026-01-28 14:04:15,877 - INFO - Analyzing: Screenshot 2025-09-22 at 12.19.25 PM.png
+2026-01-28 14:04:22,418 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:22,421 - INFO - Renamed: Screenshot 2025-09-22 at 12.19.25 PM.png -> Elecraft-Radio-Business-Card.png
+2026-01-28 14:04:22,421 - INFO - Analyzing: Screenshot 2025-10-13 at 9.25.31 PM.png
+2026-01-28 14:04:24,674 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:24,678 - INFO - Renamed: Screenshot 2025-10-13 at 9.25.31 PM.png -> Map-Street-View-Bernardino.png
+2026-01-28 14:04:24,678 - INFO - Analyzing: Screenshot 2025-10-01 at 10.53.21 AM.png
+2026-01-28 14:04:26,619 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:26,622 - INFO - Renamed: Screenshot 2025-10-01 at 10.53.21 AM.png -> iPhone-17-Pro-Max.png
+2026-01-28 14:04:26,623 - INFO - Analyzing: Screenshot 2025-06-14 at 11.43.56 PM.png
+2026-01-28 14:04:31,653 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:31,657 - INFO - Renamed: Screenshot 2025-06-14 at 11.43.56 PM.png -> Facebook-Reels-Food-Post.png
+2026-01-28 14:04:31,657 - INFO - Analyzing: Screenshot 2025-09-18 at 10.05.03 AM.png
+2026-01-28 14:04:34,640 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:34,643 - INFO - Renamed: Screenshot 2025-09-18 at 10.05.03 AM.png -> Radio-Signal-Analyzer-Display.png
+2026-01-28 14:04:34,643 - INFO - Analyzing: Screenshot 2025-09-22 at 2.01.36 PM.png
+2026-01-28 14:04:37,471 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:37,475 - INFO - Renamed: Screenshot 2025-09-22 at 2.01.36 PM.png -> Ham-Radio-Map-Interface.png
+2026-01-28 14:04:37,475 - INFO - Analyzing: Screenshot 2025-10-13 at 8.17.13 PM.png
+2026-01-28 14:04:40,031 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:40,035 - INFO - Renamed: Screenshot 2025-10-13 at 8.17.13 PM.png -> Map-Street-View.png
+2026-01-28 14:04:40,035 - INFO - Analyzing: Screenshot 2025-10-01 at 10.57.02 AM.png
+2026-01-28 14:04:41,782 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:41,786 - INFO - Renamed: Screenshot 2025-10-01 at 10.57.02 AM.png -> iPhone-Payment-Plan-Ad.png
+2026-01-28 14:04:41,786 - INFO - Analyzing: Screenshot 2025-09-25 at 12.17.58 PM.png
+2026-01-28 14:04:44,439 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:44,444 - INFO - Renamed: Screenshot 2025-09-25 at 12.17.58 PM.png -> Portfolio-Tracker-Dashboard.png
+2026-01-28 14:04:44,444 - INFO - Analyzing: Screenshot 2025-10-13 at 8.18.08 PM.png
+2026-01-28 14:04:46,585 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:46,588 - INFO - Renamed: Screenshot 2025-10-13 at 8.18.08 PM.png -> Trail-Info-Spanish-Historic.png
+2026-01-28 14:04:46,588 - INFO - Analyzing: Screenshot 2025-10-07 at 2.04.47 PM.png
+2026-01-28 14:04:48,437 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:48,450 - INFO - Renamed: Screenshot 2025-10-07 at 2.04.47 PM.png -> Bank-Account-Balance-Screen.png
+2026-01-28 14:04:48,450 - INFO - Analyzing: Screenshot 2025-06-14 at 11.46.12 PM.png
+2026-01-28 14:04:52,609 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:52,613 - INFO - Renamed: Screenshot 2025-06-14 at 11.46.12 PM.png -> BBQ-Dino-Ribs-Advertisement.png
+2026-01-28 14:04:52,614 - INFO - Analyzing: Screenshot 2025-08-30 at 10.36.37 PM.png
+2026-01-28 14:04:54,736 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:54,740 - INFO - Renamed: Screenshot 2025-08-30 at 10.36.37 PM.png -> Ham-Radio-Log-Status.png
+2026-01-28 14:04:54,740 - INFO - Analyzing: Screenshot 2025-10-01 at 10.57.47 AM.png
+2026-01-28 14:04:56,723 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:04:56,727 - INFO - Renamed: Screenshot 2025-10-01 at 10.57.47 AM.png -> Bank-Payment-Confirmations.png
+2026-01-28 14:04:56,727 - INFO - Analyzing: Screenshot 2025-10-13 at 9.13.53 PM.png
+2026-01-28 14:05:04,947 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-01-28 14:05:04,948 - ERROR - Error analyzing screenshot Screenshot 2025-10-13 at 9.13.53 PM.png: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 10829788 bytes > 5242880 bytes'}, 'request_id': 'req_011CXaXwVjNkuqho8CuorNzr'}
+2026-01-28 14:05:04,949 - WARNING - Could not generate name for: Screenshot 2025-10-13 at 9.13.53 PM.png
+2026-01-28 14:05:04,949 - INFO - 
+Organizing files into folders...
+2026-01-28 14:05:04,950 - INFO - Moved: Amateur-Radio-Constitution-Event.png -> /Users/gw-air/Desktop/Images/Amateur-Radio-Constitution-Event.png
+2026-01-28 14:05:04,951 - INFO - Moved: McDonalds-Cheeseburger-Deal.png -> /Users/gw-air/Desktop/Images/McDonalds-Cheeseburger-Deal.png
+2026-01-28 14:05:04,951 - INFO - Moved: Apache-Case-Product-Page.png -> /Users/gw-air/Desktop/Images/Apache-Case-Product-Page.png
+2026-01-28 14:05:04,952 - INFO - Moved: Investment-Account-Summary.png -> /Users/gw-air/Desktop/Images/Investment-Account-Summary-1.png
+2026-01-28 14:05:04,952 - INFO - Moved: Korean-Bakery-Review-Post.png -> /Users/gw-air/Desktop/Images/Korean-Bakery-Review-Post.png
+2026-01-28 14:05:04,953 - INFO - Moved: Google-Maps-Park-Details.png -> /Users/gw-air/Desktop/Images/Google-Maps-Park-Details.png
+2026-01-28 14:05:04,955 - INFO - Moved: Rollover-IRA-Portfolio-Dashboard.png -> /Users/gw-air/Desktop/Images/Rollover-IRA-Portfolio-Dashboard.png
+2026-01-28 14:05:04,956 - INFO - Moved: AM-Contest-Rules-2025.png -> /Users/gw-air/Desktop/Images/AM-Contest-Rules-2025.png
+2026-01-28 14:05:04,957 - INFO - Moved: Awning-Accessories-Selection-Page.png -> /Users/gw-air/Desktop/Images/Awning-Accessories-Selection-Page.png
+2026-01-28 14:05:04,958 - INFO - Moved: Restaurant-Social-Media-Post.png -> /Users/gw-air/Desktop/Images/Restaurant-Social-Media-Post.png
+2026-01-28 14:05:04,958 - INFO - Moved: Map-Grapeland-Base-Line.png -> /Users/gw-air/Desktop/Images/Map-Grapeland-Base-Line.png
+2026-01-28 14:05:04,959 - INFO - Moved: Stock-Sale-Transaction-Details.png -> /Users/gw-air/Desktop/Images/Stock-Sale-Transaction-Details.png
+2026-01-28 14:05:04,960 - INFO - Moved: Park-Map-Victoria-Lane.png -> /Users/gw-air/Desktop/Images/Park-Map-Victoria-Lane.png
+2026-01-28 14:05:04,960 - INFO - Moved: Stock-Sale-Transaction-Details-1.png -> /Users/gw-air/Desktop/Images/Stock-Sale-Transaction-Details-1.png
+2026-01-28 14:05:04,961 - INFO - Moved: Rancho-Summit-Park-Map.png -> /Users/gw-air/Desktop/Images/Rancho-Summit-Park-Map.png
+2026-01-28 14:05:04,962 - INFO - Moved: USPS-Package-Tracking.png -> /Users/gw-air/Desktop/Images/USPS-Package-Tracking.png
+2026-01-28 14:05:04,962 - INFO - Moved: Map-Street-View-Downtown.png -> /Users/gw-air/Desktop/Images/Map-Street-View-Downtown.png
+2026-01-28 14:05:04,962 - INFO - Moved: Transfer-Confirmation-Acknowledgement.png -> /Users/gw-air/Desktop/Images/Transfer-Confirmation-Acknowledgement.png
+2026-01-28 14:05:04,963 - INFO - Moved: Elecraft-Radio-Business-Card.png -> /Users/gw-air/Desktop/Images/Elecraft-Radio-Business-Card.png
+2026-01-28 14:05:04,964 - INFO - Moved: Map-Street-View-Bernardino.png -> /Users/gw-air/Desktop/Images/Map-Street-View-Bernardino.png
+2026-01-28 14:05:04,964 - INFO - Moved: iPhone-17-Pro-Max.png -> /Users/gw-air/Desktop/Images/iPhone-17-Pro-Max.png
+2026-01-28 14:05:04,965 - INFO - Moved: Facebook-Reels-Food-Post.png -> /Users/gw-air/Desktop/Images/Facebook-Reels-Food-Post.png
+2026-01-28 14:05:04,965 - INFO - Moved: Radio-Signal-Analyzer-Display.png -> /Users/gw-air/Desktop/Images/Radio-Signal-Analyzer-Display.png
+2026-01-28 14:05:04,965 - INFO - Moved: Ham-Radio-Map-Interface.png -> /Users/gw-air/Desktop/Images/Ham-Radio-Map-Interface.png
+2026-01-28 14:05:04,966 - INFO - Moved: Map-Street-View.png -> /Users/gw-air/Desktop/Images/Map-Street-View.png
+2026-01-28 14:05:04,966 - INFO - Moved: iPhone-Payment-Plan-Ad.png -> /Users/gw-air/Desktop/Images/iPhone-Payment-Plan-Ad.png
+2026-01-28 14:05:04,967 - INFO - Moved: Portfolio-Tracker-Dashboard.png -> /Users/gw-air/Desktop/Images/Portfolio-Tracker-Dashboard.png
+2026-01-28 14:05:04,967 - INFO - Moved: Trail-Info-Spanish-Historic.png -> /Users/gw-air/Desktop/Images/Trail-Info-Spanish-Historic.png
+2026-01-28 14:05:04,967 - INFO - Moved: Bank-Account-Balance-Screen.png -> /Users/gw-air/Desktop/Images/Bank-Account-Balance-Screen.png
+2026-01-28 14:05:04,968 - INFO - Moved: BBQ-Dino-Ribs-Advertisement.png -> /Users/gw-air/Desktop/Images/BBQ-Dino-Ribs-Advertisement.png
+2026-01-28 14:05:04,969 - INFO - Moved: Ham-Radio-Log-Status.png -> /Users/gw-air/Desktop/Images/Ham-Radio-Log-Status.png
+2026-01-28 14:05:04,969 - INFO - Moved: Bank-Payment-Confirmations.png -> /Users/gw-air/Desktop/Images/Bank-Payment-Confirmations.png
+2026-01-28 14:05:04,970 - INFO - Moved: Screenshot 2025-10-13 at 9.13.53 PM.png -> /Users/gw-air/Desktop/Images/Screenshot 2025-10-13 at 9.13.53 PM.png
+2026-01-28 14:05:04,970 - INFO - Moved: WSJTX_NEW_audio_clips -> /Users/gw-air/Desktop/Other/WSJTX_NEW_audio_clips
+2026-01-28 14:05:04,971 - INFO - Moved: Screenshot_20250910-121959.png -> /Users/gw-air/Desktop/Images/Screenshot_20250910-121959.png
+2026-01-28 14:05:04,971 - INFO - Moved: Screenshot_20250910-121959.png.zip -> /Users/gw-air/Desktop/Archives/Screenshot_20250910-121959.png.zip
+2026-01-28 14:05:04,972 - INFO - 
+============================================================
+2026-01-28 14:05:04,972 - INFO - Organization complete!
+2026-01-28 14:05:04,972 - INFO - ============================================================
+2026-01-28 14:05:04,972 - INFO - Files processed: 36
+2026-01-28 14:05:04,972 - INFO - Files moved: 36
+2026-01-28 14:05:04,972 - INFO - Screenshots renamed: 32
+2026-01-28 14:05:04,972 - INFO - Folders created: 0
+2026-01-28 14:05:04,972 - INFO - Errors: 0
+2026-01-28 14:06:41,510 - INFO - Desktop path: /Users/gw-air/Desktop/myMeds
+2026-01-28 14:06:41,511 - INFO - Dry run mode: False
+2026-01-28 14:06:41,511 - INFO - ============================================================
+2026-01-28 14:06:41,511 - INFO - Starting desktop organization...
+2026-01-28 14:06:41,511 - INFO - ============================================================
+2026-01-28 14:06:41,511 - INFO - Found 8 files on desktop
+2026-01-28 14:06:41,511 - INFO - 
+Processing 8 screenshots...
+2026-01-28 14:06:41,511 - INFO - Analyzing: Screenshot 2025-12-18 at 10.28.58 AM.png
+2026-01-28 14:06:43,426 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:43,448 - INFO - Renamed: Screenshot 2025-12-18 at 10.28.58 AM.png -> Medication-Info-Leuprolide.png
+2026-01-28 14:06:43,448 - INFO - Analyzing: Screenshot 2025-12-18 at 10.28.46 AM.png
+2026-01-28 14:06:44,960 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:44,964 - INFO - Renamed: Screenshot 2025-12-18 at 10.28.46 AM.png -> Prednisolone-Medication-Label.png
+2026-01-28 14:06:44,964 - INFO - Analyzing: Screenshot 2025-12-18 at 10.29.21 AM.png
+2026-01-28 14:06:46,905 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:46,909 - INFO - Renamed: Screenshot 2025-12-18 at 10.29.21 AM.png -> Telmisartan-Prescription-Label.png
+2026-01-28 14:06:46,909 - INFO - Analyzing: Screenshot 2025-12-18 at 10.28.39 AM.png
+2026-01-28 14:06:48,647 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:48,651 - INFO - Renamed: Screenshot 2025-12-18 at 10.28.39 AM.png -> Abiraterone-Medication-Info.png
+2026-01-28 14:06:48,651 - INFO - Analyzing: Screenshot 2025-12-18 at 10.29.39 AM.png
+2026-01-28 14:06:50,592 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:50,596 - INFO - Renamed: Screenshot 2025-12-18 at 10.29.39 AM.png -> Lupron-Injection-Instructions.png
+2026-01-28 14:06:50,596 - INFO - Analyzing: Screenshot 2025-12-18 at 10.29.04 AM.png
+2026-01-28 14:06:52,345 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:52,349 - INFO - Renamed: Screenshot 2025-12-18 at 10.29.04 AM.png -> Medication-Label-Amlodipine.png
+2026-01-28 14:06:52,350 - INFO - Analyzing: Screenshot 2025-12-18 at 10.28.53 AM.png
+2026-01-28 14:06:54,178 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:54,181 - INFO - Renamed: Screenshot 2025-12-18 at 10.28.53 AM.png -> Potassium-Chloride-Prescription-Label.png
+2026-01-28 14:06:54,181 - INFO - Analyzing: Screenshot 2025-12-18 at 10.29.26 AM.png
+2026-01-28 14:06:55,712 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:06:55,715 - INFO - Renamed: Screenshot 2025-12-18 at 10.29.26 AM.png -> Medication-Dosage-Instructions.png
+2026-01-28 14:06:55,716 - INFO - 
+Organizing files into folders...
+2026-01-28 14:06:55,716 - INFO - Created folder: Images
+2026-01-28 14:06:55,717 - INFO - Moved: Medication-Info-Leuprolide.png -> /Users/gw-air/Desktop/myMeds/Images/Medication-Info-Leuprolide.png
+2026-01-28 14:06:55,719 - INFO - Moved: Prednisolone-Medication-Label.png -> /Users/gw-air/Desktop/myMeds/Images/Prednisolone-Medication-Label.png
+2026-01-28 14:06:55,721 - INFO - Moved: Telmisartan-Prescription-Label.png -> /Users/gw-air/Desktop/myMeds/Images/Telmisartan-Prescription-Label.png
+2026-01-28 14:06:55,721 - INFO - Moved: Abiraterone-Medication-Info.png -> /Users/gw-air/Desktop/myMeds/Images/Abiraterone-Medication-Info.png
+2026-01-28 14:06:55,723 - INFO - Moved: Lupron-Injection-Instructions.png -> /Users/gw-air/Desktop/myMeds/Images/Lupron-Injection-Instructions.png
+2026-01-28 14:06:55,724 - INFO - Moved: Medication-Label-Amlodipine.png -> /Users/gw-air/Desktop/myMeds/Images/Medication-Label-Amlodipine.png
+2026-01-28 14:06:55,725 - INFO - Moved: Potassium-Chloride-Prescription-Label.png -> /Users/gw-air/Desktop/myMeds/Images/Potassium-Chloride-Prescription-Label.png
+2026-01-28 14:06:55,726 - INFO - Moved: Medication-Dosage-Instructions.png -> /Users/gw-air/Desktop/myMeds/Images/Medication-Dosage-Instructions.png
+2026-01-28 14:06:55,726 - INFO - 
+============================================================
+2026-01-28 14:06:55,726 - INFO - Organization complete!
+2026-01-28 14:06:55,727 - INFO - ============================================================
+2026-01-28 14:06:55,727 - INFO - Files processed: 8
+2026-01-28 14:06:55,727 - INFO - Files moved: 8
+2026-01-28 14:06:55,727 - INFO - Screenshots renamed: 8
+2026-01-28 14:06:55,727 - INFO - Folders created: 1
+2026-01-28 14:06:55,727 - INFO - Errors: 0
+2026-01-28 14:08:58,048 - INFO - Desktop path: /Users/gw-air/Desktop/FILTER and FILE this SHITE
+2026-01-28 14:08:58,049 - INFO - Dry run mode: False
+2026-01-28 14:08:58,049 - INFO - ============================================================
+2026-01-28 14:08:58,049 - INFO - Starting desktop organization...
+2026-01-28 14:08:58,049 - INFO - ============================================================
+2026-01-28 14:08:58,050 - INFO - Found 137 files on desktop
+2026-01-28 14:08:58,050 - INFO - 
+Organizing files into folders...
+2026-01-28 14:08:58,051 - INFO - Created folder: Shortcuts
+2026-01-28 14:08:58,051 - INFO - Moved: Electric Cars, Solar & Clean Energy | Tesla.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Electric Cars, Solar & Clean Energy | Tesla.webloc
+2026-01-28 14:08:58,051 - INFO - Created folder: Images
+2026-01-28 14:08:58,051 - INFO - Moved: TESLA INSURANCE.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/TESLA INSURANCE.png
+2026-01-28 14:08:58,052 - INFO - Moved: medical coverage - nonCOBRA_2026 2026-01-03 at 2.31.01 PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/medical coverage - nonCOBRA_2026 2026-01-03 at 2.31.01 PM.png
+2026-01-28 14:08:58,052 - INFO - Moved: Rules | NA SSB Sprint Contest.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Rules | NA SSB Sprint Contest.webloc
+2026-01-28 14:08:58,052 - INFO - Moved: TESLA-SPENDS.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/TESLA-SPENDS.png
+2026-01-28 14:08:58,052 - INFO - Moved: i_employment_verification.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_employment_verification.png
+2026-01-28 14:08:58,052 - INFO - Moved: Menu of Hell's Kitchen hungarian traditional resaturant in Budapest 2.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Menu of Hell's Kitchen hungarian traditional resaturant in Budapest 2.webloc
+2026-01-28 14:08:58,052 - INFO - Moved: Plan for Retirement | SSA.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Plan for Retirement | SSA.webloc
+2026-01-28 14:08:58,053 - INFO - Moved: UNIX V4 tape successfully recovered • The Register.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/UNIX V4 tape successfully recovered • The Register.webloc
+2026-01-28 14:08:58,053 - INFO - Moved: citi-PYMT.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/citi-PYMT.png
+2026-01-28 14:08:58,053 - INFO - Created folder: Audio
+2026-01-28 14:08:58,053 - INFO - Moved: LICW-BC1-session-15Jun25.m4a -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Audio/LICW-BC1-session-15Jun25.m4a
+2026-01-28 14:08:58,053 - INFO - Moved: QSO Predictor v2.0.6 — Now with Mac Support & Performance Fixes - r:amateurradio.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/QSO Predictor v2.0.6 — Now with Mac Support & Performance Fixes - r:amateurradio.webloc
+2026-01-28 14:08:58,053 - INFO - Moved: IBM 401K 2026-01-03 at 2.39.44 PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/IBM 401K 2026-01-03 at 2.39.44 PM.png
+2026-01-28 14:08:58,054 - INFO - Moved: Traditional IRAs- Get Tax-Deferred Retirement Savings | Kiplinger.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Traditional IRAs- Get Tax-Deferred Retirement Savings | Kiplinger.webloc
+2026-01-28 14:08:58,054 - INFO - Moved: K1U - special station.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/K1U - special station.png
+2026-01-28 14:08:58,054 - INFO - Moved: K1U - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/K1U - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:08:58,054 - INFO - Moved: ua9qcq.com - Contest Calendar.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/ua9qcq.com - Contest Calendar.webloc
+2026-01-28 14:08:58,057 - INFO - Moved: IBM Compensation.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/IBM Compensation.webloc
+2026-01-28 14:08:58,057 - INFO - Moved: ht in hardCase.jpg -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ht in hardCase.jpg
+2026-01-28 14:08:58,057 - INFO - Moved: BALANCES.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/BALANCES.png
+2026-01-28 14:08:58,058 - INFO - Moved: My Retirement Learning Curve, 1 Year In | Kiplinger.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/My Retirement Learning Curve, 1 Year In | Kiplinger.webloc
+2026-01-28 14:08:58,058 - INFO - Moved: Medicare-PartB_required_doc.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/Medicare-PartB_required_doc.png
+2026-01-28 14:08:58,058 - INFO - Moved: Directions - H Mart - Diamond Bar - Diamond Bar, CA - CA.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Directions - H Mart - Diamond Bar - Diamond Bar, CA - CA.webloc
+2026-01-28 14:08:58,058 - INFO - Moved: Life Event | Life's resources for finances , medical , insurance and more | Fidelity.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Life Event | Life's resources for finances , medical , insurance and more | Fidelity.webloc
+2026-01-28 14:08:58,059 - INFO - Moved: ss_retirement_calc_2.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ss_retirement_calc_2.png
+2026-01-28 14:08:58,059 - INFO - Moved: Broken-Parts.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/Broken-Parts.png
+2026-01-28 14:08:58,059 - INFO - Created folder: Other
+2026-01-28 14:08:58,059 - INFO - Moved: insurance_search -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Other/insurance_search
+2026-01-28 14:08:58,059 - INFO - Moved: ss_retirement.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ss_retirement.png
+2026-01-28 14:08:58,059 - INFO - Moved: 401K - investment options.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/401K - investment options.png
+2026-01-28 14:08:58,059 - INFO - Moved: chat-gpt-image-gen -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Other/chat-gpt-image-gen
+2026-01-28 14:08:58,060 - INFO - Moved: ChatGPT.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/ChatGPT.webloc
+2026-01-28 14:08:58,060 - INFO - Created folder: Documents
+2026-01-28 14:08:58,060 - INFO - Moved: gpt-story-2.md -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/gpt-story-2.md
+2026-01-28 14:08:58,060 - INFO - Moved: FT4 NS.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/FT4 NS.webloc
+2026-01-28 14:08:58,060 - INFO - Moved: Request a Replacement Social Security Card, Home, my Social Security.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Request a Replacement Social Security Card, Home, my Social Security.webloc
+2026-01-28 14:08:58,061 - INFO - Moved: citibank card.numbers -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/citibank card.numbers
+2026-01-28 14:08:58,061 - INFO - Moved: IRA-1_ 2026-01-03 at 2.39.37 PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/IRA-1_ 2026-01-03 at 2.39.37 PM.png
+2026-01-28 14:08:58,061 - INFO - Moved: (207) RESTORED FILM - 1950s Amateur Radio Band Police - Advanced Enforcement Methods - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(207) RESTORED FILM - 1950s Amateur Radio Band Police - Advanced Enforcement Methods - YouTube.webloc
+2026-01-28 14:08:58,061 - INFO - Moved: Quote00.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/Quote00.png
+2026-01-28 14:08:58,062 - INFO - Moved: Nov-2nd-Half-Bills.numbers -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/Nov-2nd-Half-Bills.numbers
+2026-01-28 14:08:58,062 - INFO - Moved: UC457_ 2026-01-03 at 2.39.55 PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/UC457_ 2026-01-03 at 2.39.55 PM.png
+2026-01-28 14:08:58,062 - INFO - Moved: Survivor benefits | SSA.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Survivor benefits | SSA.webloc
+2026-01-28 14:08:58,062 - INFO - Moved: UC403B 2026-01-03 at 2.39.50 PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/UC403B 2026-01-03 at 2.39.50 PM.png
+2026-01-28 14:08:58,062 - INFO - Moved: Apply for Social Security Benefits | SSA.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Apply for Social Security Benefits | SSA.webloc
+2026-01-28 14:08:58,062 - INFO - Moved: user_pass.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/user_pass.png
+2026-01-28 14:08:58,063 - INFO - Moved: Sign up for Medicare | SSA.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Sign up for Medicare | SSA.webloc
+2026-01-28 14:08:58,063 - INFO - Moved: Prime Video- Account & Settings.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Prime Video- Account & Settings.webloc
+2026-01-28 14:08:58,063 - INFO - Moved:  Morse.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ Morse.png
+2026-01-28 14:08:58,063 - INFO - Moved: mrtg pymt jan26.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/mrtg pymt jan26.png
+2026-01-28 14:08:58,063 - INFO - Moved: login_data.md -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/login_data.md
+2026-01-28 14:08:58,063 - INFO - Moved: Retirement Decision Guide Dashboard.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Retirement Decision Guide Dashboard.webloc
+2026-01-28 14:08:58,064 - INFO - Moved: cervino.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/cervino.png
+2026-01-28 14:08:58,064 - INFO - Moved: Where to eat- the 50 best restaurants in Rancho Cucamonga.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Where to eat- the 50 best restaurants in Rancho Cucamonga.webloc
+2026-01-28 14:08:58,064 - INFO - Moved: TESLA SUPPORT.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/TESLA SUPPORT.png
+2026-01-28 14:08:58,064 - INFO - Moved: Citi Commercial Cards.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Citi Commercial Cards.webloc
+2026-01-28 14:08:58,064 - INFO - Moved: ss_retirement_calc.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ss_retirement_calc.png
+2026-01-28 14:08:58,064 - INFO - Moved: google-One-$20_per_month.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/google-One-$20_per_month.png
+2026-01-28 14:08:58,064 - INFO - Moved: Sichuan Impression – Alhambra - a MICHELIN Guide Restaurant.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Sichuan Impression – Alhambra - a MICHELIN Guide Restaurant.webloc
+2026-01-28 14:08:58,065 - INFO - Moved: IBM Retiree Discount Program.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/IBM Retiree Discount Program.webloc
+2026-01-28 14:08:58,065 - INFO - Moved: Retirement plan and IRA required minimum distributions FAQs | Internal Revenue Service.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Retirement plan and IRA required minimum distributions FAQs | Internal Revenue Service.webloc
+2026-01-28 14:08:58,065 - INFO - Moved: SICHUAN IMPRESSION - Updated December 2025 - 719 Photos & 193 Reviews - 18065 Gale Ave, City of Industry, California - Chinese - Restaurant Reviews - Phone Number - Yelp.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/SICHUAN IMPRESSION - Updated December 2025 - 719 Photos & 193 Reviews - 18065 Gale Ave, City of Industry, California - Chinese - Restaurant Reviews - Phone Number - Yelp.webloc
+2026-01-28 14:08:58,066 - INFO - Moved: Sweepstakes.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Sweepstakes.webloc
+2026-01-28 14:08:58,066 - INFO - Moved: GARDEN BISTRO - Updated December 2025 - 2430 Photos & 1104 Reviews - 1390 Fullerton Rd, Rowland Heights, California - Asian Fusion - Restaurant Reviews - Phone Number - Menu - Yelp.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/GARDEN BISTRO - Updated December 2025 - 2430 Photos & 1104 Reviews - 1390 Fullerton Rd, Rowland Heights, California - Asian Fusion - Restaurant Reviews - Phone Number - Menu - Yelp.webloc
+2026-01-28 14:08:58,066 - INFO - Moved: i_post_ra-9.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-9.png
+2026-01-28 14:08:58,066 - INFO - Moved: i_post_ra-8.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-8.png
+2026-01-28 14:08:58,067 - INFO - Moved: hfs_ss.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/hfs_ss.png
+2026-01-28 14:08:58,067 - INFO - Moved: hfs_Social_Security.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/hfs_Social_Security.png
+2026-01-28 14:08:58,067 - INFO - Moved: Contact us and service request selection | Grech RV.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Contact us and service request selection | Grech RV.webloc
+2026-01-28 14:08:58,067 - INFO - Moved: Sign up for Medicare | SSA copy.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Sign up for Medicare | SSA copy.webloc
+2026-01-28 14:08:58,067 - INFO - Moved: bambis_food.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/bambis_food.png
+2026-01-28 14:08:58,067 - INFO - Moved: General Search-2025-11-23.numbers -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/General Search-2025-11-23.numbers
+2026-01-28 14:08:58,068 - INFO - Moved: cash_AVAILABLE.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/cash_AVAILABLE.png
+2026-01-28 14:08:58,068 - INFO - Moved: QUOTE_2.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/QUOTE_2.png
+2026-01-28 14:08:58,068 - INFO - Moved: wraps.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/wraps.png
+2026-01-28 14:08:58,068 - INFO - Moved: Netflix.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Netflix.webloc
+2026-01-28 14:08:58,068 - INFO - Moved: Loans.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/Loans.png
+2026-01-28 14:08:58,068 - INFO - Moved: Loan2.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/Loan2.png
+2026-01-28 14:08:58,069 - INFO - Moved: i_post_ra-5.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-5.png
+2026-01-28 14:08:58,069 - INFO - Moved: amazon pharmacy.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/amazon pharmacy.png
+2026-01-28 14:08:58,069 - INFO - Moved: i_post_ra-4.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-4.png
+2026-01-28 14:08:58,069 - INFO - Moved: gota_xmas.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/gota_xmas.png
+2026-01-28 14:08:58,069 - INFO - Moved: Alberto Pacheco Construction Co. · 142 N Azusa Ave, Azusa, CA 91702.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Alberto Pacheco Construction Co. · 142 N Azusa Ave, Azusa, CA 91702.webloc
+2026-01-28 14:08:58,069 - INFO - Moved: (207) Christmas From The Dogs Eyes - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(207) Christmas From The Dogs Eyes - YouTube.webloc
+2026-01-28 14:08:58,069 - INFO - Moved: alberto-Info.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/alberto-Info.png
+2026-01-28 14:08:58,070 - INFO - Moved: Ham Radio 101- What Are the RIT-XIT Functions Used for on Your Transceiver?.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Ham Radio 101- What Are the RIT-XIT Functions Used for on Your Transceiver?.webloc
+2026-01-28 14:08:58,070 - INFO - Moved: i_RBA_Info.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_RBA_Info.png
+2026-01-28 14:08:58,070 - INFO - Moved: Loan1.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/Loan1.png
+2026-01-28 14:08:58,070 - INFO - Moved: i_post_ra-6.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-6.png
+2026-01-28 14:08:58,070 - INFO - Moved: Google To Let Users Change Gmail Address — What You Need To Know.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Google To Let Users Change Gmail Address — What You Need To Know.webloc
+2026-01-28 14:08:58,070 - INFO - Moved: i_post_ra-7.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-7.png
+2026-01-28 14:08:58,071 - INFO - Moved: PRACTICE.numbers -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/PRACTICE.numbers
+2026-01-28 14:08:58,071 - INFO - Moved: How Much Are Taxes on an IRA Withdrawal?.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/How Much Are Taxes on an IRA Withdrawal?.webloc
+2026-01-28 14:08:58,071 - INFO - Moved: (256) All Blacks v Wales Cardiff, 2025 | FULL GAME - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(256) All Blacks v Wales Cardiff, 2025 | FULL GAME - YouTube.webloc
+2026-01-28 14:08:58,071 - INFO - Moved: IBM-CHECK-FOR-WHAT.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/IBM-CHECK-FOR-WHAT.png
+2026-01-28 14:08:58,071 - INFO - Moved: SKCC loggs -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Other/SKCC loggs
+2026-01-28 14:08:58,071 - INFO - Moved: i_post_ra-3.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-3.png
+2026-01-28 14:08:58,072 - INFO - Moved: i_health_post_RA.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_health_post_RA.png
+2026-01-28 14:08:58,072 - INFO - Moved: i_post_ra-2.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-2.png
+2026-01-28 14:08:58,072 - INFO - Moved: ESPP_Share_Divisions.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ESPP_Share_Divisions.png
+2026-01-28 14:08:58,072 - INFO - Moved: Pet Lovers' Choice Awards.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Pet Lovers' Choice Awards.webloc
+2026-01-28 14:08:58,072 - INFO - Moved: justAnswer_CANCELLED_onPayPal.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/justAnswer_CANCELLED_onPayPal.png
+2026-01-28 14:08:58,072 - INFO - Moved: HUGE_DEPOSIT_dont_spend.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/HUGE_DEPOSIT_dont_spend.png
+2026-01-28 14:08:58,072 - INFO - Moved: ALL Accounts 2026-01-03 at 2.39.33 PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ALL Accounts 2026-01-03 at 2.39.33 PM.png
+2026-01-28 14:08:58,073 - INFO - Moved: medical coverage - as employee 2026-01-03 at 2.30.50 PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/medical coverage - as employee 2026-01-03 at 2.30.50 PM.png
+2026-01-28 14:08:58,073 - INFO - Moved: justAnswer_CANCELLED.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/justAnswer_CANCELLED.png
+2026-01-28 14:08:58,073 - INFO - Moved: (206) 10wpm CQ contact Example QSO Template, CW morse code Copy Speed improvement - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(206) 10wpm CQ contact Example QSO Template, CW morse code Copy Speed improvement - YouTube.webloc
+2026-01-28 14:08:58,073 - INFO - Moved: wrap simulator.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/wrap simulator.png
+2026-01-28 14:08:58,073 - INFO - Moved: EA5JZ - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/EA5JZ - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:08:58,073 - INFO - Moved: i_RBA_distribution_Options.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_RBA_distribution_Options.png
+2026-01-28 14:08:58,073 - INFO - Moved: i_post_ra-0.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-0.png
+2026-01-28 14:08:58,074 - INFO - Moved: i_post_ra-1.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-1.png
+2026-01-28 14:08:58,074 - INFO - Moved: dec_PYMTS.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/dec_PYMTS.png
+2026-01-28 14:08:58,074 - INFO - Moved: corporate CC.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/corporate CC.png
+2026-01-28 14:08:58,074 - INFO - Moved: CAP1-CREDIT_PYMT.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/CAP1-CREDIT_PYMT.png
+2026-01-28 14:08:58,074 - INFO - Moved: DUAL DRIVERS.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/DUAL DRIVERS.png
+2026-01-28 14:08:58,074 - INFO - Moved: IRA withdrawal rules explained | Vanguard.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/IRA withdrawal rules explained | Vanguard.webloc
+2026-01-28 14:08:58,074 - INFO - Moved: NV6T_License.pdf -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/NV6T_License.pdf
+2026-01-28 14:08:58,075 - INFO - Moved: (176) Genesis - Supper's Ready (Vinyl) - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(176) Genesis - Supper's Ready (Vinyl) - YouTube.webloc
+2026-01-28 14:08:58,075 - INFO - Moved: Menu of Hell's Kitchen hungarian traditional resaturant in Budapest.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Menu of Hell's Kitchen hungarian traditional resaturant in Budapest.webloc
+2026-01-28 14:08:58,075 - INFO - Moved: FinancialWellnessHub.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/FinancialWellnessHub.webloc
+2026-01-28 14:08:58,075 - INFO - Moved: randstad_rise_smart.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/randstad_rise_smart.webloc
+2026-01-28 14:08:58,075 - INFO - Moved: citiBALANCE_due.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/citiBALANCE_due.png
+2026-01-28 14:08:58,075 - INFO - Moved: i_post_ra-11.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-11.png
+2026-01-28 14:08:58,076 - INFO - Moved: AutoStyle AI.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/AutoStyle AI.webloc
+2026-01-28 14:08:58,076 - INFO - Moved: i_post_ra-10.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/i_post_ra-10.png
+2026-01-28 14:08:58,076 - INFO - Moved: ESPP_Total.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ESPP_Total.png
+2026-01-28 14:08:58,076 - INFO - Moved: BAD Habits.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/BAD Habits.png
+2026-01-28 14:08:58,076 - INFO - Moved: hfs_ss_error.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/hfs_ss_error.png
+2026-01-28 14:08:58,076 - INFO - Moved: Nonloso – Nonloso Bistro.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Nonloso – Nonloso Bistro.webloc
+2026-01-28 14:08:58,077 - INFO - Moved: Explore your Medicare coverage options.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Explore your Medicare coverage options.webloc
+2026-01-28 14:08:58,077 - INFO - Moved: I am eligible for medicare plan A & B but have error applying it online - r:medicare.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/I am eligible for medicare plan A & B but have error applying it online - r:medicare.webloc
+2026-01-28 14:08:58,077 - INFO - Moved: LICW Morse Practice Page.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/LICW Morse Practice Page.webloc
+2026-01-28 14:08:58,077 - INFO - Moved: chat-gpt-image-gen.md -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/chat-gpt-image-gen.md
+2026-01-28 14:08:58,077 - INFO - Moved: licw.m4a -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Audio/licw.m4a
+2026-01-28 14:08:58,078 - INFO - Moved: KM3KM Ham Radio.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/KM3KM Ham Radio.webloc
+2026-01-28 14:08:58,078 - INFO - Moved: CAP1-PYMT.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/CAP1-PYMT.png
+2026-01-28 14:08:58,078 - INFO - Moved: 5 Chair Exercises That Flatten Belly Overhang After 55.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/5 Chair Exercises That Flatten Belly Overhang After 55.webloc
+2026-01-28 14:08:58,078 - INFO - Moved: ESPP_Share_Divisions copy.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/ESPP_Share_Divisions copy.png
+2026-01-28 14:08:58,078 - INFO - 
+============================================================
+2026-01-28 14:08:58,078 - INFO - Organization complete!
+2026-01-28 14:08:58,078 - INFO - ============================================================
+2026-01-28 14:08:58,078 - INFO - Files processed: 137
+2026-01-28 14:08:58,078 - INFO - Files moved: 137
+2026-01-28 14:08:58,078 - INFO - Screenshots renamed: 0
+2026-01-28 14:08:58,078 - INFO - Folders created: 5
+2026-01-28 14:08:58,078 - INFO - Errors: 0
+2026-01-28 14:10:06,142 - INFO - Desktop path: /Users/gw-air/Desktop/FILTER and FILE this SHITE
+2026-01-28 14:10:06,142 - INFO - Dry run mode: False
+2026-01-28 14:10:06,142 - INFO - ============================================================
+2026-01-28 14:10:06,142 - INFO - Starting desktop organization...
+2026-01-28 14:10:06,142 - INFO - ============================================================
+2026-01-28 14:10:06,143 - INFO - Found 50 files on desktop
+2026-01-28 14:10:06,143 - INFO - 
+Organizing files into folders...
+2026-01-28 14:10:06,143 - INFO - Moved: mountain_mikes.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/mountain_mikes.png
+2026-01-28 14:10:06,143 - INFO - Moved: Order details.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Order details.webloc
+2026-01-28 14:10:06,143 - INFO - Moved: Most wanted DXCC 2025 – Polish DXpeditions.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Most wanted DXCC 2025 – Polish DXpeditions.webloc
+2026-01-28 14:10:06,143 - INFO - Moved: Hints and Kinks of the Yaesu FT-891 – New River Valley Amateur Radio Club – N4NRV.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Hints and Kinks of the Yaesu FT-891 – New River Valley Amateur Radio Club – N4NRV.webloc
+2026-01-28 14:10:06,144 - INFO - Moved: me_Gravitation' by Richard Feynman [1080p HD Video with clear audio] - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/me_Gravitation' by Richard Feynman [1080p HD Video with clear audio] - YouTube.webloc
+2026-01-28 14:10:06,144 - INFO - Moved: New & Used Electric Cars | Tesla.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/New & Used Electric Cars | Tesla.webloc
+2026-01-28 14:10:06,145 - INFO - Moved: FULL BODY WorkOut.md -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/FULL BODY WorkOut.md
+2026-01-28 14:10:06,145 - INFO - Moved: Northern Utah WebSDR #1 - 2200-40M Omni.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Northern Utah WebSDR #1 - 2200-40M Omni.webloc
+2026-01-28 14:10:06,145 - INFO - Moved: replacement aluminum screen and frames - Brave Search.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/replacement aluminum screen and frames - Brave Search.webloc
+2026-01-28 14:10:06,145 - INFO - Moved: local_devices_24-Mar-25.md -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/local_devices_24-Mar-25.md
+2026-01-28 14:10:06,145 - INFO - Moved: art mayer - construction PM.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/art mayer - construction PM.png
+2026-01-28 14:10:06,146 - INFO - Moved: RITESCREEN 36 in. x 36 in. White Window Screen Frame Kit FG-WDKIT36-C - The Home Depot.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/RITESCREEN 36 in. x 36 in. White Window Screen Frame Kit FG-WDKIT36-C - The Home Depot.webloc
+2026-01-28 14:10:06,146 - INFO - Moved: SI4732 0.5-108mhz Pocket Mini Radio LSB USB AM FM All Band Radio Receiver 1.9inch IPS Screen HF SW MW VHF Radio with Antenna - AliExpress 44.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/SI4732 0.5-108mhz Pocket Mini Radio LSB USB AM FM All Band Radio Receiver 1.9inch IPS Screen HF SW MW VHF Radio with Antenna - AliExpress 44.webloc
+2026-01-28 14:10:06,146 - INFO - Moved: New Chanel女式白色夏季运动鞋- | eBay.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/New Chanel女式白色夏季运动鞋- | eBay.webloc
+2026-01-28 14:10:06,146 - INFO - Moved: how to disable natural scroll in sequoia mac - Brave Search.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/how to disable natural scroll in sequoia mac - Brave Search.webloc
+2026-01-28 14:10:06,146 - INFO - Moved: United States of America (US).numbers -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/United States of America (US).numbers
+2026-01-28 14:10:06,147 - INFO - Created folder: Archives
+2026-01-28 14:10:06,147 - INFO - Moved: money-tracker-2.zip -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Archives/money-tracker-2.zip
+2026-01-28 14:10:06,147 - INFO - Moved: Claude.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Claude.webloc
+2026-01-28 14:10:06,147 - INFO - Moved: MAR25_PYMTS.pdf -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/MAR25_PYMTS.pdf
+2026-01-28 14:10:06,147 - INFO - Moved: june pymts.numbers -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/june pymts.numbers
+2026-01-28 14:10:06,147 - INFO - Moved: Bitcoin Knots.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Bitcoin Knots.webloc
+2026-01-28 14:10:06,147 - INFO - Moved: Netflix.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Netflix-1.webloc
+2026-01-28 14:10:06,148 - INFO - Moved: latest-payments.csv -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/latest-payments.csv
+2026-01-28 14:10:06,148 - INFO - Moved: (8) Facebook.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(8) Facebook.webloc
+2026-01-28 14:10:06,148 - INFO - Moved: Jackie & Shadow | Staring Contest @FOBBVCAM - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Jackie & Shadow | Staring Contest @FOBBVCAM - YouTube.webloc
+2026-01-28 14:10:06,148 - INFO - Moved: Top topics - World Radio League.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Top topics - World Radio League.webloc
+2026-01-28 14:10:06,148 - INFO - Moved: Novice-Friendly Radio Blog by M7MCQ- MALAHIT DSP2 SDR REVIEW.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Novice-Friendly Radio Blog by M7MCQ- MALAHIT DSP2 SDR REVIEW.webloc
+2026-01-28 14:10:06,148 - INFO - Moved: Shoulder Pain Relief- Simple Solutions for Fast Relief | TikTok.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Shoulder Pain Relief- Simple Solutions for Fast Relief | TikTok.webloc
+2026-01-28 14:10:06,148 - INFO - Moved: Morse Code Keys Made In The USA – cwmorse.us.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Morse Code Keys Made In The USA – cwmorse.us.webloc
+2026-01-28 14:10:06,149 - INFO - Moved: Aizk's Site.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Aizk's Site.webloc
+2026-01-28 14:10:06,149 - INFO - Moved: (144) TOOL "PNEUMA" - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(144) TOOL "PNEUMA" - YouTube.webloc
+2026-01-28 14:10:06,149 - INFO - Moved: dock settings.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/dock settings.png
+2026-01-28 14:10:06,149 - INFO - Moved: Sale Pending - Icom IC-7300 | QRZ Forums.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Sale Pending - Icom IC-7300 | QRZ Forums.webloc
+2026-01-28 14:10:06,149 - INFO - Moved: aa -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Other/aa
+2026-01-28 14:10:06,149 - INFO - Moved: Untitled 64_240905_205045.pdf -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/Untitled 64_240905_205045.pdf
+2026-01-28 14:10:06,149 - INFO - Moved: me_Lilly Lee | Facebook.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/me_Lilly Lee | Facebook.webloc
+2026-01-28 14:10:06,149 - INFO - Moved: disable-scroll.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/disable-scroll.png
+2026-01-28 14:10:06,150 - INFO - Moved: sysctl.conf -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Other/sysctl.conf
+2026-01-28 14:10:06,150 - INFO - Moved: openSPOT4 [openspot4].webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/openSPOT4 [openspot4].webloc
+2026-01-28 14:10:06,150 - INFO - Moved: The evolution of Modern RAG Architectures..webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/The evolution of Modern RAG Architectures..webloc
+2026-01-28 14:10:06,150 - INFO - Moved: Troubleshooting Digital Modes – digirig.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Troubleshooting Digital Modes – digirig.webloc
+2026-01-28 14:10:06,150 - INFO - Moved: MY GPS.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/MY GPS.png
+2026-01-28 14:10:06,150 - INFO - Moved: What is the opinion of Amateur Radio in 2025? Also, how does a 30 year old actually enter into conversation? - r:amateurradio.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/What is the opinion of Amateur Radio in 2025? Also, how does a 30 year old actually enter into conversation? - r:amateurradio.webloc
+2026-01-28 14:10:06,150 - INFO - Moved: cap1.png -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Images/cap1.png
+2026-01-28 14:10:06,151 - INFO - Moved: Titanic Lifeboat Academy - Titanic Lifeboat Academy.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Titanic Lifeboat Academy - Titanic Lifeboat Academy.webloc
+2026-01-28 14:10:06,151 - INFO - Moved: WA1STH - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/WA1STH - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:10:06,151 - INFO - Moved: National Life MVP5 Application - Haifeng Su 02-2025.pdf -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Documents/National Life MVP5 Application - Haifeng Su 02-2025.pdf
+2026-01-28 14:10:06,151 - INFO - Moved: 3 Essential Arm Exercises | Valet..webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/3 Essential Arm Exercises | Valet..webloc
+2026-01-28 14:10:06,151 - INFO - Moved: (145) How to Start DAY TRADING CRYPTO (2025 Guide) - YouTube.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/(145) How to Start DAY TRADING CRYPTO (2025 Guide) - YouTube.webloc
+2026-01-28 14:10:06,151 - INFO - Moved: Photos for Get Sum Dim Sum.webloc -> /Users/gw-air/Desktop/FILTER and FILE this SHITE/Shortcuts/Photos for Get Sum Dim Sum.webloc
+2026-01-28 14:10:06,151 - INFO - 
+============================================================
+2026-01-28 14:10:06,151 - INFO - Organization complete!
+2026-01-28 14:10:06,151 - INFO - ============================================================
+2026-01-28 14:10:06,151 - INFO - Files processed: 50
+2026-01-28 14:10:06,151 - INFO - Files moved: 50
+2026-01-28 14:10:06,151 - INFO - Screenshots renamed: 0
+2026-01-28 14:10:06,151 - INFO - Folders created: 1
+2026-01-28 14:10:06,151 - INFO - Errors: 0
+2026-01-28 14:13:37,682 - INFO - Desktop path: /Users/gw-air/Desktop/DESK_MESS
+2026-01-28 14:13:37,682 - INFO - Dry run mode: False
+2026-01-28 14:13:37,682 - INFO - ============================================================
+2026-01-28 14:13:37,683 - INFO - Starting desktop organization...
+2026-01-28 14:13:37,683 - INFO - ============================================================
+2026-01-28 14:13:37,683 - INFO - Found 0 files on desktop
+2026-01-28 14:13:37,683 - INFO - 
+Organizing files into folders...
+2026-01-28 14:13:37,683 - INFO - 
+============================================================
+2026-01-28 14:13:37,683 - INFO - Organization complete!
+2026-01-28 14:13:37,683 - INFO - ============================================================
+2026-01-28 14:13:37,683 - INFO - Files processed: 0
+2026-01-28 14:13:37,683 - INFO - Files moved: 0
+2026-01-28 14:13:37,683 - INFO - Screenshots renamed: 0
+2026-01-28 14:13:37,683 - INFO - Folders created: 0
+2026-01-28 14:13:37,683 - INFO - Errors: 0
+2026-01-28 14:14:04,400 - INFO - Desktop path: /Users/gw-air/Desktop/DESK_MESS
+2026-01-28 14:14:04,400 - INFO - Dry run mode: False
+2026-01-28 14:14:04,400 - INFO - ============================================================
+2026-01-28 14:14:04,400 - INFO - Starting desktop organization...
+2026-01-28 14:14:04,400 - INFO - ============================================================
+2026-01-28 14:14:04,400 - INFO - Found 0 files on desktop
+2026-01-28 14:14:04,400 - INFO - 
+Organizing files into folders...
+2026-01-28 14:14:04,400 - INFO - 
+============================================================
+2026-01-28 14:14:04,400 - INFO - Organization complete!
+2026-01-28 14:14:04,400 - INFO - ============================================================
+2026-01-28 14:14:04,400 - INFO - Files processed: 0
+2026-01-28 14:14:04,400 - INFO - Files moved: 0
+2026-01-28 14:14:04,401 - INFO - Screenshots renamed: 0
+2026-01-28 14:14:04,401 - INFO - Folders created: 0
+2026-01-28 14:14:04,401 - INFO - Errors: 0
+2026-01-28 14:16:21,484 - INFO - Desktop path: /Users/gw-air/Desktop/DESK_MESS
+2026-01-28 14:16:21,484 - INFO - Dry run mode: False
+2026-01-28 14:16:21,484 - INFO - ============================================================
+2026-01-28 14:16:21,484 - INFO - Starting desktop organization...
+2026-01-28 14:16:21,484 - INFO - ============================================================
+2026-01-28 14:16:21,488 - INFO - Found 512 files on desktop
+2026-01-28 14:16:21,488 - INFO - 
+Processing 65 screenshots...
+2026-01-28 14:16:21,488 - INFO - Analyzing: Screenshot 2025-06-26 at 6.38.01 AM.png
+2026-01-28 14:16:24,134 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:24,155 - INFO - Renamed: Screenshot 2025-06-26 at 6.38.01 AM.png -> Bank-Payment-Change-Screen.png
+2026-01-28 14:16:24,155 - INFO - Analyzing: Screenshot 2025-07-02 at 9.22.16 AM.png
+2026-01-28 14:16:25,980 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:25,984 - INFO - Renamed: Screenshot 2025-07-02 at 9.22.16 AM.png -> Patient-Payment-History.png
+2026-01-28 14:16:25,985 - INFO - Analyzing: Screenshot 2025-06-30 at 7.00.27 PM.png
+2026-01-28 14:16:28,639 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:28,643 - INFO - Renamed: Screenshot 2025-06-30 at 7.00.27 PM.png -> Ham-Radio-13-Colonies-Event.png
+2026-01-28 14:16:28,643 - INFO - Analyzing: Screenshot 2025-07-12 at 11.01.33 PM.png
+2026-01-28 14:16:35,707 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-01-28 14:16:35,709 - ERROR - Error analyzing screenshot Screenshot 2025-07-12 at 11.01.33 PM.png: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 7537576 bytes > 5242880 bytes'}, 'request_id': 'req_011CXaYpQr7CjXWy8BbXsvDu'}
+2026-01-28 14:16:35,710 - WARNING - Could not generate name for: Screenshot 2025-07-12 at 11.01.33 PM.png
+2026-01-28 14:16:35,710 - INFO - Analyzing: Screenshot 2025-07-18 at 10.07.20 PM.png
+2026-01-28 14:16:37,453 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:37,457 - INFO - Renamed: Screenshot 2025-07-18 at 10.07.20 PM.png -> Certificate-Properties-ARRL.png
+2026-01-28 14:16:37,457 - INFO - Analyzing: Screenshot 2025-07-03 at 10.16.21 PM.png
+2026-01-28 14:16:39,289 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:39,294 - INFO - Renamed: Screenshot 2025-07-03 at 10.16.21 PM.png -> Email-Address-Input-Form.png
+2026-01-28 14:16:39,294 - INFO - Analyzing: Screenshot 2025-06-30 at 6.43.19 PM.png
+2026-01-28 14:16:45,333 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:45,336 - INFO - Renamed: Screenshot 2025-06-30 at 6.43.19 PM.png -> SKCC-Slow-Speed-Saunter.png
+2026-01-28 14:16:45,336 - INFO - Analyzing: Screenshot 2025-07-12 at 11.03.32 PM.png
+2026-01-28 14:16:48,507 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:48,510 - INFO - Renamed: Screenshot 2025-07-12 at 11.03.32 PM.png -> Job-Posting-UCLA-Health.png
+2026-01-28 14:16:48,510 - INFO - Analyzing: Screenshot 2025-06-26 at 10.29.41 PM.png
+2026-01-28 14:16:51,064 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:51,068 - INFO - Renamed: Screenshot 2025-06-26 at 10.29.41 PM.png -> PayPal-Checkout-Page.png
+2026-01-28 14:16:51,069 - INFO - Analyzing: Screenshot 2025-07-01 at 7.39.55 AM.png
+2026-01-28 14:16:53,421 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:53,425 - INFO - Renamed: Screenshot 2025-07-01 at 7.39.55 AM.png -> D-STAR-Registration-Validation.png
+2026-01-28 14:16:53,425 - INFO - Analyzing: Screenshot 2025-06-30 at 5.27.30 PM.png
+2026-01-28 14:16:55,160 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:55,164 - INFO - Renamed: Screenshot 2025-06-30 at 5.27.30 PM.png -> Ham-Radio-Contact-List.png
+2026-01-28 14:16:55,164 - INFO - Analyzing: Screenshot 2025-07-01 at 7.30.39 AM.png
+2026-01-28 14:16:57,212 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:57,216 - INFO - Renamed: Screenshot 2025-07-01 at 7.30.39 AM.png -> Callsign-Change-Form.png
+2026-01-28 14:16:57,216 - INFO - Analyzing: Screenshot 2025-06-30 at 5.28.19 PM.png
+2026-01-28 14:16:58,950 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:16:58,953 - INFO - Renamed: Screenshot 2025-06-30 at 5.28.19 PM.png -> TIN-Familiarity-Recognition-Table.png
+2026-01-28 14:16:58,953 - INFO - Analyzing: Screenshot 2025-06-29 at 11.16.16 AM.png
+2026-01-28 14:17:01,136 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:01,139 - INFO - Renamed: Screenshot 2025-06-29 at 11.16.16 AM.png -> Contest-Log-Amateur-Radio.png
+2026-01-28 14:17:01,139 - INFO - Analyzing: Screenshot 2025-06-26 at 6.32.27 AM.png
+2026-01-28 14:17:03,561 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:03,565 - INFO - Renamed: Screenshot 2025-06-26 at 6.32.27 AM.png -> Return-Request-History.png
+2026-01-28 14:17:03,565 - INFO - Analyzing: Screenshot 2025-06-30 at 6.48.39 PM.png
+2026-01-28 14:17:07,860 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-01-28 14:17:07,862 - ERROR - Error analyzing screenshot Screenshot 2025-06-30 at 6.48.39 PM.png: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 5594668 bytes > 5242880 bytes'}, 'request_id': 'req_011CXaYrnyvwmCSWGLt1A3Qn'}
+2026-01-28 14:17:07,862 - WARNING - Could not generate name for: Screenshot 2025-06-30 at 6.48.39 PM.png
+2026-01-28 14:17:07,862 - INFO - Analyzing: Screenshot 2025-07-18 at 9.18.14 PM.png
+2026-01-28 14:17:09,804 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:09,807 - INFO - Renamed: Screenshot 2025-07-18 at 9.18.14 PM.png -> SKCCLogger-Installation-Info.png
+2026-01-28 14:17:09,807 - INFO - Analyzing: Screenshot 2025-06-21 at 12.45.05 PM.png
+2026-01-28 14:17:15,440 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:15,444 - INFO - Renamed: Screenshot 2025-06-21 at 12.45.05 PM.png -> Ham-Radio-Contest-Rules.png
+2026-01-28 14:17:15,444 - INFO - Analyzing: Screenshot 2025-06-26 at 6.33.09 AM.png
+2026-01-28 14:17:17,690 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:17,693 - INFO - Renamed: Screenshot 2025-06-26 at 6.33.09 AM.png -> UPS-Shipping-Label.png
+2026-01-28 14:17:17,694 - INFO - Analyzing: Screenshot 2025-07-02 at 9.22.34 AM.png
+2026-01-28 14:17:19,842 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:19,845 - INFO - Renamed: Screenshot 2025-07-02 at 9.22.34 AM.png -> Medical-Bills-Zero-Balance.png
+2026-01-28 14:17:19,846 - INFO - Analyzing: Screenshot 2025-07-18 at 10.07.38 PM.png
+2026-01-28 14:17:21,887 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:21,891 - INFO - Renamed: Screenshot 2025-07-18 at 10.07.38 PM.png -> Callsign-Certificate-Request-Form.png
+2026-01-28 14:17:21,891 - INFO - Analyzing: Screenshot 2025-06-30 at 5.42.24 PM.png
+2026-01-28 14:17:24,959 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:24,963 - INFO - Renamed: Screenshot 2025-06-30 at 5.42.24 PM.png -> SKCC-Contest-Rules.png
+2026-01-28 14:17:24,963 - INFO - Analyzing: Screenshot 2025-07-03 at 10.16.44 PM.png
+2026-01-28 14:17:26,805 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:26,808 - INFO - Renamed: Screenshot 2025-07-03 at 10.16.44 PM.png -> Certificate-Request-Status.png
+2026-01-28 14:17:26,808 - INFO - Analyzing: Screenshot 2025-07-13 at 11.04.34 AM.png
+2026-01-28 14:17:28,545 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:28,550 - INFO - Renamed: Screenshot 2025-07-13 at 11.04.34 AM.png -> Credit-Card-Details.png
+2026-01-28 14:17:28,550 - INFO - Analyzing: Screenshot 2025-07-04 at 8.50.28 PM.png
+2026-01-28 14:17:30,694 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:30,699 - INFO - Renamed: Screenshot 2025-07-04 at 8.50.28 PM.png -> FCC-License-Database-Table.png
+2026-01-28 14:17:30,699 - INFO - Analyzing: Screenshot 2025-07-06 at 10.43.44 AM.png
+2026-01-28 14:17:32,639 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:32,643 - INFO - Renamed: Screenshot 2025-07-06 at 10.43.44 AM.png -> Belly-Dance-Class-Schedule.png
+2026-01-28 14:17:32,643 - INFO - Analyzing: Screenshot 2025-07-10 at 10.42.44 AM.png
+2026-01-28 14:17:34,617 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:34,621 - INFO - Renamed: Screenshot 2025-07-10 at 10.42.44 AM.png -> Mortgage-Payment-Transfer-Form.png
+2026-01-28 14:17:34,621 - INFO - Analyzing: Screenshot 2025-07-03 at 10.12.02 PM.png
+2026-01-28 14:17:36,431 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:36,434 - INFO - Renamed: Screenshot 2025-07-03 at 10.12.02 PM.png -> Certificate-Upload-Error-Log.png
+2026-01-28 14:17:36,435 - INFO - Analyzing: Screenshot 2025-07-02 at 8.51.29 AM.png
+2026-01-28 14:17:39,605 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:39,608 - INFO - Renamed: Screenshot 2025-07-02 at 8.51.29 AM.png -> ARRL-Logbook-Homepage.png
+2026-01-28 14:17:39,608 - INFO - Analyzing: Screenshot 2025-06-21 at 3.36.28 PM.png
+2026-01-28 14:17:41,306 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:41,310 - INFO - Renamed: Screenshot 2025-06-21 at 3.36.28 PM.png -> Thank-You-Order-Confirmation.png
+2026-01-28 14:17:41,311 - INFO - Analyzing: Screenshot 2025-07-16 at 6.43.19 AM.png
+2026-01-28 14:17:43,292 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:43,295 - INFO - Renamed: Screenshot 2025-07-16 at 6.43.19 AM.png -> Ham-License-Training-Discussion.png
+2026-01-28 14:17:43,295 - INFO - Analyzing: Screenshot 2025-06-28 at 1.53.38 PM.png
+2026-01-28 14:17:45,335 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:45,339 - INFO - Renamed: Screenshot 2025-06-28 at 1.53.38 PM.png -> Ham-Radio-Log-Data.png
+2026-01-28 14:17:45,340 - INFO - Analyzing: Screenshot 2025-06-21 at 9.22.33 AM.png
+2026-01-28 14:17:47,900 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:47,903 - INFO - Renamed: Screenshot 2025-06-21 at 9.22.33 AM.png -> Wyze-Router-Usage-Guide.png
+2026-01-28 14:17:47,904 - INFO - Analyzing: Screenshot 2025-06-30 at 6.04.22 PM.png
+2026-01-28 14:17:49,637 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:49,641 - INFO - Renamed: Screenshot 2025-06-30 at 6.04.22 PM.png -> Ham-Radio-Contact-List-1.png
+2026-01-28 14:17:49,641 - INFO - Analyzing: Screenshot 2025-06-28 at 10.48.58 PM.png
+2026-01-28 14:17:53,019 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:53,024 - INFO - Renamed: Screenshot 2025-06-28 at 10.48.58 PM.png -> Ham-Radio-Contest-Log.png
+2026-01-28 14:17:53,024 - INFO - Analyzing: Screenshot 2025-06-18 at 8.27.51 PM.png
+2026-01-28 14:17:55,065 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:55,068 - INFO - Renamed: Screenshot 2025-06-18 at 8.27.51 PM.png -> Vanity-Call-Predictions-KI2C.png
+2026-01-28 14:17:55,068 - INFO - Analyzing: Screenshot 2025-07-02 at 9.12.28 AM.png
+2026-01-28 14:17:56,501 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:56,504 - INFO - Renamed: Screenshot 2025-07-02 at 9.12.28 AM.png -> Certificate-Upload-Error-Messages.png
+2026-01-28 14:17:56,504 - INFO - Analyzing: Screenshot 2025-06-30 at 6.51.16 PM.png
+2026-01-28 14:17:58,443 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:17:58,447 - INFO - Renamed: Screenshot 2025-06-30 at 6.51.16 PM.png -> Ham-Radio-Callsigns-List.png
+2026-01-28 14:17:58,447 - INFO - Analyzing: Screenshot 2025-07-10 at 10.45.57 AM.png
+2026-01-28 14:18:00,287 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:00,290 - INFO - Renamed: Screenshot 2025-07-10 at 10.45.57 AM.png -> Transfer-Confirmation-Screen.png
+2026-01-28 14:18:00,290 - INFO - Analyzing: Screenshot 2025-06-30 at 5.27.17 PM.png
+2026-01-28 14:18:02,133 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:02,137 - INFO - Renamed: Screenshot 2025-06-30 at 5.27.17 PM.png -> Ham-Radio-Operators-List.png
+2026-01-28 14:18:02,137 - INFO - Analyzing: Screenshot 2025-07-04 at 11.13.11 AM.png
+2026-01-28 14:18:06,861 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:06,865 - INFO - Renamed: Screenshot 2025-07-04 at 11.13.11 AM.png -> AliExpress-Order-History.png
+2026-01-28 14:18:06,865 - INFO - Analyzing: Screenshot 2025-07-11 at 2.09.40 PM.png
+2026-01-28 14:18:09,298 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:09,302 - INFO - Renamed: Screenshot 2025-07-11 at 2.09.40 PM.png -> Morse-Code-Learning-Guide.png
+2026-01-28 14:18:09,302 - INFO - Analyzing: Screenshot 2025-06-26 at 10.28.58 PM.png
+2026-01-28 14:18:12,784 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:12,787 - INFO - Renamed: Screenshot 2025-06-26 at 10.28.58 PM.png -> BaMaTech-Payment-Checkout.png
+2026-01-28 14:18:12,788 - INFO - Analyzing: Screenshot 2025-07-03 at 10.16.04 PM.png
+2026-01-28 14:18:14,418 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:14,422 - INFO - Renamed: Screenshot 2025-07-03 at 10.16.04 PM.png -> Email-Input-Certificate-Form.png
+2026-01-28 14:18:14,422 - INFO - Analyzing: Screenshot 2025-06-28 at 10.20.14 PM.png
+2026-01-28 14:18:18,105 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:18,109 - INFO - Renamed: Screenshot 2025-06-28 at 10.20.14 PM.png -> Ham-Radio-Contact-Log.png
+2026-01-28 14:18:18,109 - INFO - Analyzing: Screenshot 2025-06-28 at 10.23.03 PM.png
+2026-01-28 14:18:19,951 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:19,954 - INFO - Renamed: Screenshot 2025-06-28 at 10.23.03 PM.png -> Ham-Radio-Form-Entry.png
+2026-01-28 14:18:19,954 - INFO - Analyzing: Screenshot 2025-07-12 at 11.01.22 PM.png
+2026-01-28 14:18:24,966 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-01-28 14:18:24,967 - ERROR - Error analyzing screenshot Screenshot 2025-07-12 at 11.01.22 PM.png: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.0.content.0.image.source.base64: image exceeds 5 MB maximum: 6692912 bytes > 5242880 bytes'}, 'request_id': 'req_011CXaYxUenTbDKvbZp31feR'}
+2026-01-28 14:18:24,967 - WARNING - Could not generate name for: Screenshot 2025-07-12 at 11.01.22 PM.png
+2026-01-28 14:18:24,967 - INFO - Analyzing: Screenshot 2025-06-30 at 6.16.03 PM.png
+2026-01-28 14:18:29,781 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:29,784 - INFO - Renamed: Screenshot 2025-06-30 at 6.16.03 PM.png -> Ham-Radio-13-Colonies-Event-1.png
+2026-01-28 14:18:29,785 - INFO - Analyzing: Screenshot 2025-06-30 at 6.52.13 PM.png
+2026-01-28 14:18:33,568 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:33,572 - INFO - Renamed: Screenshot 2025-06-30 at 6.52.13 PM.png -> Zoom-Meeting-Screen-Share.png
+2026-01-28 14:18:33,572 - INFO - Analyzing: Screenshot 2025-07-02 at 8.53.19 AM.png
+2026-01-28 14:18:35,514 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:35,518 - INFO - Renamed: Screenshot 2025-07-02 at 8.53.19 AM.png -> Callsign-Certificate-LoTW.png
+2026-01-28 14:18:35,518 - INFO - Analyzing: Screenshot 2025-07-04 at 11.27.19 AM.png
+2026-01-28 14:18:37,765 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:37,769 - INFO - Renamed: Screenshot 2025-07-04 at 11.27.19 AM.png -> HAM-Radio-Frequency-Display.png
+2026-01-28 14:18:37,770 - INFO - Analyzing: Screenshot 2025-07-03 at 10.06.58 PM.png
+2026-01-28 14:18:39,816 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:39,819 - INFO - Renamed: Screenshot 2025-07-03 at 10.06.58 PM.png -> Callsign-Change-Instructions.png
+2026-01-28 14:18:39,820 - INFO - Analyzing: Screenshot 2025-07-04 at 11.13.05 AM.png
+2026-01-28 14:18:42,988 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:42,992 - INFO - Renamed: Screenshot 2025-07-04 at 11.13.05 AM.png -> AliExpress-Order-Details.png
+2026-01-28 14:18:42,992 - INFO - Analyzing: Screenshot 2025-06-18 at 8.40.32 PM.png
+2026-01-28 14:18:45,036 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:45,040 - INFO - Renamed: Screenshot 2025-06-18 at 8.40.32 PM.png -> QRP-Frequency-Chart.png
+2026-01-28 14:18:45,040 - INFO - Analyzing: Screenshot 2025-07-18 at 10.07.48 PM.png
+2026-01-28 14:18:46,573 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:46,577 - INFO - Renamed: Screenshot 2025-07-18 at 10.07.48 PM.png -> Callsign-Certificate-Error-Message.png
+2026-01-28 14:18:46,577 - INFO - Analyzing: Screenshot 2025-07-03 at 9.26.11 PM.png
+2026-01-28 14:18:47,902 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:47,906 - INFO - Renamed: Screenshot 2025-07-03 at 9.26.11 PM.png -> Card-Replacement-Notification.png
+2026-01-28 14:18:47,906 - INFO - Analyzing: Screenshot 2025-07-03 at 9.17.12 PM.png
+2026-01-28 14:18:49,750 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:49,754 - INFO - Renamed: Screenshot 2025-07-03 at 9.17.12 PM.png -> Credit-Card-Details-Display.png
+2026-01-28 14:18:49,754 - INFO - Analyzing: Screenshot 2025-06-28 at 2.00.03 PM.png
+2026-01-28 14:18:51,507 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:51,510 - INFO - Renamed: Screenshot 2025-06-28 at 2.00.03 PM.png -> Ham-Radio-Log-Data-1.png
+2026-01-28 14:18:51,510 - INFO - Analyzing: Screenshot 2025-07-10 at 10.43.06 AM.png
+2026-01-28 14:18:53,131 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:53,134 - INFO - Renamed: Screenshot 2025-07-10 at 10.43.06 AM.png -> Transfer-Confirmation-Screen-1.png
+2026-01-28 14:18:53,135 - INFO - Analyzing: Screenshot 2025-07-01 at 9.49.47 AM.png
+2026-01-28 14:18:55,276 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:55,279 - INFO - Renamed: Screenshot 2025-07-01 at 9.49.47 AM.png -> Amateur-Radio-FT8-Log.png
+2026-01-28 14:18:55,280 - INFO - Analyzing: Screenshot 2025-06-30 at 6.32.12 PM.png
+2026-01-28 14:18:57,838 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:18:57,844 - INFO - Renamed: Screenshot 2025-06-30 at 6.32.12 PM.png -> RAC-Canada-Day-Contest-Rules.png
+2026-01-28 14:18:57,844 - INFO - Analyzing: Screenshot 2025-06-22 at 3.01.04 PM.png
+2026-01-28 14:19:01,018 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:19:01,021 - INFO - Renamed: Screenshot 2025-06-22 at 3.01.04 PM.png -> Wikipedia-Kiribati-Page.png
+2026-01-28 14:19:01,022 - INFO - Analyzing: Screenshot 2025-06-30 at 6.39.49 PM.png
+2026-01-28 14:19:04,724 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:19:04,729 - INFO - Renamed: Screenshot 2025-06-30 at 6.39.49 PM.png -> Ham-Radio-Contest-Rules-1.png
+2026-01-28 14:19:04,729 - INFO - Analyzing: Screenshot 2025-07-01 at 7.37.24 AM.png
+2026-01-28 14:19:06,540 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:19:06,545 - INFO - Renamed: Screenshot 2025-07-01 at 7.37.24 AM.png -> Morse-Code-NV6T-Explanation.png
+2026-01-28 14:19:06,545 - INFO - Analyzing: Screenshot 2025-06-27 at 8.45.55 PM.png
+2026-01-28 14:19:08,294 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-01-28 14:19:08,297 - INFO - Renamed: Screenshot 2025-06-27 at 8.45.55 PM.png -> Radio-Station-Transmission-Info.png
+2026-01-28 14:19:08,297 - INFO - 
+Organizing files into folders...
+2026-01-28 14:19:08,298 - INFO - Created folder: Images
+2026-01-28 14:19:08,298 - INFO - Moved: Bank-Payment-Change-Screen.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Bank-Payment-Change-Screen.png
+2026-01-28 14:19:08,299 - INFO - Moved: Patient-Payment-History.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Patient-Payment-History.png
+2026-01-28 14:19:08,299 - INFO - Moved: Ham-Radio-13-Colonies-Event.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-13-Colonies-Event.png
+2026-01-28 14:19:08,300 - INFO - Moved: Screenshot 2025-07-12 at 11.01.33 PM.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Screenshot 2025-07-12 at 11.01.33 PM.png
+2026-01-28 14:19:08,302 - INFO - Moved: Certificate-Properties-ARRL.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Certificate-Properties-ARRL.png
+2026-01-28 14:19:08,303 - INFO - Moved: Email-Address-Input-Form.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Email-Address-Input-Form.png
+2026-01-28 14:19:08,304 - INFO - Moved: SKCC-Slow-Speed-Saunter.png -> /Users/gw-air/Desktop/DESK_MESS/Images/SKCC-Slow-Speed-Saunter.png
+2026-01-28 14:19:08,305 - INFO - Moved: Job-Posting-UCLA-Health.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Job-Posting-UCLA-Health.png
+2026-01-28 14:19:08,305 - INFO - Moved: PayPal-Checkout-Page.png -> /Users/gw-air/Desktop/DESK_MESS/Images/PayPal-Checkout-Page.png
+2026-01-28 14:19:08,305 - INFO - Moved: D-STAR-Registration-Validation.png -> /Users/gw-air/Desktop/DESK_MESS/Images/D-STAR-Registration-Validation.png
+2026-01-28 14:19:08,306 - INFO - Moved: Ham-Radio-Contact-List.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Contact-List.png
+2026-01-28 14:19:08,306 - INFO - Moved: Callsign-Change-Form.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Callsign-Change-Form.png
+2026-01-28 14:19:08,307 - INFO - Moved: TIN-Familiarity-Recognition-Table.png -> /Users/gw-air/Desktop/DESK_MESS/Images/TIN-Familiarity-Recognition-Table.png
+2026-01-28 14:19:08,307 - INFO - Moved: Contest-Log-Amateur-Radio.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Contest-Log-Amateur-Radio.png
+2026-01-28 14:19:08,308 - INFO - Moved: Return-Request-History.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Return-Request-History.png
+2026-01-28 14:19:08,309 - INFO - Moved: Screenshot 2025-06-30 at 6.48.39 PM.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Screenshot 2025-06-30 at 6.48.39 PM.png
+2026-01-28 14:19:08,309 - INFO - Moved: SKCCLogger-Installation-Info.png -> /Users/gw-air/Desktop/DESK_MESS/Images/SKCCLogger-Installation-Info.png
+2026-01-28 14:19:08,310 - INFO - Moved: Ham-Radio-Contest-Rules.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Contest-Rules.png
+2026-01-28 14:19:08,310 - INFO - Moved: UPS-Shipping-Label.png -> /Users/gw-air/Desktop/DESK_MESS/Images/UPS-Shipping-Label.png
+2026-01-28 14:19:08,310 - INFO - Moved: Medical-Bills-Zero-Balance.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Medical-Bills-Zero-Balance.png
+2026-01-28 14:19:08,311 - INFO - Moved: Callsign-Certificate-Request-Form.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Callsign-Certificate-Request-Form.png
+2026-01-28 14:19:08,312 - INFO - Moved: SKCC-Contest-Rules.png -> /Users/gw-air/Desktop/DESK_MESS/Images/SKCC-Contest-Rules.png
+2026-01-28 14:19:08,313 - INFO - Moved: Certificate-Request-Status.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Certificate-Request-Status.png
+2026-01-28 14:19:08,314 - INFO - Moved: Credit-Card-Details.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Credit-Card-Details.png
+2026-01-28 14:19:08,314 - INFO - Moved: FCC-License-Database-Table.png -> /Users/gw-air/Desktop/DESK_MESS/Images/FCC-License-Database-Table.png
+2026-01-28 14:19:08,315 - INFO - Moved: Belly-Dance-Class-Schedule.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Belly-Dance-Class-Schedule.png
+2026-01-28 14:19:08,315 - INFO - Moved: Mortgage-Payment-Transfer-Form.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Mortgage-Payment-Transfer-Form.png
+2026-01-28 14:19:08,316 - INFO - Moved: Certificate-Upload-Error-Log.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Certificate-Upload-Error-Log.png
+2026-01-28 14:19:08,316 - INFO - Moved: ARRL-Logbook-Homepage.png -> /Users/gw-air/Desktop/DESK_MESS/Images/ARRL-Logbook-Homepage.png
+2026-01-28 14:19:08,316 - INFO - Moved: Thank-You-Order-Confirmation.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Thank-You-Order-Confirmation.png
+2026-01-28 14:19:08,317 - INFO - Moved: Ham-License-Training-Discussion.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-License-Training-Discussion.png
+2026-01-28 14:19:08,317 - INFO - Moved: Ham-Radio-Log-Data.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Log-Data.png
+2026-01-28 14:19:08,318 - INFO - Moved: Wyze-Router-Usage-Guide.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Wyze-Router-Usage-Guide.png
+2026-01-28 14:19:08,318 - INFO - Moved: Ham-Radio-Contact-List-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Contact-List-1.png
+2026-01-28 14:19:08,319 - INFO - Moved: Ham-Radio-Contest-Log.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Contest-Log.png
+2026-01-28 14:19:08,319 - INFO - Moved: Vanity-Call-Predictions-KI2C.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Vanity-Call-Predictions-KI2C.png
+2026-01-28 14:19:08,320 - INFO - Moved: Certificate-Upload-Error-Messages.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Certificate-Upload-Error-Messages.png
+2026-01-28 14:19:08,321 - INFO - Moved: Ham-Radio-Callsigns-List.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Callsigns-List.png
+2026-01-28 14:19:08,321 - INFO - Moved: Transfer-Confirmation-Screen.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Transfer-Confirmation-Screen.png
+2026-01-28 14:19:08,322 - INFO - Moved: Ham-Radio-Operators-List.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Operators-List.png
+2026-01-28 14:19:08,322 - INFO - Moved: AliExpress-Order-History.png -> /Users/gw-air/Desktop/DESK_MESS/Images/AliExpress-Order-History.png
+2026-01-28 14:19:08,322 - INFO - Moved: Morse-Code-Learning-Guide.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Morse-Code-Learning-Guide.png
+2026-01-28 14:19:08,323 - INFO - Moved: BaMaTech-Payment-Checkout.png -> /Users/gw-air/Desktop/DESK_MESS/Images/BaMaTech-Payment-Checkout.png
+2026-01-28 14:19:08,323 - INFO - Moved: Email-Input-Certificate-Form.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Email-Input-Certificate-Form.png
+2026-01-28 14:19:08,323 - INFO - Moved: Ham-Radio-Contact-Log.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Contact-Log.png
+2026-01-28 14:19:08,324 - INFO - Moved: Ham-Radio-Form-Entry.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Form-Entry.png
+2026-01-28 14:19:08,324 - INFO - Moved: Screenshot 2025-07-12 at 11.01.22 PM.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Screenshot 2025-07-12 at 11.01.22 PM.png
+2026-01-28 14:19:08,324 - INFO - Moved: Ham-Radio-13-Colonies-Event-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-13-Colonies-Event-1.png
+2026-01-28 14:19:08,325 - INFO - Moved: Zoom-Meeting-Screen-Share.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Zoom-Meeting-Screen-Share.png
+2026-01-28 14:19:08,325 - INFO - Moved: Callsign-Certificate-LoTW.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Callsign-Certificate-LoTW.png
+2026-01-28 14:19:08,325 - INFO - Moved: HAM-Radio-Frequency-Display.png -> /Users/gw-air/Desktop/DESK_MESS/Images/HAM-Radio-Frequency-Display.png
+2026-01-28 14:19:08,326 - INFO - Moved: Callsign-Change-Instructions.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Callsign-Change-Instructions.png
+2026-01-28 14:19:08,326 - INFO - Moved: AliExpress-Order-Details.png -> /Users/gw-air/Desktop/DESK_MESS/Images/AliExpress-Order-Details.png
+2026-01-28 14:19:08,326 - INFO - Moved: QRP-Frequency-Chart.png -> /Users/gw-air/Desktop/DESK_MESS/Images/QRP-Frequency-Chart.png
+2026-01-28 14:19:08,326 - INFO - Moved: Callsign-Certificate-Error-Message.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Callsign-Certificate-Error-Message.png
+2026-01-28 14:19:08,327 - INFO - Moved: Card-Replacement-Notification.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Card-Replacement-Notification.png
+2026-01-28 14:19:08,327 - INFO - Moved: Credit-Card-Details-Display.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Credit-Card-Details-Display.png
+2026-01-28 14:19:08,328 - INFO - Moved: Ham-Radio-Log-Data-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Log-Data-1.png
+2026-01-28 14:19:08,328 - INFO - Moved: Transfer-Confirmation-Screen-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Transfer-Confirmation-Screen-1.png
+2026-01-28 14:19:08,329 - INFO - Moved: Amateur-Radio-FT8-Log.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Amateur-Radio-FT8-Log.png
+2026-01-28 14:19:08,329 - INFO - Moved: RAC-Canada-Day-Contest-Rules.png -> /Users/gw-air/Desktop/DESK_MESS/Images/RAC-Canada-Day-Contest-Rules.png
+2026-01-28 14:19:08,329 - INFO - Moved: Wikipedia-Kiribati-Page.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Wikipedia-Kiribati-Page.png
+2026-01-28 14:19:08,329 - INFO - Moved: Ham-Radio-Contest-Rules-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Ham-Radio-Contest-Rules-1.png
+2026-01-28 14:19:08,330 - INFO - Moved: Morse-Code-NV6T-Explanation.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Morse-Code-NV6T-Explanation.png
+2026-01-28 14:19:08,330 - INFO - Moved: Radio-Station-Transmission-Info.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Radio-Station-Transmission-Info.png
+2026-01-28 14:19:08,331 - INFO - Created folder: Shortcuts
+2026-01-28 14:19:08,331 - INFO - Moved: Learn Morse Code - CW with The Long Island CW Club.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Learn Morse Code - CW with The Long Island CW Club.webloc
+2026-01-28 14:19:08,331 - INFO - Created folder: Documents
+2026-01-28 14:19:08,331 - INFO - Moved: July 03.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/July 03.pdf
+2026-01-28 14:19:08,331 - INFO - Moved: ARRL's Logbook of the World.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/ARRL's Logbook of the World.webloc
+2026-01-28 14:19:08,332 - INFO - Created folder: Other
+2026-01-28 14:19:08,332 - INFO - Moved: Clean_AJ6RX_AJ6RX - Field Day 2025 Log_1751650114385.adi -> /Users/gw-air/Desktop/DESK_MESS/Other/Clean_AJ6RX_AJ6RX - Field Day 2025 Log_1751650114385.adi
+2026-01-28 14:19:08,332 - INFO - Moved: temu-catio-0.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-catio-0.png
+2026-01-28 14:19:08,332 - INFO - Moved: Senior Golden Bear Pass.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Senior Golden Bear Pass.webloc
+2026-01-28 14:19:08,333 - INFO - Moved: 2024_F5695_2025-10-19_052644.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_F5695_2025-10-19_052644.pdf
+2026-01-28 14:19:08,333 - INFO - Moved: fidelity_110325_08.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_08.png
+2026-01-28 14:19:08,333 - INFO - Moved: REFERENCE INFO FOR GOTAHAMS MEMBERS-2025-08-29.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/REFERENCE INFO FOR GOTAHAMS MEMBERS-2025-08-29.pdf
+2026-01-28 14:19:08,334 - INFO - Moved: The-Secrets-of-Easy-Morse-Code-Sending.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/The-Secrets-of-Easy-Morse-Code-Sending.pdf
+2026-01-28 14:19:08,334 - INFO - Created folder: Archives
+2026-01-28 14:19:08,334 - INFO - Moved: Discord.dmg -> /Users/gw-air/Desktop/DESK_MESS/Archives/Discord.dmg
+2026-01-28 14:19:08,335 - INFO - Moved: CountyAbbrev-V4.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/CountyAbbrev-V4.pdf
+2026-01-28 14:19:08,335 - INFO - Moved: 2024_FEDERAL_RETURN_2025-10-19_060140.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_FEDERAL_RETURN_2025-10-19_060140.pdf
+2026-01-28 14:19:08,335 - INFO - Moved: SKCC_Handbook_2025_English.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/SKCC_Handbook_2025_English.pdf
+2026-01-28 14:19:08,336 - INFO - Moved: clublabs folks 2025.jpeg -> /Users/gw-air/Desktop/DESK_MESS/Images/clublabs folks 2025.jpeg
+2026-01-28 14:19:08,336 - INFO - Moved: 2489 Black River Falls Drive Henderson NV 89044.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/2489 Black River Falls Drive Henderson NV 89044.webloc
+2026-01-28 14:19:08,336 - INFO - Moved: bitcoin.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/bitcoin.pdf
+2026-01-28 14:19:08,337 - INFO - Moved: (281) Field Day CW Exchanges - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(281) Field Day CW Exchanges - YouTube.webloc
+2026-01-28 14:19:08,337 - INFO - Moved: splinter.png -> /Users/gw-air/Desktop/DESK_MESS/Images/splinter.png
+2026-01-28 14:19:08,337 - INFO - Moved: 2024_CA_RETURN_2025-10-19_055849.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_CA_RETURN_2025-10-19_055849.pdf
+2026-01-28 14:19:08,338 - INFO - Moved: eStmt_2025-07-22.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-07-22.pdf
+2026-01-28 14:19:08,338 - INFO - Moved: me_irs_2024_taxes.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_irs_2024_taxes.png
+2026-01-28 14:19:08,338 - INFO - Moved: aws-hints.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/aws-hints.md
+2026-01-28 14:19:08,339 - INFO - Moved: temu-catio-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-catio-1.png
+2026-01-28 14:19:08,339 - INFO - Moved: cathouse.png -> /Users/gw-air/Desktop/DESK_MESS/Images/cathouse.png
+2026-01-28 14:19:08,339 - INFO - Moved: 2024_F1040SB_2025-10-19_045532.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_F1040SB_2025-10-19_045532.pdf
+2026-01-28 14:19:08,339 - INFO - Moved: kx3-CheatSheet.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/kx3-CheatSheet.zip
+2026-01-28 14:19:08,340 - INFO - Moved: 2025 Summer Activities Brochoure.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2025 Summer Activities Brochoure.pdf
+2026-01-28 14:19:08,340 - INFO - Moved: bills.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/bills.numbers
+2026-01-28 14:19:08,340 - INFO - Moved: eStmt_2025-05-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-05-25.pdf
+2026-01-28 14:19:08,341 - INFO - Moved: 2025-09-07_transaction_download.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/2025-09-07_transaction_download.csv
+2026-01-28 14:19:08,341 - INFO - Moved: 2024_FEDERAL_RETURN_2025-10-19_055846.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_FEDERAL_RETURN_2025-10-19_055846.pdf
+2026-01-28 14:19:08,341 - INFO - Moved: jun022025_visit-2.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/jun022025_visit-2.pdf
+2026-01-28 14:19:08,341 - INFO - Moved: bingo-dab.webp -> /Users/gw-air/Desktop/DESK_MESS/Images/bingo-dab.webp
+2026-01-28 14:19:08,342 - INFO - Moved: Statement5312025.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Statement5312025.pdf
+2026-01-28 14:19:08,342 - INFO - Moved: bitcoin.pdf.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/bitcoin.pdf.webloc
+2026-01-28 14:19:08,342 - INFO - Moved: Sr. Cloud DevOps Engineer - Los Angeles, CA 90095 - Indeed.com.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Sr. Cloud DevOps Engineer - Los Angeles, CA 90095 - Indeed.com.webloc
+2026-01-28 14:19:08,342 - INFO - Moved: US-Employment-Verification-Process-v2.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/US-Employment-Verification-Process-v2.pdf
+2026-01-28 14:19:08,342 - INFO - Moved: (795) Never Say These 4 Things at Work (Protect Your Job) - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(795) Never Say These 4 Things at Work (Protect Your Job) - YouTube.webloc
+2026-01-28 14:19:08,343 - INFO - Moved: certs.tq6 -> /Users/gw-air/Desktop/DESK_MESS/Other/certs.tq6
+2026-01-28 14:19:08,343 - INFO - Moved: K6QCB - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/K6QCB - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:19:08,343 - INFO - Moved: MAY-Bills.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/MAY-Bills.pdf
+2026-01-28 14:19:08,344 - INFO - Moved: Activity search | Online Services.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Activity search | Online Services.webloc
+2026-01-28 14:19:08,344 - INFO - Moved: TWO−LETTER STATE AND TERRITORY ABBREVIATIONS 2.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/TWO−LETTER STATE AND TERRITORY ABBREVIATIONS 2.webloc
+2026-01-28 14:19:08,344 - INFO - Moved: Mac Ham Radio Software - The DXZone.com.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Mac Ham Radio Software - The DXZone.com.webloc
+2026-01-28 14:19:08,345 - INFO - Moved: Video for Silverwood Lake State Recreation Area.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Video for Silverwood Lake State Recreation Area.webloc
+2026-01-28 14:19:08,345 - INFO - Moved: W6JIM_Protocol_PDF-July-2025.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/W6JIM_Protocol_PDF-July-2025.pdf
+2026-01-28 14:19:08,345 - INFO - Moved: rmy-hla-305v.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/rmy-hla-305v.pdf
+2026-01-28 14:19:08,346 - INFO - Moved: ARRL-Bands.png -> /Users/gw-air/Desktop/DESK_MESS/Images/ARRL-Bands.png
+2026-01-28 14:19:08,346 - INFO - Moved: cat_shirts.png -> /Users/gw-air/Desktop/DESK_MESS/Images/cat_shirts.png
+2026-01-28 14:19:08,346 - INFO - Moved: temu-catio-2.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-catio-2.png
+2026-01-28 14:19:08,347 - INFO - Moved: KF8ASEHamRadioSupply - Etsy.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/KF8ASEHamRadioSupply - Etsy.webloc
+2026-01-28 14:19:08,347 - INFO - Moved: Media Magik Entertainment - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Media Magik Entertainment - YouTube.webloc
+2026-01-28 14:19:08,348 - INFO - Moved: logix-1098-mortgage-2024.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/logix-1098-mortgage-2024.pdf
+2026-01-28 14:19:08,348 - INFO - Moved: ou.jpeg -> /Users/gw-air/Desktop/DESK_MESS/Images/ou.jpeg
+2026-01-28 14:19:08,349 - INFO - Moved: eStmt_2025-05-20.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-05-20.pdf
+2026-01-28 14:19:08,349 - INFO - Moved: NetLogger_3.1.7_MacOSX_x64.dmg -> /Users/gw-air/Desktop/DESK_MESS/Archives/NetLogger_3.1.7_MacOSX_x64.dmg
+2026-01-28 14:19:08,349 - INFO - Moved: The NEAT Effect_ How Small Movements Can Lead to Big Weight Loss _ The Art of Manliness.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/The NEAT Effect_ How Small Movements Can Lead to Big Weight Loss _ The Art of Manliness.pdf
+2026-01-28 14:19:08,350 - INFO - Moved: eStmt_2025-07-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-07-25.pdf
+2026-01-28 14:19:08,350 - INFO - Moved: Morse code chart.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Morse code chart.webloc
+2026-01-28 14:19:08,350 - INFO - Moved: Renewing — Logbook of the World (LoTW) Help Pages.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Renewing — Logbook of the World (LoTW) Help Pages.webloc
+2026-01-28 14:19:08,351 - INFO - Moved: my Girls_465249720_10162343663250452_5905320158808272251_n.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/my Girls_465249720_10162343663250452_5905320158808272251_n.jpg
+2026-01-28 14:19:08,351 - INFO - Moved: Xiegu_XPA125B_Instruction_Manual_V1.0.2_20220905.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Xiegu_XPA125B_Instruction_Manual_V1.0.2_20220905.pdf
+2026-01-28 14:19:08,351 - INFO - Created folder: Audio
+2026-01-28 14:19:08,351 - INFO - Moved: websdr_recording_2025-08-11T03_48_50Z_7453.3kHz.wav -> /Users/gw-air/Desktop/DESK_MESS/Audio/websdr_recording_2025-08-11T03_48_50Z_7453.3kHz.wav
+2026-01-28 14:19:08,352 - INFO - Moved: SKCC_Handbook_2025_English (1).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/SKCC_Handbook_2025_English (1).pdf
+2026-01-28 14:19:08,352 - INFO - Moved: rmy-mla300v.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/rmy-mla300v.pdf
+2026-01-28 14:19:08,352 - INFO - Moved: Lake Skinner Recreation Area | Rivcoparks.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Lake Skinner Recreation Area | Rivcoparks.webloc
+2026-01-28 14:19:08,353 - INFO - Moved: radiodan-w7rf | eBay Stores.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/radiodan-w7rf | eBay Stores.webloc
+2026-01-28 14:19:08,353 - INFO - Moved: SKCC - News letter.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/SKCC - News letter.webloc
+2026-01-28 14:19:08,353 - INFO - Moved: crypto_allPORT_091225.png -> /Users/gw-air/Desktop/DESK_MESS/Images/crypto_allPORT_091225.png
+2026-01-28 14:19:08,353 - INFO - Moved: June 04.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/June 04.pdf
+2026-01-28 14:19:08,354 - INFO - Moved: February 05.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/February 05.pdf
+2026-01-28 14:19:08,354 - INFO - Moved: invoice_53996.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/invoice_53996.pdf
+2026-01-28 14:19:08,354 - INFO - Moved: Morsle - the daily Morse code challenge.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Morsle - the daily Morse code challenge.webloc
+2026-01-28 14:19:08,354 - INFO - Moved: Conditions_of_Use (1).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Conditions_of_Use (1).pdf
+2026-01-28 14:19:08,355 - INFO - Moved: config.tq6 -> /Users/gw-air/Desktop/DESK_MESS/Other/config.tq6
+2026-01-28 14:19:08,355 - INFO - Moved: (939) WW3 Threat Assessment- The West Is Collapsing, Can We Stop It?! They Want You Confused & Obedient! - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(939) WW3 Threat Assessment- The West Is Collapsing, Can We Stop It?! They Want You Confused & Obedient! - YouTube.webloc
+2026-01-28 14:19:08,355 - INFO - Moved: How to Practice CW, How to Advance, and Exercise Quick Reference.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/How to Practice CW, How to Advance, and Exercise Quick Reference.pdf
+2026-01-28 14:19:08,356 - INFO - Moved: (1) Dalton Fischer Podcast - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(1) Dalton Fischer Podcast - YouTube.webloc
+2026-01-28 14:19:08,356 - INFO - Moved: logix-1098-mortgage-2023.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/logix-1098-mortgage-2023.pdf
+2026-01-28 14:19:08,356 - INFO - Moved: bingo.webp -> /Users/gw-air/Desktop/DESK_MESS/Images/bingo.webp
+2026-01-28 14:19:08,356 - INFO - Moved: NV6T@US-3430-09222025.adi -> /Users/gw-air/Desktop/DESK_MESS/Other/NV6T@US-3430-09222025.adi
+2026-01-28 14:19:08,356 - INFO - Moved: Orders.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Orders.webloc
+2026-01-28 14:19:08,357 - INFO - Moved: 2024_F5695_2025-10-19_052523.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_F5695_2025-10-19_052523.pdf
+2026-01-28 14:19:08,357 - INFO - Moved: W0C - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/W0C - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:19:08,357 - INFO - Moved: FCC_APPLICTIONS_06-21-25.png -> /Users/gw-air/Desktop/DESK_MESS/Images/FCC_APPLICTIONS_06-21-25.png
+2026-01-28 14:19:08,357 - INFO - Moved: me_aj-44-colorpax-lip-color-chart.webp -> /Users/gw-air/Desktop/DESK_MESS/Images/me_aj-44-colorpax-lip-color-chart.webp
+2026-01-28 14:19:08,358 - INFO - Moved: NAQP-Rules.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/NAQP-Rules.pdf
+2026-01-28 14:19:08,358 - INFO - Moved: revocation-RIGHT-Germany-CW-Key.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/revocation-RIGHT-Germany-CW-Key.md
+2026-01-28 14:19:08,358 - INFO - Moved: Camping Reservations | Ventura County Parks.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Camping Reservations | Ventura County Parks.webloc
+2026-01-28 14:19:08,359 - INFO - Moved: stmt.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/stmt.csv
+2026-01-28 14:19:08,359 - INFO - Moved: (229) I Built My Own Ham Radio Go-Box From Scratch! - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(229) I Built My Own Ham Radio Go-Box From Scratch! - YouTube.webloc
+2026-01-28 14:19:08,359 - INFO - Moved: WW DIGI - Rules.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/WW DIGI - Rules.webloc
+2026-01-28 14:19:08,359 - INFO - Moved: n4w.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/n4w.md
+2026-01-28 14:19:08,359 - INFO - Moved: Contest QSO Protocol - K7DRQ.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Contest QSO Protocol - K7DRQ.webloc
+2026-01-28 14:19:08,360 - INFO - Moved: Morse Code Practice Tool - mitxela.com.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Morse Code Practice Tool - mitxela.com.webloc
+2026-01-28 14:19:08,360 - INFO - Moved: (452) Morse Code Basics - Introduction to the Straight Key - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(452) Morse Code Basics - Introduction to the Straight Key - YouTube.webloc
+2026-01-28 14:19:08,361 - INFO - Moved: 2nd dress refund request.png -> /Users/gw-air/Desktop/DESK_MESS/Images/2nd dress refund request.png
+2026-01-28 14:19:08,361 - INFO - Moved: 511329423_708074521977854_311706148567149698_n.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/511329423_708074521977854_311706148567149698_n.jpg
+2026-01-28 14:19:08,361 - INFO - Moved: Schurr Einbau-Wabbler.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Schurr Einbau-Wabbler.webloc
+2026-01-28 14:19:08,362 - INFO - Moved: 513950195_708074518644521_2776613369150934447_n.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/513950195_708074518644521_2776613369150934447_n.jpg
+2026-01-28 14:19:08,362 - INFO - Moved: crypto_qqq_buy.png -> /Users/gw-air/Desktop/DESK_MESS/Images/crypto_qqq_buy.png
+2026-01-28 14:19:08,362 - INFO - Moved: FCC#0011606081_Application_15451698621202516225.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/FCC#0011606081_Application_15451698621202516225.pdf
+2026-01-28 14:19:08,362 - INFO - Moved: Vanity predictions for applicant call AJ6RX 2.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Vanity predictions for applicant call AJ6RX 2.webloc
+2026-01-28 14:19:08,363 - INFO - Moved: revisit this for TAXES.png -> /Users/gw-air/Desktop/DESK_MESS/Images/revisit this for TAXES.png
+2026-01-28 14:19:08,363 - INFO - Moved: 3897dbd2-4d7f-4c0e-9781-949d946fa9fb.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/3897dbd2-4d7f-4c0e-9781-949d946fa9fb.pdf
+2026-01-28 14:19:08,363 - INFO - Moved: temu-02.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-02.png
+2026-01-28 14:19:08,363 - INFO - Moved: irs_110325_01.png -> /Users/gw-air/Desktop/DESK_MESS/Images/irs_110325_01.png
+2026-01-28 14:19:08,363 - INFO - Moved: California State Park Passes.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/California State Park Passes.webloc
+2026-01-28 14:19:08,364 - INFO - Moved: Field Day Exchange.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/Field Day Exchange.md
+2026-01-28 14:19:08,364 - INFO - Moved: catio.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/catio.pdf
+2026-01-28 14:19:08,364 - INFO - Moved: equipment_export_20250803_221429.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/equipment_export_20250803_221429.csv
+2026-01-28 14:19:08,364 - INFO - Moved: eStmt_2025-03-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-03-25.pdf
+2026-01-28 14:19:08,364 - INFO - Moved: portfolio_export_20250803_203931.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/portfolio_export_20250803_203931.csv
+2026-01-28 14:19:08,365 - INFO - Moved: ft8-FD2025.adif -> /Users/gw-air/Desktop/DESK_MESS/Other/ft8-FD2025.adif
+2026-01-28 14:19:08,365 - INFO - Moved: Invoice_25053878.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Invoice_25053878.pdf
+2026-01-28 14:19:08,365 - INFO - Moved: irs_110325_00.png -> /Users/gw-air/Desktop/DESK_MESS/Images/irs_110325_00.png
+2026-01-28 14:19:08,365 - INFO - Moved: callSign.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/callSign.numbers
+2026-01-28 14:19:08,365 - INFO - Moved: temu-03.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-03.png
+2026-01-28 14:19:08,366 - INFO - Moved: Using Claude Code with your Pro or Max plan | Anthropic Help Center.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Using Claude Code with your Pro or Max plan | Anthropic Help Center.webloc
+2026-01-28 14:19:08,366 - INFO - Moved: (105) The Veteran Shootout Scene - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(105) The Veteran Shootout Scene - YouTube.webloc
+2026-01-28 14:19:08,366 - INFO - Moved: licw.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/licw.md
+2026-01-28 14:19:08,366 - INFO - Moved: cp22a.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/cp22a.pdf
+2026-01-28 14:19:08,367 - INFO - Moved: calls.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/calls.md
+2026-01-28 14:19:08,367 - INFO - Moved: Magazine Viewer - Vol 18.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Magazine Viewer - Vol 18.webloc
+2026-01-28 14:19:08,367 - INFO - Moved: Bank of America _ Online Banking _ Bill Pay _ Payment Confirmation.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Bank of America _ Online Banking _ Bill Pay _ Payment Confirmation.pdf
+2026-01-28 14:19:08,368 - INFO - Moved: (61) Toxic workplace culture and When employees no longer care. (Office Space) - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(61) Toxic workplace culture and When employees no longer care. (Office Space) - YouTube.webloc
+2026-01-28 14:19:08,368 - INFO - Moved: Rincon Parkway 72 pricing 1 night.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Rincon Parkway 72 pricing 1 night.png
+2026-01-28 14:19:08,368 - INFO - Moved: Edit Repeater | BrandMeister.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Edit Repeater | BrandMeister.webloc
+2026-01-28 14:19:08,368 - INFO - Moved: equipment_export_20250803_220858.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/equipment_export_20250803_220858.csv
+2026-01-28 14:19:08,369 - INFO - Moved: RM Italy KL 505v HF Linear Amplifier with Fans (3-30 mhz).webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/RM Italy KL 505v HF Linear Amplifier with Fans (3-30 mhz).webloc
+2026-01-28 14:19:08,369 - INFO - Moved: eStmt_2025-01-22.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-01-22.pdf
+2026-01-28 14:19:08,369 - INFO - Moved: SKCC-QSO-Protocol.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/SKCC-QSO-Protocol.pdf
+2026-01-28 14:19:08,369 - INFO - Moved: (123) iambic keys - cwoops - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(123) iambic keys - cwoops - YouTube.webloc
+2026-01-28 14:19:08,370 - INFO - Moved: Statement closed Jun 04, 2025.CSV -> /Users/gw-air/Desktop/DESK_MESS/Documents/Statement closed Jun 04, 2025.CSV
+2026-01-28 14:19:08,370 - INFO - Moved: WorldRadioLeague_QSOMap_NV6T.jpeg -> /Users/gw-air/Desktop/DESK_MESS/Images/WorldRadioLeague_QSOMap_NV6T.jpeg
+2026-01-28 14:19:08,370 - INFO - Moved: knee_board.jpeg -> /Users/gw-air/Desktop/DESK_MESS/Images/knee_board.jpeg
+2026-01-28 14:19:08,370 - INFO - Moved: Park Information.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Park Information.webloc
+2026-01-28 14:19:08,370 - INFO - Moved: 2024_F5695WEWKSHT_2025-10-19_052641.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_F5695WEWKSHT_2025-10-19_052641.pdf
+2026-01-28 14:19:08,371 - INFO - Moved: (339) cw code ninja - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(339) cw code ninja - YouTube.webloc
+2026-01-28 14:19:08,371 - INFO - Moved: wsjtx-3.0.0_improved_PLUS_250915-RC1_M1.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/wsjtx-3.0.0_improved_PLUS_250915-RC1_M1.zip
+2026-01-28 14:19:08,371 - INFO - Moved: temu-01.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-01.png
+2026-01-28 14:19:08,371 - INFO - Moved: Tues-Wed_Rincon#077.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Tues-Wed_Rincon#077.png
+2026-01-28 14:19:08,372 - INFO - Moved: irs_110325_02.png -> /Users/gw-air/Desktop/DESK_MESS/Images/irs_110325_02.png
+2026-01-28 14:19:08,372 - INFO - Moved: Vanity predictions for applicant call AJ6RX.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Vanity predictions for applicant call AJ6RX.webloc
+2026-01-28 14:19:08,372 - INFO - Moved: catio_issues.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/catio_issues.md
+2026-01-28 14:19:08,372 - INFO - Moved: N4SIX:R - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/N4SIX:R - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:19:08,372 - INFO - Moved: 1098 - Logix - 2024-12-31.PDF -> /Users/gw-air/Desktop/DESK_MESS/Documents/1098 - Logix - 2024-12-31.PDF
+2026-01-28 14:19:08,373 - INFO - Moved: Withdrawal.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Withdrawal.pdf
+2026-01-28 14:19:08,373 - INFO - Moved: LongIslandCWClub@groups.io | Class &amp; Forum Schedule for next week.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/LongIslandCWClub@groups.io | Class &amp; Forum Schedule for next week.webloc
+2026-01-28 14:19:08,373 - INFO - Moved: hsm_cw_newbies.png -> /Users/gw-air/Desktop/DESK_MESS/Images/hsm_cw_newbies.png
+2026-01-28 14:19:08,373 - INFO - Moved: RM Italy HLA 150V Plus Professional Linear Amplifier With Fans (1.8-30MHz).webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/RM Italy HLA 150V Plus Professional Linear Amplifier With Fans (1.8-30MHz).webloc
+2026-01-28 14:19:08,373 - INFO - Moved: 2025_rules_cqww.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2025_rules_cqww.pdf
+2026-01-28 14:19:08,374 - INFO - Moved: june022025_visit.PDF -> /Users/gw-air/Desktop/DESK_MESS/Documents/june022025_visit.PDF
+2026-01-28 14:19:08,374 - INFO - Moved: eStmt_2025-06-25 (1).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-06-25 (1).pdf
+2026-01-28 14:19:08,374 - INFO - Moved: sell MINE.png -> /Users/gw-air/Desktop/DESK_MESS/Images/sell MINE.png
+2026-01-28 14:19:08,374 - INFO - Moved: November2025-QRZ.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/November2025-QRZ.pdf
+2026-01-28 14:19:08,374 - INFO - Moved: irs_110325_03.png -> /Users/gw-air/Desktop/DESK_MESS/Images/irs_110325_03.png
+2026-01-28 14:19:08,375 - INFO - Moved: wsjtx-3.0.0-rc1-Darwin.dmg -> /Users/gw-air/Desktop/DESK_MESS/Archives/wsjtx-3.0.0-rc1-Darwin.dmg
+2026-01-28 14:19:08,375 - INFO - Moved: eStmt_2025-08-20 (1).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-08-20 (1).pdf
+2026-01-28 14:19:08,375 - INFO - Moved: TEMU-00.png -> /Users/gw-air/Desktop/DESK_MESS/Images/TEMU-00.png
+2026-01-28 14:19:08,375 - INFO - Moved: SOTAwatch3.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/SOTAwatch3.webloc
+2026-01-28 14:19:08,375 - INFO - Moved: AJ6RX.tq6 -> /Users/gw-air/Desktop/DESK_MESS/Other/AJ6RX.tq6
+2026-01-28 14:19:08,376 - INFO - Moved: MONEY.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/MONEY.zip
+2026-01-28 14:19:08,376 - INFO - Moved: Since Jul 04, 2025.CSV -> /Users/gw-air/Desktop/DESK_MESS/Documents/Since Jul 04, 2025.CSV
+2026-01-28 14:19:08,376 - INFO - Moved: 2025SiteSatellite.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/2025SiteSatellite.jpg
+2026-01-28 14:19:08,376 - INFO - Moved: ww2_(69) Beer Hall Putsch Anniversary in Munich 1935 Nazi Germany - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/ww2_(69) Beer Hall Putsch Anniversary in Munich 1935 Nazi Germany - YouTube.webloc
+2026-01-28 14:19:08,377 - INFO - Moved: Vanity Callsign Predictions.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Vanity Callsign Predictions.webloc
+2026-01-28 14:19:08,377 - INFO - Moved: WSJT-X & Yaesu FT-891A Settings – KM1NDY.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/WSJT-X & Yaesu FT-891A Settings – KM1NDY.webloc
+2026-01-28 14:19:08,377 - INFO - Moved: LongIslandCWClub@groups.io | Eyeball QSO Party Tomorrow, Monday June 23, 1-00 to 4-00 pm EDT (19-00 to 23-00 UTC).webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/LongIslandCWClub@groups.io | Eyeball QSO Party Tomorrow, Monday June 23, 1-00 to 4-00 pm EDT (19-00 to 23-00 UTC).webloc
+2026-01-28 14:19:08,378 - INFO - Moved: WA7BNM Contest Calendar- 8-Day Calendar.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/WA7BNM Contest Calendar- 8-Day Calendar.webloc
+2026-01-28 14:19:08,378 - INFO - Moved: License Manager - License AJ6RX At A Glance.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/License Manager - License AJ6RX At A Glance.webloc
+2026-01-28 14:19:08,378 - INFO - Moved: websdr_recording_2025-09-18T19_42_19Z_14290.0kHz.wav -> /Users/gw-air/Desktop/DESK_MESS/Audio/websdr_recording_2025-09-18T19_42_19Z_14290.0kHz.wav
+2026-01-28 14:19:08,378 - INFO - Moved: Tennessee QSO Party – TNQP.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Tennessee QSO Party – TNQP.webloc
+2026-01-28 14:19:08,378 - INFO - Moved: W7MBR - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/W7MBR - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:19:08,379 - INFO - Moved: Morse Trainer Pro - Professional Morse Code Training with Morserino-32, Winkeyer and more!.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Morse Trainer Pro - Professional Morse Code Training with Morserino-32, Winkeyer and more!.webloc
+2026-01-28 14:19:08,379 - INFO - Moved: Conditions_of_Use.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Conditions_of_Use.pdf
+2026-01-28 14:19:08,379 - INFO - Moved: INVUS20250715002001568.png -> /Users/gw-air/Desktop/DESK_MESS/Images/INVUS20250715002001568.png
+2026-01-28 14:19:08,379 - INFO - Moved: Solid State Paddle.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Solid State Paddle.webloc
+2026-01-28 14:19:08,379 - INFO - Moved: Tues-Wed_Rincon#072.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Tues-Wed_Rincon#072.png
+2026-01-28 14:19:08,380 - INFO - Moved: ARRL-Groups@groups.arrl.org | Home.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/ARRL-Groups@groups.arrl.org | Home.webloc
+2026-01-28 14:19:08,380 - INFO - Moved: May 05.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/May 05.pdf
+2026-01-28 14:19:08,380 - INFO - Moved: Nova 13.1.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/Nova 13.1.zip
+2026-01-28 14:19:08,380 - INFO - Moved: hai1643914029637.jpeg -> /Users/gw-air/Desktop/DESK_MESS/Images/hai1643914029637.jpeg
+2026-01-28 14:19:08,380 - INFO - Moved: Rancho Summit Park - Google Maps.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Rancho Summit Park - Google Maps.webloc
+2026-01-28 14:19:08,381 - INFO - Moved: 1st dress refund request.png -> /Users/gw-air/Desktop/DESK_MESS/Images/1st dress refund request.png
+2026-01-28 14:19:08,381 - INFO - Moved: NV6T (USA).tq6 -> /Users/gw-air/Desktop/DESK_MESS/Other/NV6T (USA).tq6
+2026-01-28 14:19:08,381 - INFO - Moved: REFERENCE INFO FOR GOTAHAMS MEMBERS-July.5.2025.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/REFERENCE INFO FOR GOTAHAMS MEMBERS-July.5.2025.pdf
+2026-01-28 14:19:08,381 - INFO - Moved: me_Gmail - Receipt for $32.07 payment to Pirate Ship.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/me_Gmail - Receipt for $32.07 payment to Pirate Ship.pdf
+2026-01-28 14:19:08,382 - INFO - Moved: crypto_pze_sell.png -> /Users/gw-air/Desktop/DESK_MESS/Images/crypto_pze_sell.png
+2026-01-28 14:19:08,382 - INFO - Moved: cap1-pay.png -> /Users/gw-air/Desktop/DESK_MESS/Images/cap1-pay.png
+2026-01-28 14:19:08,382 - INFO - Moved: temu_refund-2.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu_refund-2.png
+2026-01-28 14:19:08,383 - INFO - Moved: FEDERALWORKSHEETS_2025-10-19_1760910498211.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/FEDERALWORKSHEETS_2025-10-19_1760910498211.pdf
+2026-01-28 14:19:08,383 - INFO - Moved: GitHub - madpsy:xpa125b_controller- Xiegu XPA125B Yaesu:Serial:Web:MQTT Control Interface.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/GitHub - madpsy:xpa125b_controller- Xiegu XPA125B Yaesu:Serial:Web:MQTT Control Interface.webloc
+2026-01-28 14:19:08,383 - INFO - Moved: Rincon Parkway 043.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Rincon Parkway 043.png
+2026-01-28 14:19:08,384 - INFO - Moved: websdr_recording_2025-08-11T03_55_45Z_7211.0kHz.wav -> /Users/gw-air/Desktop/DESK_MESS/Audio/websdr_recording_2025-08-11T03_55_45Z_7211.0kHz.wav
+2026-01-28 14:19:08,384 - INFO - Moved: WYZE - LuCI.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/WYZE - LuCI.webloc
+2026-01-28 14:19:08,384 - INFO - Moved: L5-SST-QUICK-SHEET-Rev-4.docx -> /Users/gw-air/Desktop/DESK_MESS/Documents/L5-SST-QUICK-SHEET-Rev-4.docx
+2026-01-28 14:19:08,385 - INFO - Moved: Cap1 PYMT 5-5-25.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Cap1 PYMT 5-5-25.png
+2026-01-28 14:19:08,385 - INFO - Moved: Morse Walker.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Morse Walker.webloc
+2026-01-28 14:19:08,385 - INFO - Moved: temu_refund-0.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu_refund-0.png
+2026-01-28 14:19:08,385 - INFO - Moved: big-bear-eagles-01.png -> /Users/gw-air/Desktop/DESK_MESS/Images/big-bear-eagles-01.png
+2026-01-28 14:19:08,386 - INFO - Moved: Thurs-Fri_Rincon#112.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Thurs-Fri_Rincon#112.png
+2026-01-28 14:19:08,386 - INFO - Moved: stmt (1).csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/stmt (1).csv
+2026-01-28 14:19:08,386 - INFO - Moved: How to Practice CW, How to Advance, and Exercise Quick Reference (1).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/How to Practice CW, How to Advance, and Exercise Quick Reference (1).pdf
+2026-01-28 14:19:08,386 - INFO - Moved: FSA - SB NEW Sites SEPT 2025 Hot Lunch 1.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/FSA - SB NEW Sites SEPT 2025 Hot Lunch 1.pdf
+2026-01-28 14:19:08,386 - INFO - Moved: eStmt_2025-03-20.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-03-20.pdf
+2026-01-28 14:19:08,387 - INFO - Created folder: Code
+2026-01-28 14:19:08,387 - INFO - Moved: NewCallSign_things_to_change.yaml -> /Users/gw-air/Desktop/DESK_MESS/Code/NewCallSign_things_to_change.yaml
+2026-01-28 14:19:08,387 - INFO - Moved: fico.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fico.png
+2026-01-28 14:19:08,387 - INFO - Moved: TAXES__2024_FEXT_2025-04-14_102350.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/TAXES__2024_FEXT_2025-04-14_102350.pdf
+2026-01-28 14:19:08,387 - INFO - Moved: bofa_all_2025.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/bofa_all_2025.csv
+2026-01-28 14:19:08,387 - INFO - Moved: HST Mark III - Begali's Web site.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/HST Mark III - Begali's Web site.webloc
+2026-01-28 14:19:08,388 - INFO - Moved: big-bear-eagles-00.png -> /Users/gw-air/Desktop/DESK_MESS/Images/big-bear-eagles-00.png
+2026-01-28 14:19:08,388 - INFO - Moved: temu_refund-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu_refund-1.png
+2026-01-28 14:19:08,388 - INFO - Moved: eStmt_2025-01-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-01-25.pdf
+2026-01-28 14:19:08,388 - INFO - Moved: me_2024_taxes_03.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_2024_taxes_03.png
+2026-01-28 14:19:08,388 - INFO - Moved: Calendar - Long Island CW Club.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Calendar - Long Island CW Club.webloc
+2026-01-28 14:19:08,389 - INFO - Moved: GOTA-01.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/GOTA-01.jpg
+2026-01-28 14:19:08,389 - INFO - Moved: Welcome to LCWO.net - Learn Morse Code (CW) Online! - Learn CW Online.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Welcome to LCWO.net - Learn Morse Code (CW) Online! - Learn CW Online.webloc
+2026-01-28 14:19:08,389 - INFO - Moved: mrtg_pymt.png -> /Users/gw-air/Desktop/DESK_MESS/Images/mrtg_pymt.png
+2026-01-28 14:19:08,389 - INFO - Moved: LongIslandCWClub@groups.io | Topics 2.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/LongIslandCWClub@groups.io | Topics 2.webloc
+2026-01-28 14:19:08,389 - INFO - Moved: NV6T-key-only.p12 -> /Users/gw-air/Desktop/DESK_MESS/Other/NV6T-key-only.p12
+2026-01-28 14:19:08,390 - INFO - Moved: IBM_ESPP_TAX_STATEMENT.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/IBM_ESPP_TAX_STATEMENT.pdf
+2026-01-28 14:19:08,390 - INFO - Moved: temu-1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-1.png
+2026-01-28 14:19:08,390 - INFO - Moved: NV6T (AK).tq6 -> /Users/gw-air/Desktop/DESK_MESS/Other/NV6T (AK).tq6
+2026-01-28 14:19:08,390 - INFO - Moved: California State Park Finder.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/California State Park Finder.webloc
+2026-01-28 14:19:08,390 - INFO - Moved: taxes_FTF_2025-10-19_1760910482083.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/taxes_FTF_2025-10-19_1760910482083.pdf
+2026-01-28 14:19:08,390 - INFO - Moved: How to Practice CW, How to Advance, and Exercise Quick Reference (2).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/How to Practice CW, How to Advance, and Exercise Quick Reference (2).pdf
+2026-01-28 14:19:08,391 - INFO - Moved: myBoy_SundayMorning.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/myBoy_SundayMorning.jpg
+2026-01-28 14:19:08,391 - INFO - Moved: Curate your shell history – Benjamin Esham.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Curate your shell history – Benjamin Esham.webloc
+2026-01-28 14:19:08,391 - INFO - Moved: 11625 Brindisi Way to 1440 Camper View Rd, La Verne, CA 91750 - Google Maps.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/11625 Brindisi Way to 1440 Camper View Rd, La Verne, CA 91750 - Google Maps.webloc
+2026-01-28 14:19:08,391 - INFO - Moved: eStmt_2025-04-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-04-25.pdf
+2026-01-28 14:19:08,391 - INFO - Moved: cat-house-pics-ORG.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/cat-house-pics-ORG.zip
+2026-01-28 14:19:08,392 - INFO - Moved: Since Jul 04, 2025 (1).numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/Since Jul 04, 2025 (1).numbers
+2026-01-28 14:19:08,392 - INFO - Moved: 502697518_2511717059162550_5583384834876347410_n.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/502697518_2511717059162550_5583384834876347410_n.jpg
+2026-01-28 14:19:08,392 - INFO - Moved: radiodan-w7rf | eBay Stores 2.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/radiodan-w7rf | eBay Stores 2.webloc
+2026-01-28 14:19:08,392 - INFO - Moved: W8GG - Callsign Lookup by QRZ Ham Radio.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/W8GG - Callsign Lookup by QRZ Ham Radio.webloc
+2026-01-28 14:19:08,392 - INFO - Moved: WRTC-2026-competition-rules-final.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/WRTC-2026-competition-rules-final.pdf
+2026-01-28 14:19:08,392 - INFO - Moved: bofa-2025.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/bofa-2025.numbers
+2026-01-28 14:19:08,393 - INFO - Moved: PXL_20250702_230127795.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/PXL_20250702_230127795.jpg
+2026-01-28 14:19:08,393 - INFO - Moved: From 2025-01-01T09_00_00 To 2025-09-07T09_00_00.CSV -> /Users/gw-air/Desktop/DESK_MESS/Documents/From 2025-01-01T09_00_00 To 2025-09-07T09_00_00.CSV
+2026-01-28 14:19:08,394 - INFO - Moved: MORSE CODE.png -> /Users/gw-air/Desktop/DESK_MESS/Images/MORSE CODE.png
+2026-01-28 14:19:08,394 - INFO - Moved: Withdrawal (1).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Withdrawal (1).pdf
+2026-01-28 14:19:08,394 - INFO - Moved: VBand - Ham Radio Solutions 2.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/VBand - Ham Radio Solutions 2.webloc
+2026-01-28 14:19:08,394 - INFO - Moved: hfs2.png -> /Users/gw-air/Desktop/DESK_MESS/Images/hfs2.png
+2026-01-28 14:19:08,394 - INFO - Moved: eStmt_2025-08-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-08-25.pdf
+2026-01-28 14:19:08,395 - INFO - Moved: (10) Quora.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(10) Quora.webloc
+2026-01-28 14:19:08,395 - INFO - Moved: me_2024_taxes_02.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_2024_taxes_02.png
+2026-01-28 14:19:08,395 - INFO - Moved: scruf_Invoice_Wallace, Greg_1232019_134722.PDF -> /Users/gw-air/Desktop/DESK_MESS/Documents/scruf_Invoice_Wallace, Greg_1232019_134722.PDF
+2026-01-28 14:19:08,395 - INFO - Moved: GOTA-02.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/GOTA-02.jpg
+2026-01-28 14:19:08,395 - INFO - Moved: Tinkercad.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Tinkercad.webloc
+2026-01-28 14:19:08,396 - INFO - Moved: IDC_2024131020-02_2.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/IDC_2024131020-02_2.pdf
+2026-01-28 14:19:08,396 - INFO - Moved: wsjtx-2.7.0-Darwin.dmg -> /Users/gw-air/Desktop/DESK_MESS/Archives/wsjtx-2.7.0-Darwin.dmg
+2026-01-28 14:19:08,396 - INFO - Moved: IMG_2534.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/IMG_2534.jpg
+2026-01-28 14:19:08,396 - INFO - Moved: 2025-08-01 Goat Notes.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2025-08-01 Goat Notes.pdf
+2026-01-28 14:19:08,396 - INFO - Moved: temu-2.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-2.png
+2026-01-28 14:19:08,396 - INFO - Created folder: Videos
+2026-01-28 14:19:08,397 - INFO - Moved: me_AAA_show_20190615_132052.mp4 -> /Users/gw-air/Desktop/DESK_MESS/Videos/me_AAA_show_20190615_132052.mp4
+2026-01-28 14:19:08,397 - INFO - Moved: websdr_recording_2025-08-11T03_38_22Z_7211.0kHz.wav -> /Users/gw-air/Desktop/DESK_MESS/Audio/websdr_recording_2025-08-11T03_38_22Z_7211.0kHz.wav
+2026-01-28 14:19:08,397 - INFO - Moved: 1739790742771.jpeg -> /Users/gw-air/Desktop/DESK_MESS/Images/1739790742771.jpeg
+2026-01-28 14:19:08,397 - INFO - Moved: 2025 Alabama QSO Party - GigaParts.xlsx -> /Users/gw-air/Desktop/DESK_MESS/Documents/2025 Alabama QSO Party - GigaParts.xlsx
+2026-01-28 14:19:08,397 - INFO - Moved: temu-3.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu-3.png
+2026-01-28 14:19:08,397 - INFO - Moved: CoH_090425_radiology.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/CoH_090425_radiology.pdf
+2026-01-28 14:19:08,398 - INFO - Moved: Your Orders.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/Your Orders.zip
+2026-01-28 14:19:08,398 - INFO - Moved: Statement closed Jun 04, 2025.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/Statement closed Jun 04, 2025.numbers
+2026-01-28 14:19:08,398 - INFO - Moved: SkookumLoggerRelease.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/SkookumLoggerRelease.zip
+2026-01-28 14:19:08,398 - INFO - Moved: GOTA-03.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/GOTA-03.jpg
+2026-01-28 14:19:08,398 - INFO - Moved: Schurr Einbau-Wabbler 2.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Schurr Einbau-Wabbler 2.webloc
+2026-01-28 14:19:08,398 - INFO - Moved: quote.png -> /Users/gw-air/Desktop/DESK_MESS/Images/quote.png
+2026-01-28 14:19:08,399 - INFO - Moved: INSURANCE-RV-ID Card.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/INSURANCE-RV-ID Card.pdf
+2026-01-28 14:19:08,399 - INFO - Moved: Got an itch to try a Cootie Key? | W1SFR Handmade Torsion Bar Morse Code Keys.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Got an itch to try a Cootie Key? | W1SFR Handmade Torsion Bar Morse Code Keys.webloc
+2026-01-28 14:19:08,399 - INFO - Moved: hfs1.png -> /Users/gw-air/Desktop/DESK_MESS/Images/hfs1.png
+2026-01-28 14:19:08,399 - INFO - Moved: CC_PYMT_19Jul25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/CC_PYMT_19Jul25.pdf
+2026-01-28 14:19:08,399 - INFO - Moved: cat-house-pics-EDITS.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/cat-house-pics-EDITS.zip
+2026-01-28 14:19:08,399 - INFO - Moved: me_2024_taxes_01.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_2024_taxes_01.png
+2026-01-28 14:19:08,400 - INFO - Moved: W6JIM-Protocol_EZ-to-Edit-July-2025.docx -> /Users/gw-air/Desktop/DESK_MESS/Documents/W6JIM-Protocol_EZ-to-Edit-July-2025.docx
+2026-01-28 14:19:08,400 - INFO - Moved: SKCC Presentation.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/SKCC Presentation.pdf
+2026-01-28 14:19:08,400 - INFO - Moved: K4A - America250 Special Event Announcement | QRZ Forums.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/K4A - America250 Special Event Announcement | QRZ Forums.webloc
+2026-01-28 14:19:08,400 - INFO - Moved: me_2024_taxes_05.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_2024_taxes_05.png
+2026-01-28 14:19:08,400 - INFO - Moved: Re_ Ongoing issues with KX3 and Linux.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Re_ Ongoing issues with KX3 and Linux.pdf
+2026-01-28 14:19:08,400 - INFO - Moved: IRS-PYMT-01_110525.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/IRS-PYMT-01_110525.pdf
+2026-01-28 14:19:08,401 - INFO - Moved: Rincon Parkway 077.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Rincon Parkway 077.png
+2026-01-28 14:19:08,401 - INFO - Moved: Istruzione-HLA305-Diss-Nero-rel-1.02-Europa.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Istruzione-HLA305-Diss-Nero-rel-1.02-Europa.pdf
+2026-01-28 14:19:08,401 - INFO - Moved: Morse Code Ninja Flow Charts - Long Island CW Club.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Morse Code Ninja Flow Charts - Long Island CW Club.webloc
+2026-01-28 14:19:08,401 - INFO - Moved: Sr. Cloud DevOps Engineer - - 25124 - UCLA Health.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Sr. Cloud DevOps Engineer - - 25124 - UCLA Health.webloc
+2026-01-28 14:19:08,401 - INFO - Moved: bofa_all_2025.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/bofa_all_2025.numbers
+2026-01-28 14:19:08,401 - INFO - Moved: TWO−LETTER STATE AND TERRITORY ABBREVIATIONS.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/TWO−LETTER STATE AND TERRITORY ABBREVIATIONS.webloc
+2026-01-28 14:19:08,402 - INFO - Moved: 2018.png -> /Users/gw-air/Desktop/DESK_MESS/Images/2018.png
+2026-01-28 14:19:08,402 - INFO - Moved: me_loose weight.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_loose weight.png
+2026-01-28 14:19:08,402 - INFO - Created folder: Executables
+2026-01-28 14:19:08,402 - INFO - Moved: pcyyb_cn.com.pansky.sxzgyl_10000_installer.exe -> /Users/gw-air/Desktop/DESK_MESS/Executables/pcyyb_cn.com.pansky.sxzgyl_10000_installer.exe
+2026-01-28 14:19:08,402 - INFO - Moved: fontana.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fontana.png
+2026-01-28 14:19:08,403 - INFO - Moved: fullPORT_091225.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fullPORT_091225.png
+2026-01-28 14:19:08,403 - INFO - Moved: stmt.txt -> /Users/gw-air/Desktop/DESK_MESS/Documents/stmt.txt
+2026-01-28 14:19:08,403 - INFO - Moved: tqsl-latest.pkg -> /Users/gw-air/Desktop/DESK_MESS/Other/tqsl-latest.pkg
+2026-01-28 14:19:08,403 - INFO - Moved: CallSign-Applications.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/CallSign-Applications.md
+2026-01-28 14:19:08,403 - INFO - Moved: (833) A Fun & New Way to Learn Morse Code - LICW Presentation to Dayton Hamvention - 2024 - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(833) A Fun & New Way to Learn Morse Code - LICW Presentation to Dayton Hamvention - 2024 - YouTube.webloc
+2026-01-28 14:19:08,403 - INFO - Moved: a_amat.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/a_amat.zip
+2026-01-28 14:19:08,403 - INFO - Moved: SycamoreCanyon_campground.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/SycamoreCanyon_campground.pdf
+2026-01-28 14:19:08,404 - INFO - Moved: money.png -> /Users/gw-air/Desktop/DESK_MESS/Images/money.png
+2026-01-28 14:19:08,404 - INFO - Moved: portfolio_export_20250904_102144.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/portfolio_export_20250904_102144.csv
+2026-01-28 14:19:08,404 - INFO - Moved: f29fbf76-a113-4dca-bcc5-9d4547dc9f75.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/f29fbf76-a113-4dca-bcc5-9d4547dc9f75.pdf
+2026-01-28 14:19:08,404 - INFO - Moved: italkBB-2.png -> /Users/gw-air/Desktop/DESK_MESS/Images/italkBB-2.png
+2026-01-28 14:19:08,404 - INFO - Moved: bingo_scanner_app.html -> /Users/gw-air/Desktop/DESK_MESS/Code/bingo_scanner_app.html
+2026-01-28 14:19:08,404 - INFO - Moved: Candlestick Point State Recreation Area.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Candlestick Point State Recreation Area.webloc
+2026-01-28 14:19:08,405 - INFO - Moved: mei_marvin-2025.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/mei_marvin-2025.jpg
+2026-01-28 14:19:08,405 - INFO - Moved: me_2024_taxes_04.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_2024_taxes_04.png
+2026-01-28 14:19:08,405 - INFO - Moved: eStmt_2025-06-18.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-06-18.pdf
+2026-01-28 14:19:08,405 - INFO - Moved: holycluster-settings.json -> /Users/gw-air/Desktop/DESK_MESS/Code/holycluster-settings.json
+2026-01-28 14:19:08,405 - INFO - Moved: me_2024_taxes_06.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_2024_taxes_06.png
+2026-01-28 14:19:08,406 - INFO - Moved: Salsa-RCH.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Salsa-RCH.pdf
+2026-01-28 14:19:08,406 - INFO - Moved: (1377) Jackie, Shadow and their neighbors 25.09.2025 @FOBBVCAM - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(1377) Jackie, Shadow and their neighbors 25.09.2025 @FOBBVCAM - YouTube.webloc
+2026-01-28 14:19:08,406 - INFO - Moved: How The Military Taught Me to Make Fire in the Rain! - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/How The Military Taught Me to Make Fire in the Rain! - YouTube.webloc
+2026-01-28 14:19:08,406 - INFO - Moved: 4_37-2025 W1AW Sked.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/4_37-2025 W1AW Sked.pdf
+2026-01-28 14:19:08,406 - INFO - Moved: me_Edge7.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/me_Edge7.zip
+2026-01-28 14:19:08,406 - INFO - Moved: GOTA-04.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/GOTA-04.jpg
+2026-01-28 14:19:08,407 - INFO - Moved: Simplex - Begali's Web site.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Simplex - Begali's Web site.webloc
+2026-01-28 14:19:08,407 - INFO - Moved: BigBear Eagle Plight.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/BigBear Eagle Plight.md
+2026-01-28 14:19:08,407 - INFO - Moved: (106) How To Learn Morse Code with Learn CW Online (LCWO) - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(106) How To Learn Morse Code with Learn CW Online (LCWO) - YouTube.webloc
+2026-01-28 14:19:08,407 - INFO - Moved: wwdigi25_eng.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/wwdigi25_eng.pdf
+2026-01-28 14:19:08,407 - INFO - Moved: eStmt_2025-04-21.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-04-21.pdf
+2026-01-28 14:19:08,408 - INFO - Moved: italkBB.png -> /Users/gw-air/Desktop/DESK_MESS/Images/italkBB.png
+2026-01-28 14:19:08,408 - INFO - Moved: U17108 Never Used Bencher BY-2 Iambic Paddle Keyer with cable - Main Trading Company.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/U17108 Never Used Bencher BY-2 Iambic Paddle Keyer with cable - Main Trading Company.webloc
+2026-01-28 14:19:08,408 - INFO - Moved: Invoice202507048202200760260721.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Invoice202507048202200760260721.pdf
+2026-01-28 14:19:08,408 - INFO - Moved: FCC#0011605616_APPLICATION_2025-06-20_154574276212025153955.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/FCC#0011605616_APPLICATION_2025-06-20_154574276212025153955.pdf
+2026-01-28 14:19:08,408 - INFO - Moved: crypto_amd_sell.png -> /Users/gw-air/Desktop/DESK_MESS/Images/crypto_amd_sell.png
+2026-01-28 14:19:08,408 - INFO - Moved: think.png -> /Users/gw-air/Desktop/DESK_MESS/Images/think.png
+2026-01-28 14:19:08,409 - INFO - Moved: KFS WebSDR #1.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/KFS WebSDR #1.webloc
+2026-01-28 14:19:08,409 - INFO - Moved: eStmt_2025-06-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-06-25.pdf
+2026-01-28 14:19:08,409 - INFO - Moved: eStmt_2025-08-20.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-08-20.pdf
+2026-01-28 14:19:08,409 - INFO - Moved: Kx32 Ultimate Heatsink Kit for the Elecraft™ KX3 - Pro Audio Engineering.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Kx32 Ultimate Heatsink Kit for the Elecraft™ KX3 - Pro Audio Engineering.webloc
+2026-01-28 14:19:08,409 - INFO - Moved: Logging Software on MacOS? - r:amateurradio.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Logging Software on MacOS? - r:amateurradio.webloc
+2026-01-28 14:19:08,410 - INFO - Moved: hamalert-pretty.json -> /Users/gw-air/Desktop/DESK_MESS/Code/hamalert-pretty.json
+2026-01-28 14:19:08,410 - INFO - Moved: wsjtx_log copy.adi -> /Users/gw-air/Desktop/DESK_MESS/Other/wsjtx_log copy.adi
+2026-01-28 14:19:08,410 - INFO - Moved: fidelity_110325_01.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_01.png
+2026-01-28 14:19:08,410 - INFO - Moved: Rincon Parkway 012.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Rincon Parkway 012.png
+2026-01-28 14:19:08,411 - INFO - Moved: openSPOT4 [openspot4].webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/openSPOT4 [openspot4].webloc
+2026-01-28 14:19:08,411 - INFO - Moved: cry.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/cry.zip
+2026-01-28 14:19:08,411 - INFO - Moved: From 2025-01-01T09_00_00 To 2025-09-07T09_00_00.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/From 2025-01-01T09_00_00 To 2025-09-07T09_00_00.numbers
+2026-01-28 14:19:08,411 - INFO - Moved: Mini-Yack2d.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Mini-Yack2d.pdf
+2026-01-28 14:19:08,411 - INFO - Moved: morse-practice-page.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/morse-practice-page.zip
+2026-01-28 14:19:08,411 - INFO - Moved: WSJT-X Release candidate 3.0.0-rc1 now available. – Mac Ham Radio.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/WSJT-X Release candidate 3.0.0-rc1 now available. – Mac Ham Radio.webloc
+2026-01-28 14:19:08,412 - INFO - Moved: Sr. Cloud DevOps Engineer - UCLA Health Careers - Job #25038 - Los Angeles, CA.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Sr. Cloud DevOps Engineer - UCLA Health Careers - Job #25038 - Los Angeles, CA.webloc
+2026-01-28 14:19:08,412 - INFO - Moved: Open-Practice-Sessions.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Open-Practice-Sessions.pdf
+2026-01-28 14:19:08,412 - INFO - Moved: bands.png -> /Users/gw-air/Desktop/DESK_MESS/Images/bands.png
+2026-01-28 14:19:08,412 - INFO - Moved: Reliance Antennas | eBay Stores.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Reliance Antennas | eBay Stores.webloc
+2026-01-28 14:19:08,412 - INFO - Moved: N3ZN Keys | ZN-9RZ.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/N3ZN Keys | ZN-9RZ.webloc
+2026-01-28 14:19:08,412 - INFO - Moved: INSurance-id-card.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/INSurance-id-card.pdf
+2026-01-28 14:19:08,413 - INFO - Moved: LoTW-Submitting-QSOs-MacOS-OS_X (1).pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/LoTW-Submitting-QSOs-MacOS-OS_X (1).pdf
+2026-01-28 14:19:08,413 - INFO - Moved: Replacement Filters.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Replacement Filters.webloc
+2026-01-28 14:19:08,413 - INFO - Moved: fidelity_110325_00.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_00.png
+2026-01-28 14:19:08,413 - INFO - Moved: STPF_2025-10-19_1760910621450.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/STPF_2025-10-19_1760910621450.pdf
+2026-01-28 14:19:08,413 - INFO - Moved: brokenParts.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/brokenParts.jpg
+2026-01-28 14:19:08,414 - INFO - Moved: temu_big_order.png -> /Users/gw-air/Desktop/DESK_MESS/Images/temu_big_order.png
+2026-01-28 14:19:08,414 - INFO - Moved: Mon-to-Tues - spot #11.png -> /Users/gw-air/Desktop/DESK_MESS/Images/Mon-to-Tues - spot #11.png
+2026-01-28 14:19:08,414 - INFO - Moved: BillingDetail_7381825_20250823193558.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/BillingDetail_7381825_20250823193558.pdf
+2026-01-28 14:19:08,414 - INFO - Moved: SKCCLoggerSigned.pkg -> /Users/gw-air/Desktop/DESK_MESS/Other/SKCCLoggerSigned.pkg
+2026-01-28 14:19:08,414 - INFO - Moved: eStmt_2025-02-25.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-02-25.pdf
+2026-01-28 14:19:08,414 - INFO - Moved: SHEIN-return-label.png -> /Users/gw-air/Desktop/DESK_MESS/Images/SHEIN-return-label.png
+2026-01-28 14:19:08,415 - INFO - Moved: fidelity_110325_02.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_02.png
+2026-01-28 14:19:08,415 - INFO - Moved: eStmt_2025-02-19.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/eStmt_2025-02-19.pdf
+2026-01-28 14:19:08,415 - INFO - Moved: Deep Intel on Qatar Basing F-15s in Idaho - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Deep Intel on Qatar Basing F-15s in Idaho - YouTube.webloc
+2026-01-28 14:19:08,415 - INFO - Moved: FieldDay - CLASS.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/FieldDay - CLASS.md
+2026-01-28 14:19:08,415 - INFO - Moved: websdr_recording_2025-08-11T03_39_32Z_7211.0kHz.wav -> /Users/gw-air/Desktop/DESK_MESS/Audio/websdr_recording_2025-08-11T03_39_32Z_7211.0kHz.wav
+2026-01-28 14:19:08,415 - INFO - Moved: Portfolio_Positions_Nov-03-2025.csv -> /Users/gw-air/Desktop/DESK_MESS/Documents/Portfolio_Positions_Nov-03-2025.csv
+2026-01-28 14:19:08,416 - INFO - Moved: TP-III_Bedienanleitung_ENG_2022.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/TP-III_Bedienanleitung_ENG_2022.pdf
+2026-01-28 14:19:08,416 - INFO - Moved: tqsl-2.8.1.pkg -> /Users/gw-air/Desktop/DESK_MESS/Other/tqsl-2.8.1.pkg
+2026-01-28 14:19:08,416 - INFO - Moved: Vanity predictions for target call K6FM.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Vanity predictions for target call K6FM.webloc
+2026-01-28 14:19:08,416 - INFO - Moved: 1730900924000-416bbe973a8543d688f049599c1b66b3-guideFile.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/1730900924000-416bbe973a8543d688f049599c1b66b3-guideFile.pdf
+2026-01-28 14:19:08,416 - INFO - Moved: Point Mugu State Park.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Point Mugu State Park.pdf
+2026-01-28 14:19:08,416 - INFO - Moved: L4-POTA-QUICK-SHEET-Rev-2a.docx -> /Users/gw-air/Desktop/DESK_MESS/Documents/L4-POTA-QUICK-SHEET-Rev-2a.docx
+2026-01-28 14:19:08,417 - INFO - Moved: 2024_CA_RETURN_2025-10-19_060146.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_CA_RETURN_2025-10-19_060146.pdf
+2026-01-28 14:19:08,417 - INFO - Moved: Archive.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/Archive.zip
+2026-01-28 14:19:08,417 - INFO - Moved: LICW QSO Protocol - K7DRQ.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/LICW QSO Protocol - K7DRQ.webloc
+2026-01-28 14:19:08,417 - INFO - Moved: TEMU_Cat_house_Request a return.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/TEMU_Cat_house_Request a return.webloc
+2026-01-28 14:19:08,417 - INFO - Moved: NV6T.tq5 -> /Users/gw-air/Desktop/DESK_MESS/Other/NV6T.tq5
+2026-01-28 14:19:08,417 - INFO - Moved: Since Jul 04, 2025 (1).CSV -> /Users/gw-air/Desktop/DESK_MESS/Documents/Since Jul 04, 2025 (1).CSV
+2026-01-28 14:19:08,418 - INFO - Moved: RM Italy HLA 300V Plus Professional Linear Amplifier With Fans (1.8-30MHz).webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/RM Italy HLA 300V Plus Professional Linear Amplifier With Fans (1.8-30MHz).webloc
+2026-01-28 14:19:08,418 - INFO - Moved: SKCC - Operating Frequencies.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/SKCC - Operating Frequencies.webloc
+2026-01-28 14:19:08,418 - INFO - Moved: Danish Days 2025 - Visit Solvang, CA.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Danish Days 2025 - Visit Solvang, CA.webloc
+2026-01-28 14:19:08,418 - INFO - Moved: fidelity_110325_03.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_03.png
+2026-01-28 14:19:08,418 - INFO - Moved: me_how-to-apply.png -> /Users/gw-air/Desktop/DESK_MESS/Images/me_how-to-apply.png
+2026-01-28 14:19:08,418 - INFO - Moved: HTML Color Picker- #0e773a.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/HTML Color Picker- #0e773a.webloc
+2026-01-28 14:19:08,419 - INFO - Moved: (414) Berlin School Journeys – Selected Works (2h20m liveset compilation) - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(414) Berlin School Journeys – Selected Works (2h20m liveset compilation) - YouTube.webloc
+2026-01-28 14:19:08,419 - INFO - Moved: 72a5b2cb9c5d8be6313a9b0e385bfb7a.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/72a5b2cb9c5d8be6313a9b0e385bfb7a.pdf
+2026-01-28 14:19:08,419 - INFO - Moved: OrderSummary202507048202200760260721.png -> /Users/gw-air/Desktop/DESK_MESS/Images/OrderSummary202507048202200760260721.png
+2026-01-28 14:19:08,419 - INFO - Moved: L3-WES-Protocol-Table-Calling-or-Answering-CQ.docx -> /Users/gw-air/Desktop/DESK_MESS/Documents/L3-WES-Protocol-Table-Calling-or-Answering-CQ.docx
+2026-01-28 14:19:08,419 - INFO - Moved: specSheet.png -> /Users/gw-air/Desktop/DESK_MESS/Images/specSheet.png
+2026-01-28 14:19:08,419 - INFO - Moved: March 05.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/March 05.pdf
+2026-01-28 14:19:08,420 - INFO - Moved: shirts.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/shirts.pdf
+2026-01-28 14:19:08,420 - INFO - Moved: wsjtx-3.0.0_improved_AL_PLUS_250915-RC1_Darwin.dmg -> /Users/gw-air/Desktop/DESK_MESS/Archives/wsjtx-3.0.0_improved_AL_PLUS_250915-RC1_Darwin.dmg
+2026-01-28 14:19:08,420 - INFO - Moved: fidelity_110325_07.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_07.png
+2026-01-28 14:19:08,420 - INFO - Moved: UR5CDX.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/UR5CDX.webloc
+2026-01-28 14:19:08,420 - INFO - Moved: LoTW-Submitting-QSOs-MacOS-OS_X.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/LoTW-Submitting-QSOs-MacOS-OS_X.pdf
+2026-01-28 14:19:08,421 - INFO - Moved: large indoor:outdoor wooden cat cage heavy duty construction - Temu.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/large indoor:outdoor wooden cat cage heavy duty construction - Temu.webloc
+2026-01-28 14:19:08,421 - INFO - Moved: 505293219_2511716525829270_7032877395559192553_n.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/505293219_2511716525829270_7032877395559192553_n.jpg
+2026-01-28 14:19:08,421 - INFO - Moved: baby_sugar-2.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/baby_sugar-2.jpg
+2026-01-28 14:19:08,421 - INFO - Moved: strike-yt.png -> /Users/gw-air/Desktop/DESK_MESS/Images/strike-yt.png
+2026-01-28 14:19:08,421 - INFO - Moved: pymt.png -> /Users/gw-air/Desktop/DESK_MESS/Images/pymt.png
+2026-01-28 14:19:08,429 - INFO - Moved: Accounts.20251019_163613.CSV -> /Users/gw-air/Desktop/DESK_MESS/Documents/Accounts.20251019_163613.CSV
+2026-01-28 14:19:08,430 - INFO - Moved: (339) Lesson 1a - Letter T - Introduction - YouTube.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/(339) Lesson 1a - Letter T - Introduction - YouTube.webloc
+2026-01-28 14:19:08,430 - INFO - Moved: INVUS20250715002011314.png -> /Users/gw-air/Desktop/DESK_MESS/Images/INVUS20250715002011314.png
+2026-01-28 14:19:08,430 - INFO - Moved: Photos-1-001.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/Photos-1-001.zip
+2026-01-28 14:19:08,430 - INFO - Moved: LongIslandCWClub@groups.io | Topics.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/LongIslandCWClub@groups.io | Topics.webloc
+2026-01-28 14:19:08,430 - INFO - Moved: YearEndSummary_2025.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/YearEndSummary_2025.pdf
+2026-01-28 14:19:08,432 - INFO - Moved: wow.png -> /Users/gw-air/Desktop/DESK_MESS/Images/wow.png
+2026-01-28 14:19:08,433 - INFO - Moved: Mac Ham Radio – Mac Ham Radio — Devoted to Amateur Radio Operators Using Apple MacOS and IOS.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Mac Ham Radio – Mac Ham Radio — Devoted to Amateur Radio Operators Using Apple MacOS and IOS.webloc
+2026-01-28 14:19:08,433 - INFO - Moved: IMG_1354_jpeg.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/IMG_1354_jpeg.jpg
+2026-01-28 14:19:08,433 - INFO - Moved: Statement6302025.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Statement6302025.pdf
+2026-01-28 14:19:08,433 - INFO - Moved: Submitting scores to 3830scores.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Submitting scores to 3830scores.pdf
+2026-01-28 14:19:08,433 - INFO - Moved: OSX-Command.png -> /Users/gw-air/Desktop/DESK_MESS/Images/OSX-Command.png
+2026-01-28 14:19:08,434 - INFO - Moved: TBCP Torsion Bar Cootie:Paddle Version 4 | W1SFR Handmade Torsion Bar Morse Code Keys.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/TBCP Torsion Bar Cootie:Paddle Version 4 | W1SFR Handmade Torsion Bar Morse Code Keys.webloc
+2026-01-28 14:19:08,434 - INFO - Moved: Accounts.20251019_163613.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/Accounts.20251019_163613.numbers
+2026-01-28 14:19:08,434 - INFO - Moved: fidelity_110325_06.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_06.png
+2026-01-28 14:19:08,434 - INFO - Moved: QSL_Info_Print_V5.0.zip -> /Users/gw-air/Desktop/DESK_MESS/Archives/QSL_Info_Print_V5.0.zip
+2026-01-28 14:19:08,434 - INFO - Moved: us-2005.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/us-2005.jpg
+2026-01-28 14:19:08,434 - INFO - Moved: A Homebrew Cootie Key – Sideswiper – The Richardson Wireless Klub.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/A Homebrew Cootie Key – Sideswiper – The Richardson Wireless Klub.webloc
+2026-01-28 14:19:08,435 - INFO - Moved: VBand - Ham Radio Solutions.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/VBand - Ham Radio Solutions.webloc
+2026-01-28 14:19:08,435 - INFO - Moved: January 03.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/January 03.pdf
+2026-01-28 14:19:08,435 - INFO - Moved: NV6T (USA).p12 -> /Users/gw-air/Desktop/DESK_MESS/Other/NV6T (USA).p12
+2026-01-28 14:19:08,435 - INFO - Moved: 970ee5e42e1b2f24fd8028bd50317d9c.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/970ee5e42e1b2f24fd8028bd50317d9c.pdf
+2026-01-28 14:19:08,435 - INFO - Moved: Class Greetings, Links, and Recommended Classes.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Class Greetings, Links, and Recommended Classes.pdf
+2026-01-28 14:19:08,436 - INFO - Moved: fidelity_110325_04.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_04.png
+2026-01-28 14:19:08,436 - INFO - Moved: Sparrow-2.1.3-aarch64.dmg -> /Users/gw-air/Desktop/DESK_MESS/Archives/Sparrow-2.1.3-aarch64.dmg
+2026-01-28 14:19:08,436 - INFO - Moved: 2024_FEDERALWORKSHEETS_2025-10-19_060151.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/2024_FEDERALWORKSHEETS_2025-10-19_060151.pdf
+2026-01-28 14:19:08,436 - INFO - Moved: Python Investment Portfolio Tracker - Claude.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Python Investment Portfolio Tracker - Claude.webloc
+2026-01-28 14:19:08,436 - INFO - Moved: Ham Radio - QRP- Learn Morse Code.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Ham Radio - QRP- Learn Morse Code.webloc
+2026-01-28 14:19:08,437 - INFO - Moved: OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup.webloc
+2026-01-28 14:19:08,437 - INFO - Moved: FieldDay - CLASS copy.md -> /Users/gw-air/Desktop/DESK_MESS/Documents/FieldDay - CLASS copy.md
+2026-01-28 14:19:08,437 - INFO - Moved: April 03.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/April 03.pdf
+2026-01-28 14:19:08,437 - INFO - Moved: baby_sugar-1.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/baby_sugar-1.jpg
+2026-01-28 14:19:08,437 - INFO - Moved: Home Page - Ham365.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/Home Page - Ham365.webloc
+2026-01-28 14:19:08,437 - INFO - Moved: wsjtx-3.0.0-rc1.tgz -> /Users/gw-air/Desktop/DESK_MESS/Other/wsjtx-3.0.0-rc1.tgz
+2026-01-28 14:19:08,438 - INFO - Moved: POTA.rlog -> /Users/gw-air/Desktop/DESK_MESS/Other/POTA.rlog
+2026-01-28 14:19:08,438 - INFO - Moved: bingo-dab.png -> /Users/gw-air/Desktop/DESK_MESS/Images/bingo-dab.png
+2026-01-28 14:19:08,438 - INFO - Moved: CoH-090425_Scans.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/CoH-090425_Scans.pdf
+2026-01-28 14:19:08,438 - INFO - Moved: The Buddipole™ - HF portable dipole antenna system.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/The Buddipole™ - HF portable dipole antenna system.webloc
+2026-01-28 14:19:08,438 - INFO - Moved: hamalert.json -> /Users/gw-air/Desktop/DESK_MESS/Code/hamalert.json
+2026-01-28 14:19:08,438 - INFO - Moved: myIRA.numbers -> /Users/gw-air/Desktop/DESK_MESS/Documents/myIRA.numbers
+2026-01-28 14:19:08,439 - INFO - Moved: Joy Of Operating- Notes.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/Joy Of Operating- Notes.pdf
+2026-01-28 14:19:08,439 - INFO - Moved: PXL_20250720_021135175.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/PXL_20250720_021135175.jpg
+2026-01-28 14:19:08,439 - INFO - Moved: PXL_20250702_230038823.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/PXL_20250702_230038823.jpg
+2026-01-28 14:19:08,439 - INFO - Moved: callsign-change — Logbook of the World (LoTW) Help Pages.webloc -> /Users/gw-air/Desktop/DESK_MESS/Shortcuts/callsign-change — Logbook of the World (LoTW) Help Pages.webloc
+2026-01-28 14:19:08,439 - INFO - Moved: fidelity_110325_05.png -> /Users/gw-air/Desktop/DESK_MESS/Images/fidelity_110325_05.png
+2026-01-28 14:19:08,440 - INFO - Moved: 513911015_708074618644511_510440007796120357_n.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/513911015_708074618644511_510440007796120357_n.jpg
+2026-01-28 14:19:08,440 - INFO - Moved: scruf_and_molica_465249720_10162343663250452_5905320158808272251_n.jpg -> /Users/gw-air/Desktop/DESK_MESS/Images/scruf_and_molica_465249720_10162343663250452_5905320158808272251_n.jpg
+2026-01-28 14:19:08,440 - INFO - Moved: FSA - SB NEW Sites AUG 2025 Hot Lunch 1.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/FSA - SB NEW Sites AUG 2025 Hot Lunch 1.pdf
+2026-01-28 14:19:08,440 - INFO - Moved: june-02-2025-visit-3.pdf -> /Users/gw-air/Desktop/DESK_MESS/Documents/june-02-2025-visit-3.pdf
+2026-01-28 14:19:08,440 - INFO - Moved: TEMU_PRODUCT.png -> /Users/gw-air/Desktop/DESK_MESS/Images/TEMU_PRODUCT.png
+2026-01-28 14:19:08,440 - INFO - 
+============================================================
+2026-01-28 14:19:08,440 - INFO - Organization complete!
+2026-01-28 14:19:08,440 - INFO - ============================================================
+2026-01-28 14:19:08,440 - INFO - Files processed: 512
+2026-01-28 14:19:08,440 - INFO - Files moved: 512
+2026-01-28 14:19:08,441 - INFO - Screenshots renamed: 62
+2026-01-28 14:19:08,441 - INFO - Folders created: 9
+2026-01-28 14:19:08,441 - INFO - Errors: 0
